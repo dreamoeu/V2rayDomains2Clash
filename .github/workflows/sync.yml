@@ -25,14 +25,14 @@ jobs:
       uses: actions/checkout@v2
     
     - name: Update upstream domains
-      working-directory: ./domain-list-community
+      working-directory: ${{ GITHUB_WORKSPACE }}/domain-list-community
       run: |
         git remote add upstream https://github.com/v2ray/domain-list-community.git
         git fetch upstream
         git checkout upstream/master
 
     - name: Generate
-      working-directory: ./
+      working-directory: ${{ GITHUB_WORKSPACE }}
       run: go run main.go
     
     - name: Push changes
