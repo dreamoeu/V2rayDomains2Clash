@@ -31,6 +31,10 @@ jobs:
         git fetch upstream
         git checkout upstream/master
 
+    - name: Get dependencies
+      run: |
+        go get ./...
+
     - name: Generate
       run: go run main.go
     
