@@ -1,5 +1,5 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/gitv
 
 payload:
-  - "+.gitv.tv"
   - "+.gitv.cn"
+  - "+.gitv.tv"

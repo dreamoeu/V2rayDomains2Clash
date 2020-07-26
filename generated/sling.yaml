@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/sling
 
 payload:
-  - "+.movenetworks.com"
-  - "+.movetv.com"
   - "+.dishworld.com"
   - "+.slinginternational.com"
   - "+.sling.com"
+  - "+.movenetworks.com"
+  - "+.movetv.com"

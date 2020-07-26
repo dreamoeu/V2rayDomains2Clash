@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/reuters
 
 payload:
-  - "+.reutersmedia.net"
   - "+.reuters.com"
   - "+.reuters.tv"
+  - "+.reutersmedia.net"

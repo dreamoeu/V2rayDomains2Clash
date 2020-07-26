@@ -1,17 +1,17 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/cloudflare
 
 payload:
-  - "+.cloudflareapps.com"
   - "+.cloudflareinsights.com"
-  - "+.cloudflareok.com"
-  - "+.cloudflarestatus.com"
-  - "+.cloudflaretest.com"
+  - "+.cloudflarestream.com"
+  - "+.trycloudflare.com"
   - "+.cloudflare-dns.com"
   - "+.cloudflare-ipfs.com"
   - "+.cloudflare.com"
+  - "+.cloudflareapps.com"
+  - "+.cloudflareok.com"
   - "+.cloudflaressl.com"
-  - "+.cloudflarestream.com"
-  - "+.trycloudflare.com"
+  - "+.cloudflarestatus.com"
+  - "+.cloudflaretest.com"
   - "+.one.one.one"
   - "+.videodelivery.net"
   - "+.workers.dev"

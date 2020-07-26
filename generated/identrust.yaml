@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/identrust
 
 payload:
+  - "+.identrust.com"
   - "+.identrust.co.uk"
   - "+.identrust.net"
-  - "+.identrust.com"

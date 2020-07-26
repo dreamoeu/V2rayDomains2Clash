@@ -1,10 +1,10 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/nytimes
 
 payload:
-  - "+.nytstyle.com"
-  - "+.timestalks.com"
   - "+.nyt.com"
   - "+.nytco.com"
   - "+.nytimes.com"
+  - "+.nytstyle.com"
+  - "+.timestalks.com"
   - "+.nyt.net"
   - "+.nytcn.me"

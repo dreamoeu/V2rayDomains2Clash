@@ -1,12 +1,12 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/sf-express
 
 payload:
+  - "+.sf-airlines.com"
   - "+.sf-cityrush.com"
   - "+.sf-express.com"
   - "+.sf-saas.com"
   - "+.feng1.com"
   - "+.rongechain.com"
-  - "+.sf-airlines.com"
   - "+.sf-tech.com.cn"
   - "+.sffix.cn"
   - "+.sfgy.org"

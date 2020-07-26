@@ -1,12 +1,12 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/xiaomi
 
 payload:
-  - "+.mi-img.com"
-  - "+.miui.com"
-  - "+.miwifi.com"
   - "+.xiaomi.com"
   - "+.xiaomiyoupin.com"
   - "+.mi.com"
-  - "+.mifile.cn"
+  - "+.mi-img.com"
+  - "+.miui.com"
+  - "+.miwifi.com"
   - "+.xiaomi.cn"
+  - "+.mifile.cn"
   - "+.xiaomi.net"

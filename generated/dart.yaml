@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dart
 
 payload:
-  - "+.dartpad.dev"
   - "+.dart.dev"
+  - "+.dartpad.dev"
   - "+.dartlang.org"

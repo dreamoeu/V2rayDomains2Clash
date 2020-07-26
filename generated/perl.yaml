@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/perl
 
 payload:
-  - "+.perl.org"
   - "+.cpan.org"
   - "+.metacpan.org"
+  - "+.perl.org"

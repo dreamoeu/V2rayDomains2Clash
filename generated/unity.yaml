@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/unity
 
 payload:
-  - "+.unityads.unitychina.cn"
   - "+.unity.com"
   - "+.unity3d.com"
+  - "+.unityads.unitychina.cn"

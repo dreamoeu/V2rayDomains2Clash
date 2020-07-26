@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/python
 
 payload:
-  - "+.python.org"
   - "+.pythonhosted.org"
   - "+.pypi.org"
+  - "+.python.org"
   - "+.pypa.io"

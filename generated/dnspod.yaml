@@ -1,10 +1,10 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dnspod
 
 payload:
-  - "+.dnspod.org"
   - "+.dns.pub"
   - "+.doh.pub"
   - "+.dnsapi.cn"
   - "+.dnspod.cn"
   - "+.dnspod.com.cn"
   - "+.dnspod.com"
+  - "+.dnspod.org"

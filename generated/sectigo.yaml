@@ -1,9 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/sectigo
 
 payload:
+  - "+.positivessl.com"
   - "+.sectigo.com"
   - "+.enterprisessl.com"
   - "+.hackerguardian.com"
   - "+.instantssl.com"
   - "+.optimumssl.com"
-  - "+.positivessl.com"

@@ -1,6 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/nike
 
 payload:
+  - "+.nike.com.hk"
+  - "+.nikeinc.com.cn"
   - "+.nikestore.com.au"
   - "+.swoo.sh"
   - "+.nike"
@@ -11,5 +13,3 @@ payload:
   - "+.nikecloud.com"
   - "+.niketracking.com"
   - "+.nike.com.br"
-  - "+.nike.com.hk"
-  - "+.nikeinc.com.cn"

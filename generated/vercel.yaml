@@ -1,15 +1,15 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/vercel
 
 payload:
-  - "+.now.sh"
-  - "+.zeit.sh"
-  - "+.vercel-dns.com"
   - "+.vercel-status.com"
   - "+.vercel.com"
   - "+.zeit-world.com"
   - "+.zeitworld.com"
+  - "+.vercel-dns.com"
   - "+.vercel.app"
   - "+.zeit-world.co.uk"
   - "+.zeit-world.net"
   - "+.zeit-world.org"
   - "+.zeit.co"
+  - "+.now.sh"
+  - "+.zeit.sh"

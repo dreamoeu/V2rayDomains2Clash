@@ -1,17 +1,17 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/cctv
 
 payload:
-  - "+.ipanda.cn"
-  - "+.livechina.cn"
   - "+.olympicchannelchina.cn"
   - "+.cctv.cn"
   - "+.cntv.cn"
   - "+.cntv.com.cn"
   - "+.ipanda.com.cn"
   - "+.cntvwb.cn"
+  - "+.ipanda.cn"
+  - "+.livechina.cn"
+  - "+.livechina.com"
   - "+.cctv.com"
   - "+.cctvpic.com"
   - "+.chinalive.com"
   - "+.ipanda.com"
-  - "+.livechina.com"
   - "+.ipanda.net"
