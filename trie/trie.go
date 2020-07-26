@@ -132,7 +132,7 @@ func (t *DomainTrie) search(node *Node, parts []string) *Node {
 }
 
 func (t *DomainTrie) Dump() []string {
-	result := make([]string, 0, 1024 * 100)
+	result := make([]string, 0, 1024*10)
 
 	t.dump(&result, "", t.root)
 
@@ -159,7 +159,7 @@ func (t *DomainTrie) dump(domains *[]string, currentSegment string, node *Node) 
 	}
 
 	for k, v := range node.children {
-		t.dump(domains, k + "." + currentSegment, v)
+		t.dump(domains, k+"."+currentSegment, v)
 	}
 }
 
