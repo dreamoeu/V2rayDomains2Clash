@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/debian.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/debian
 
 payload:
-  - "+.debian.org"
   - "+.dotdeb.org"
+  - "+.debian.org"

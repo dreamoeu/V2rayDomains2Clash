@@ -1,9 +1,9 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/youku.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/youku
 
 payload:
+  - "+.youku.com"
   - "+.ykimg.com"
   - "+.mmstat.com"
   - "+.soku.com"
   - "+.kumiao.com"
-  - "+.youku.com"
   - "+.cibntv.net"

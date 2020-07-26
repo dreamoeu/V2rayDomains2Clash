@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/zb.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/zb
 
 payload:
-  - "+.zb.io"
-  - "+.zb.live"
   - "+.zb.app"
   - "+.zb.com"
+  - "+.zb.io"
+  - "+.zb.live"

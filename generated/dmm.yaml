@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/dmm.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dmm
 
 payload:
-  - "+.dmm.co.jp"
   - "+.dmm.com"
   - "+.dmm-extension.com"
+  - "+.dmm.co.jp"

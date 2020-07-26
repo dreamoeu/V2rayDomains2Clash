@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/unionpay.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/unionpay
 
 payload:
-  - "+.unionpaysecure.com"
-  - "+.95516.com"
   - "+.unionpay.com"
   - "+.unionpayintl.com"
+  - "+.unionpaysecure.com"
+  - "+.95516.com"

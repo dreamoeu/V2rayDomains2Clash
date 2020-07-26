@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/afp.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/afp
 
 payload:
   - "+.afp.com"

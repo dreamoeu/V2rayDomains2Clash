@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/polymer.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/polymer
 
 payload:
-  - "+.polymerproject.org"
   - "+.polymer-project.org"
+  - "+.polymerproject.org"

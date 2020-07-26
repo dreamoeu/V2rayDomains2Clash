@@ -1,9 +1,9 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/bestbuy.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/bestbuy
 
 payload:
-  - "+.bestbuy.ca"
   - "+.bbycastatic.ca"
+  - "+.bestbuy.ca"
+  - "+.bestbuy.com"
   - "+.bbystatic.com"
   - "+.bestbuy-jobs.com"
-  - "+.bestbuy.com"
   - "+.bestbuy.com.mx"

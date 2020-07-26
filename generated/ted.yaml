@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/ted.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ted
 
 payload:
-  - "+.ted.com"
   - "+.tedcdn.com"
+  - "+.ted.com"

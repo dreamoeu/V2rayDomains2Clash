@@ -1,10 +1,10 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/starbucks.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/starbucks
 
 payload:
+  - "+.starbucks.ca"
+  - "+.starbucks.co.uk"
+  - "+.starbucks.com"
   - "+.starbucks.com.cn"
   - "+.starbucks.de"
   - "+.starbucks.fr"
   - "+.starbucks.ie"
-  - "+.starbucks.ca"
-  - "+.starbucks.co.uk"
-  - "+.starbucks.com"

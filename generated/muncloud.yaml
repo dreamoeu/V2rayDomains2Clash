@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/muncloud.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/muncloud
 
 payload:
   - "+.muncloud.dog"

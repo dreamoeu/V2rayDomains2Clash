@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/squirrelvpn.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/squirrelvpn
 
 payload:
   - "+.squirrelvpn.com"

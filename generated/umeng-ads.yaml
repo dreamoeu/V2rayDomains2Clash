@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/umeng-ads.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/umeng-ads
 
 payload:
-  - "+.alog.umengcloud.com"
   - "+.alog.umeng.com"
+  - "+.alog.umengcloud.com"

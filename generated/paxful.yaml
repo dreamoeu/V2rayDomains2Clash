@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/paxful.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/paxful
 
 payload:
   - "+.paxful.com"

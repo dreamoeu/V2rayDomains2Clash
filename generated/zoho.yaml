@@ -1,16 +1,16 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/zoho.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/zoho
 
 payload:
-  - "+.zohocdn.com"
-  - "+.zohomeetups.com"
+  - "+.zohostatic.in"
+  - "+.zoho.in"
+  - "+.zohomerchandise.com"
   - "+.zohopublic.com"
   - "+.zohoschools.com"
   - "+.zohostatic.com"
-  - "+.zohowebstatic.com"
-  - "+.zoho.com"
   - "+.zohouniversity.com"
-  - "+.zohomerchandise.com"
+  - "+.zohowebstatic.com"
+  - "+.zohocdn.com"
+  - "+.zohomeetups.com"
+  - "+.zoho.com"
   - "+.zoho.com.au"
   - "+.zoho.eu"
-  - "+.zoho.in"
-  - "+.zohostatic.in"

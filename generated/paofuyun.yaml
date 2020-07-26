@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/paofuyun.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/paofuyun
 
 payload:
-  - "+.paofuyun.me"
   - "+.paofu.cloud"
+  - "+.paofuyun.me"

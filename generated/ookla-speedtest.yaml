@@ -1,8 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/ookla-speedtest.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ookla-speedtest
 
 payload:
-  - "+.speedtest.co"
-  - "+.regex:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$"
   - "+.cdnst.net"
   - "+.pingtest.net"
   - "+.speedtest.net"
@@ -12,3 +10,5 @@ payload:
   - "+.ookla.com"
   - "+.speedtestcustom.com"
   - "+.ekahau.cloud"
+  - "+.speedtest.co"
+  - "+.regex:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$"

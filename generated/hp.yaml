@@ -1,8 +1,8 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/hp.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/hp
 
 payload:
+  - "+.hp.com"
+  - "+.hpstore-china.com"
   - "+.hpstore.com"
   - "+.www8-hp.com"
   - "+.full:hpstore.corpmerchandise.com"
-  - "+.hp.com"
-  - "+.hpstore-china.com"

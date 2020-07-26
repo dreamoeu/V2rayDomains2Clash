@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/apple-ads.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/apple-ads
 
 payload:
-  - "+.iadsdk.apple.com"
   - "+.iad.apple.com"
+  - "+.iadsdk.apple.com"
   - "+.qwapi.com"

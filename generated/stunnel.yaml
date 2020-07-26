@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/stunnel.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/stunnel
 
 payload:
   - "+.stunnel.org"

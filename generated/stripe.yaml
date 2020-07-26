@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/stripe.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/stripe
 
 payload:
-  - "+.stripecdn.com"
   - "+.stripe.com"
+  - "+.stripecdn.com"
   - "+.stripe.network"

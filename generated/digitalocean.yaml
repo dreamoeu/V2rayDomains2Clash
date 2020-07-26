@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/digitalocean.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/digitalocean
 
 payload:
-  - "+.digitalocean.com"
   - "+.digitaloceanspaces.com"
+  - "+.digitalocean.com"

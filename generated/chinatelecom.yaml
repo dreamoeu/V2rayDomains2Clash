@@ -1,11 +1,11 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/chinatelecom.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/chinatelecom
 
 payload:
   - "+.ctexcel.ca"
-  - "+.chntel.com"
   - "+.ctexcel.com"
   - "+.chinatelecom-h.com"
   - "+.chinatelecomglobal.com"
+  - "+.chntel.com"
   - "+.ctexcel.com.hk"
   - "+.ctexcel.fr"
   - "+.ctexcel.us"

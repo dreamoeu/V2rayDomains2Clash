@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/ookla-speedtest-ads.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ookla-speedtest-ads
 
 payload:
   - "+.regex:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$"

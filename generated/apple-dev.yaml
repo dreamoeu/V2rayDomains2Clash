@@ -1,15 +1,15 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/apple-dev.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/apple-dev
 
 payload:
-  - "+.developer.apple.com"
+  - "+.apple-mapkit.com"
   - "+.devimages-cdn.apple.com"
   - "+.devstreaming-cdn.apple.com"
   - "+.playgrounds-cdn.apple.com"
-  - "+.apple-mapkit.com"
-  - "+.researchandcare.org"
-  - "+.webkit.org"
+  - "+.developer.apple.com"
   - "+.webkitgtk.org"
   - "+.wpewebkit.org"
+  - "+.researchandcare.org"
+  - "+.webkit.org"
   - "+.full:appleworldwidedeveloper.hb-api.omtrdc.net"
   - "+.full:appleworldwidedeveloper.sc.omtrdc.net"
   - "+.full:p-events-delivery.akamaized.net"

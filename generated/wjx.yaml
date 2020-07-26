@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/wjx.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/wjx
 
 payload:
-  - "+.wjx.top"
   - "+.sojump.com"
   - "+.wjx.com"
   - "+.wjx.cn"
+  - "+.wjx.top"

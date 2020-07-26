@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/javfinder.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/javfinder
 
 payload:
+  - "+.o0-2.com"
   - "+.javfinder.sh"
   - "+.findercdn.me"
-  - "+.o0-2.com"

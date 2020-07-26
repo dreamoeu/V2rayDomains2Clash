@@ -1,9 +1,9 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/cisco.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/cisco
 
 payload:
   - "+.cisco"
+  - "+.cisco.com"
   - "+.mediafiles-cisco.com"
   - "+.static-cisco.com"
   - "+.full:cisco.evergage.com"
-  - "+.cisco.com"
   - "+.full:ciscolivehls-i.akamaihd.net"

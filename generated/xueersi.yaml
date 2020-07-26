@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/xueersi.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/xueersi
 
 payload:
-  - "+.xueersi.com"
   - "+.speiyou.com"
   - "+.xesimg.com"
+  - "+.xueersi.com"

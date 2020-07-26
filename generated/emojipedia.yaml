@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/emojipedia.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/emojipedia
 
 payload:
   - "+.emojipedia.org"
-  - "+.worldemojiday.com"
   - "+.worldemojiawards.com"
+  - "+.worldemojiday.com"

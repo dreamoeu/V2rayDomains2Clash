@@ -1,11 +1,11 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/chinaunicom.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/chinaunicom
 
 payload:
+  - "+.wo.com.cn"
+  - "+.10010.com.cn"
+  - "+.chinaunicom.com.cn"
+  - "+.chinaunicom.com.hk"
   - "+.10010.com"
   - "+.chinaunicom.com"
   - "+.chinaunicomglobal.com"
   - "+.mychinaunicom.com"
-  - "+.10010.com.cn"
-  - "+.chinaunicom.com.cn"
-  - "+.wo.com.cn"
-  - "+.chinaunicom.com.hk"

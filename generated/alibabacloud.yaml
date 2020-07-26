@@ -1,11 +1,11 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/alibabacloud.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/alibabacloud
 
 payload:
-  - "+.alibabacloud.co.in"
-  - "+.alibabacloud.com"
-  - "+.alicloud.com"
-  - "+.alibabacloud.com.au"
   - "+.alibabacloud.com.hk"
   - "+.alibabacloud.com.my"
   - "+.alibabacloud.com.sg"
   - "+.alibabacloud.com.tw"
+  - "+.alibabacloud.co.in"
+  - "+.alibabacloud.com"
+  - "+.alicloud.com"
+  - "+.alibabacloud.com.au"

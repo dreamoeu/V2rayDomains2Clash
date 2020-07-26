@@ -1,8 +1,8 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/metart.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/metart
 
 payload:
-  - "+.metcams.com"
-  - "+.naiadsystems.com"
   - "+.metart.com"
   - "+.metartnetwork.com"
+  - "+.metcams.com"
+  - "+.naiadsystems.com"
   - "+.nsimg.net"

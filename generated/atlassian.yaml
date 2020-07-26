@@ -1,8 +1,8 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/atlassian.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/atlassian
 
 payload:
-  - "+.bitbucket.org"
-  - "+.statuspage.io"
+  - "+.atlassian.com"
   - "+.trello.com"
   - "+.trellocdn.com"
-  - "+.atlassian.com"
+  - "+.bitbucket.org"
+  - "+.statuspage.io"

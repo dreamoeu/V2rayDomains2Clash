@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/yahoo-ads.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/yahoo-ads
 
 payload:
   - "+.ads.yahoo.com"

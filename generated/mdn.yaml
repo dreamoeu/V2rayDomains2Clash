@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/mdn.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/mdn
 
 payload:
-  - "+.full:media.prod.mdn.mozit.cloud"
   - "+.full:developer.mozilla.org"
   - "+.full:mdn.mozillademos.org"
   - "+.full:interactive-examples.mdn.mozilla.net"
+  - "+.full:media.prod.mdn.mozit.cloud"

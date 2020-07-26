@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/jfrog.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/jfrog
 
 payload:
-  - "+.bintray.com"
   - "+.jfrog.com"
+  - "+.bintray.com"
   - "+.jfrog.org"

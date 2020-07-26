@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/zynga-ads.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/zynga-ads
 
 payload:
   - "+.zynga.com"

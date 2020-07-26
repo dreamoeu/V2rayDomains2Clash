@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/cylink.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/cylink
 
 payload:
-  - "+.cylink0122.icu"
   - "+.cylink.pro"
+  - "+.cylink0122.icu"

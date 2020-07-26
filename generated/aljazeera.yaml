@@ -1,10 +1,10 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/aljazeera.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/aljazeera
 
 payload:
+  - "+.ajplus.net"
+  - "+.aljazeera.net"
+  - "+.syhacked.com"
   - "+.aljazeera.com"
   - "+.palestineremix.com"
   - "+.sarajevopodopsadom.com"
   - "+.srebrenica360.com"
-  - "+.syhacked.com"
-  - "+.ajplus.net"
-  - "+.aljazeera.net"

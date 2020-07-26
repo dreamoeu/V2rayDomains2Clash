@@ -1,9 +1,9 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/ehentai.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ehentai
 
 payload:
+  - "+.ehgt.org"
+  - "+.ehtracker.org"
   - "+.ehwiki.org"
   - "+.exhentai.org"
   - "+.hentaiverse.org"
   - "+.e-hentai.org"
-  - "+.ehgt.org"
-  - "+.ehtracker.org"

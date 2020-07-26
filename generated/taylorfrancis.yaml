@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/taylorfrancis.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/taylorfrancis
 
 payload:
   - "+.tandf.co.uk"
-  - "+.taylorandfrancis.com"
   - "+.taylorfrancis.com"
+  - "+.taylorandfrancis.com"

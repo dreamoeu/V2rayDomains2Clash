@@ -1,19 +1,19 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/chinamobile.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/chinamobile
 
 payload:
+  - "+.cmicrwx.cn"
   - "+.10086.cn"
   - "+.migu.cn"
   - "+.cmvideo.cn"
   - "+.andfx.cn"
-  - "+.cmicrwx.cn"
-  - "+.chinamobile.com"
-  - "+.migucloud.com"
-  - "+.miguvideo.com"
-  - "+.cmpassport.com"
-  - "+.fetion-portal.com"
+  - "+.mmarket6.com"
   - "+.139.com"
   - "+.chinamobileltd.com"
+  - "+.miguvideo.com"
+  - "+.fetion-portal.com"
   - "+.fetionpic.com"
   - "+.mmarket.com"
-  - "+.mmarket6.com"
+  - "+.chinamobile.com"
+  - "+.migucloud.com"
+  - "+.cmpassport.com"
   - "+.andfx.net"

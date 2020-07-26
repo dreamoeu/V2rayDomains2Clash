@@ -1,10 +1,10 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/yunfanjiasu.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/yunfanjiasu
 
 payload:
-  - "+.yunfancdn.com"
   - "+.yfcache.com"
   - "+.yfcalc.com"
   - "+.yfcloud.com"
+  - "+.yunfancdn.com"
   - "+.yfdts.net"
   - "+.yfp2p.net"
   - "+.yfscdn.net"

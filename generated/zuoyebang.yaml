@@ -1,6 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/zuoyebang.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/zuoyebang
 
 payload:
+  - "+.zuoyebang.cc"
   - "+.zuoyebang.com"
   - "+.zybang.com"
-  - "+.zuoyebang.cc"

@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/w3schools.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/w3schools
 
 payload:
   - "+.w3schools.com"

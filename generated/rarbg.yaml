@@ -1,9 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/rarbg.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/rarbg
 
 payload:
-  - "+.rarbg.me"
-  - "+.rarbg.to"
-  - "+.rarbg.is"
   - "+.rarbgaccess.org"
   - "+.rarbggo.org"
   - "+.rarbgmirror.org"
@@ -11,3 +8,6 @@ payload:
   - "+.rarbgprx.org"
   - "+.rarbgmirror.com"
   - "+.rarbgunblock.com"
+  - "+.rarbg.me"
+  - "+.rarbg.to"
+  - "+.rarbg.is"

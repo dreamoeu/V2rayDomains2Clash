@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/bandcamp.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/bandcamp
 
 payload:
-  - "+.bandcamp.com"
   - "+.bcbits.com"
+  - "+.bandcamp.com"

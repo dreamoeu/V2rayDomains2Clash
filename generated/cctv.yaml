@@ -1,7 +1,6 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/cctv.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/cctv
 
 payload:
-  - "+.cntvwb.cn"
   - "+.ipanda.cn"
   - "+.livechina.cn"
   - "+.olympicchannelchina.cn"
@@ -9,6 +8,7 @@ payload:
   - "+.cntv.cn"
   - "+.cntv.com.cn"
   - "+.ipanda.com.cn"
+  - "+.cntvwb.cn"
   - "+.cctv.com"
   - "+.cctvpic.com"
   - "+.chinalive.com"

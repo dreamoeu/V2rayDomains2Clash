@@ -1,10 +1,10 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/umeng.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/umeng
 
 payload:
+  - "+.umsns.com"
   - "+.umtrack.com"
   - "+.uyunad.com"
   - "+.whalecloud.com"
   - "+.mobmore.com"
   - "+.umeng.com"
   - "+.umengcloud.com"
-  - "+.umsns.com"

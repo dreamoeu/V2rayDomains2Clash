@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/hkcnews.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/hkcnews
 
 payload:
   - "+.hkcnews.com"

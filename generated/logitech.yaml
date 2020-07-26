@@ -1,12 +1,12 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/logitech.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/logitech
 
 payload:
-  - "+.logitechg.com"
+  - "+.logitech.fr"
+  - "+.logitechg.fr"
+  - "+.worldsfastestgamer.net"
   - "+.logi.com"
   - "+.logicoolg.com"
   - "+.logitech.com"
+  - "+.logitechg.com"
   - "+.logicool.co.jp"
   - "+.logitech.biz"
-  - "+.logitechg.fr"
-  - "+.logitech.fr"
-  - "+.worldsfastestgamer.net"

@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/mihoyo.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/mihoyo
 
 payload:
-  - "+.bh3.com"
   - "+.mihoyo.com"
+  - "+.bh3.com"

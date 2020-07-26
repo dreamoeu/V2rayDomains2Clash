@@ -1,10 +1,9 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/azure.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/azure
 
 payload:
-  - "+.azure-dns.com"
-  - "+.azure.com"
   - "+.azure-dns.info"
   - "+.azuredns-prd.info"
+  - "+.azure-dns.net"
   - "+.azure-mobile.net"
   - "+.azure-test.net"
   - "+.azure.net"
@@ -12,8 +11,9 @@ payload:
   - "+.azureedge-test.net"
   - "+.azureedge.net"
   - "+.azurewebsites.net"
-  - "+.azure-dns.net"
   - "+.azure-dns.org"
   - "+.azuredns-prd.org"
   - "+.azure.cn"
   - "+.azurecontainer.io"
+  - "+.azure-dns.com"
+  - "+.azure.com"

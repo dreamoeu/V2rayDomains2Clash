@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/taikang.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/taikang
 
 payload:
-  - "+.taikangzhijia.com"
-  - "+.tkhealthcare.com"
   - "+.taikang.com"
   - "+.taikanglife.com"
+  - "+.taikangzhijia.com"
+  - "+.tkhealthcare.com"

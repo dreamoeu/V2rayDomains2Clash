@@ -1,8 +1,8 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/suning.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/suning
 
 payload:
-  - "+.suningestate.com"
-  - "+.suningholdings.com"
   - "+.cnsuning.com"
   - "+.suning.com"
   - "+.suningcloud.com"
+  - "+.suningestate.com"
+  - "+.suningholdings.com"

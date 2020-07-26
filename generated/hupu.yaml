@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/hupu.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/hupu
 
 payload:
-  - "+.hupucdn.com"
   - "+.hupu.com"
+  - "+.hupucdn.com"

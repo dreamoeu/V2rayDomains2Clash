@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/pornhub.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/pornhub
 
 payload:
-  - "+.pornhubpremium.com"
-  - "+.phncdn.com"
   - "+.phprcdn.com"
   - "+.pornhub.com"
+  - "+.pornhubpremium.com"
+  - "+.phncdn.com"

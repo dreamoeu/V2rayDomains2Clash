@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/v2ray.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/v2ray
 
 payload:
   - "+.v2ray.com"

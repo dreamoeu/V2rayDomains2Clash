@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/ap.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ap
 
 payload:
-  - "+.apnews.com"
   - "+.ap.org"
+  - "+.apnews.com"

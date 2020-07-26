@@ -1,16 +1,16 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/letv-ads.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/letv-ads
 
 payload:
   - "+.api.game.letvstore.com"
-  - "+.pro.hoye.letv.com"
-  - "+.pro.letv.com"
-  - "+.stat.letv.com"
-  - "+.fz.letv.com"
-  - "+.g3.letv.com"
-  - "+.minisite.letv.com"
   - "+.msg.m.letv.com"
   - "+.static.app.m.letv.com"
-  - "+.n.mark.letv.com"
+  - "+.pro.hoye.letv.com"
+  - "+.stat.letv.com"
   - "+.ark.letv.com"
   - "+.dc.letv.com"
+  - "+.minisite.letv.com"
+  - "+.pro.letv.com"
+  - "+.fz.letv.com"
+  - "+.g3.letv.com"
+  - "+.n.mark.letv.com"
   - "+.letv.allyes.com"

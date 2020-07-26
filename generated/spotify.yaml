@@ -1,7 +1,10 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/spotify.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/spotify
 
 payload:
-  - "+.spotifycodes.com"
+  - "+.pscdn.co"
+  - "+.scdn.co"
+  - "+.spoti.fi"
+  - "+.spotify.design"
   - "+.spotifyforbrands.com"
   - "+.spotifyjobs.com"
   - "+.byspotify.com"
@@ -9,7 +12,4 @@ payload:
   - "+.spotify.com"
   - "+.spotifycdn.com"
   - "+.spotifycharts.com"
-  - "+.pscdn.co"
-  - "+.scdn.co"
-  - "+.spoti.fi"
-  - "+.spotify.design"
+  - "+.spotifycodes.com"

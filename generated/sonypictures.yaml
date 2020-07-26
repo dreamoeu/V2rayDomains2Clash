@@ -1,17 +1,17 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/sonypictures.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/sonypictures
 
 payload:
-  - "+.sonypicturestelevisiongames.com"
-  - "+.wwtbam.com"
-  - "+.yourfantasybeginsnow.com"
-  - "+.playshowtv.com"
-  - "+.sonypicturesanimation.com"
-  - "+.sonypicturesmuseum.com"
   - "+.sonypicturesstudios.com"
   - "+.sonypicturestelevision.com"
-  - "+.wheelpop.com"
   - "+.imageworks.com"
   - "+.motionpictureser.com"
-  - "+.sonyclassics.com"
+  - "+.playshowtv.com"
   - "+.sonypictures.com"
+  - "+.sonypicturesanimation.com"
+  - "+.sonypicturesmuseum.com"
+  - "+.wheelpop.com"
+  - "+.yourfantasybeginsnow.com"
+  - "+.sonyclassics.com"
+  - "+.sonypicturestelevisiongames.com"
+  - "+.wwtbam.com"
   - "+.playshow.io"

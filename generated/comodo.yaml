@@ -1,8 +1,8 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/comodo.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/comodo
 
 payload:
-  - "+.comodoca.com"
   - "+.comodoca2.com"
   - "+.comodoca3.com"
   - "+.comodoca4.com"
   - "+.comodo.com"
+  - "+.comodoca.com"

@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/wix.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/wix
 
 payload:
-  - "+.wix.com"
-  - "+.wixmp.com"
   - "+.wixsite.com"
   - "+.wixstatic.com"
+  - "+.wix.com"
+  - "+.wixmp.com"

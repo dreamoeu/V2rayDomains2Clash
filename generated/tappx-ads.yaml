@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/tappx-ads.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/tappx-ads
 
 payload:
   - "+.ssp.api.tappx.com"

@@ -1,12 +1,12 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/huobi.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/huobi
 
 payload:
+  - "+.hbabit.com"
+  - "+.huobi.com"
+  - "+.huobigroup.com"
+  - "+.huobitoken.com"
   - "+.hbfile.net"
   - "+.huobi.me"
   - "+.huobi.pro"
   - "+.huobi.sc"
   - "+.huobiasia.vip"
-  - "+.huobigroup.com"
-  - "+.huobitoken.com"
-  - "+.hbabit.com"
-  - "+.huobi.com"

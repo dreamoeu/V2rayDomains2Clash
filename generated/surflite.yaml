@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/surflite.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/surflite
 
 payload:
-  - "+.surflite.net"
   - "+.surflite.co"
+  - "+.surflite.net"

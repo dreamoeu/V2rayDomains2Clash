@@ -1,17 +1,17 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/twitter.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/twitter
 
 payload:
-  - "+.periscope.tv"
-  - "+.pscp.tv"
-  - "+.t.co"
-  - "+.vine.co"
-  - "+.twitterstat.us"
-  - "+.twitter.jp"
-  - "+.twtrdns.net"
-  - "+.twitteroauth.com"
   - "+.ads-twitter.com"
   - "+.tellapart.com"
   - "+.tweetdeck.com"
   - "+.twimg.com"
   - "+.twitpic.com"
   - "+.twitter.com"
+  - "+.twitteroauth.com"
+  - "+.pscp.tv"
+  - "+.periscope.tv"
+  - "+.t.co"
+  - "+.vine.co"
+  - "+.twitterstat.us"
+  - "+.twitter.jp"
+  - "+.twtrdns.net"

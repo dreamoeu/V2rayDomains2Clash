@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/cex.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/cex
 
 payload:
   - "+.cex.io"

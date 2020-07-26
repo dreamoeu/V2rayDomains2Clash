@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/softether.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/softether
 
 payload:
-  - "+.softether.org"
   - "+.softether-download.com"
+  - "+.softether.org"

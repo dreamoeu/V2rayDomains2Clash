@@ -1,18 +1,18 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/tld-cn.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/tld-cn
 
 payload:
   - "+.xn--fiqz9s"
-  - "+.xn--1qqw23a"
   - "+.cn"
-  - "+.baidu"
+  - "+.citic"
   - "+.unicom"
-  - "+.sohu"
+  - "+.xn--8y0a063a"
+  - "+.xn--zfr164b"
+  - "+.xn--1qqw23a"
+  - "+.xn--xhq521b"
+  - "+.xn--6frz82g"
   - "+.xn--fiq64b"
   - "+.xn--vuq861b"
-  - "+.citic"
+  - "+.baidu"
+  - "+.sohu"
   - "+.xn--fiqs8s"
   - "+.xn--estv75g"
-  - "+.xn--xhq521b"
-  - "+.xn--8y0a063a"
-  - "+.xn--6frz82g"
-  - "+.xn--zfr164b"

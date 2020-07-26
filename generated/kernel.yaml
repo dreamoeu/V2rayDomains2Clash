@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/kernel.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/kernel
 
 payload:
   - "+.kernel.org"

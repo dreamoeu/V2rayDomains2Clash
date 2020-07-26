@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/steamunlocked.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/steamunlocked
 
 payload:
   - "+.steamunlocked.net"

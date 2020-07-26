@@ -1,6 +1,13 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/dailymail.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dailymail
 
 payload:
+  - "+.dailym.ai"
+  - "+.dailymailonline.com"
+  - "+.mailhealth.com"
+  - "+.mailonline.com"
+  - "+.dailymail.com"
+  - "+.dailymail.com.au"
+  - "+.dailymail.dk"
   - "+.mailonsunday.ie"
   - "+.mol.im"
   - "+.thismon.ee"
@@ -11,10 +18,3 @@ payload:
   - "+.mailonsunday.co.uk"
   - "+.metro.co.uk"
   - "+.thisismoney.co.uk"
-  - "+.dailym.ai"
-  - "+.mailhealth.com"
-  - "+.mailonline.com"
-  - "+.dailymail.com"
-  - "+.dailymailonline.com"
-  - "+.dailymail.com.au"
-  - "+.dailymail.dk"

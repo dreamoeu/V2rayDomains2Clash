@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/reddit.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/reddit
 
 payload:
-  - "+.reddit.com"
   - "+.redditstatic.com"
   - "+.redditmedia.com"
+  - "+.reddit.com"
   - "+.redd.it"

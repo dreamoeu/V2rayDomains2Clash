@@ -1,5 +1,5 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/startpage.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/startpage
 
 payload:
-  - "+.ixquick.com"
   - "+.startpage.com"
+  - "+.ixquick.com"

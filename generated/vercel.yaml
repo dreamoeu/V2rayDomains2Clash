@@ -1,13 +1,13 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/vercel.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/vercel
 
 payload:
   - "+.now.sh"
   - "+.zeit.sh"
-  - "+.zeitworld.com"
   - "+.vercel-dns.com"
   - "+.vercel-status.com"
   - "+.vercel.com"
   - "+.zeit-world.com"
+  - "+.zeitworld.com"
   - "+.vercel.app"
   - "+.zeit-world.co.uk"
   - "+.zeit-world.net"

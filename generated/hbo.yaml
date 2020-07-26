@@ -1,13 +1,13 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/hbo.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/hbo
 
 payload:
-  - "+.cinemax.com"
+  - "+.hbogo.com"
+  - "+.hbonow.com"
+  - "+.maxgo.com"
   - "+.forthethrone.com"
   - "+.hbo.com"
-  - "+.hboasia.com"
-  - "+.hbogo.com"
   - "+.hbogoasia.com"
-  - "+.hbonow.com"
   - "+.hbomax.com"
-  - "+.maxgo.com"
+  - "+.cinemax.com"
+  - "+.hboasia.com"
   - "+.hbogoasia.hk"

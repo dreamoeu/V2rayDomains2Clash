@@ -1,4 +1,4 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/mojang.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/mojang
 
 payload:
   - "+.minecraft.net"

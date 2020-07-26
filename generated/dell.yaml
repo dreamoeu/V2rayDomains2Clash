@@ -1,7 +1,7 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/dell.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dell
 
 payload:
   - "+.dell"
+  - "+.dell-brand.com"
   - "+.dell.com"
   - "+.dellcdn.com"
-  - "+.dell-brand.com"

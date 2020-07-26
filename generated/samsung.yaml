@@ -1,16 +1,16 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/samsung.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/samsung
 
 payload:
   - "+.samsung"
   - "+.xn--cg4bki"
-  - "+.knoxemm.com"
+  - "+.galaxyappstore.com"
   - "+.samsung.com"
   - "+.samsungapps.com"
   - "+.samsungcloud.com"
   - "+.samsunggalaxyfriends.com"
-  - "+.galaxyappstore.com"
-  - "+.samsungdm.com"
   - "+.samsungknox.com"
+  - "+.knoxemm.com"
+  - "+.samsungdm.com"
   - "+.samsungqbe.com"
   - "+.galaxymobile.jp"
   - "+.game-platform.net"

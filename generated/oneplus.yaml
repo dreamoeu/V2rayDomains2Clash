@@ -1,9 +1,9 @@
-https://github.com/v2ray/domain-list-community/blob/master/data/generated/oneplus.yaml
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/oneplus
 
 payload:
+  - "+.h2os.com"
   - "+.oneplus.com"
   - "+.opstatics.com"
   - "+.oneplusbbs.com"
-  - "+.h2os.com"
   - "+.oneplus.cn"
   - "+.oneplus.net"
