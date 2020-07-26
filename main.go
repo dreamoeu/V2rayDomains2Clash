@@ -32,7 +32,7 @@ func main() {
 			}
 		}
 
-		file, err := os.OpenFile(path.Join(generated, output + ".yaml"), os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
+		file, err := os.OpenFile(path.Join(generated, output+".yaml"), os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
 		if err != nil {
 			panic(err.Error())
 		}
@@ -44,7 +44,7 @@ func main() {
 		domains := t.Dump()
 
 		for _, domain := range domains {
-			if _, err := file.WriteString(fmt.Sprintf("  - \"%s\"\n", domain)); err != nil {
+			if _, err := file.WriteString(fmt.Sprintf("  - \"+.%s\"\n", domain)); err != nil {
 				panic(err.Error())
 			}
 		}
