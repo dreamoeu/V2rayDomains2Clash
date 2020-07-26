@@ -24,16 +24,26 @@ jobs:
     - name: Check out code into the Go module directory
       uses: actions/checkout@v2
     
-    - name: Update upstream domains
-      working-directory: ${{ GITHUB_WORKSPACE }}/domain-list-community
+    - name: Update upstream repo
+      working-directory: ./domain-list-community
       run: |
         git remote add upstream https://github.com/v2ray/domain-list-community.git
         git fetch upstream
         git checkout upstream/master
 
+    - name: Delete unused go files
+      working-directory: ./domain-list-community
+      run: |
+        rm -rf *.go *.mod *.sum
+
     - name: Generate
-      working-directory: ${{ GITHUB_WORKSPACE }}
+      working-directory: ./
       run: go run main.go
+
+    - name: Reset upstream repo
+      working-directory: ./domain-list-community
+      run: |
+        git reset --hard
     
     - name: Push changes
       uses: ad-m/github-push-action@master
