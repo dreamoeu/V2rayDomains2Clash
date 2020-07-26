@@ -31,20 +31,9 @@ jobs:
         git fetch upstream master
         git checkout upstream/master
 
-    - name: Delete unused go files
-      working-directory: ./domain-list-community
-      run: |
-        ls *
-        rm -rf *.go *.mod *.sum
-
     - name: Generate
-      working-directory: ./
+      working-directory: ../
       run: go run main.go
-
-    - name: Reset upstream repo
-      working-directory: ./domain-list-community
-      run: |
-        git reset --hard
 
     - name: Push changes
       uses: ad-m/github-push-action@master
