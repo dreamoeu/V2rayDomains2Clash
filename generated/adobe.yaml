@@ -1,0 +1,18 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/adobe.yaml
+
+payload:
+  - "+.adobelogin.com"
+  - "+.adobeoobe.com"
+  - "+.assetsadobe.com"
+  - "+.typekit.com"
+  - "+.adobe.com"
+  - "+.adobeaemcloud.com"
+  - "+.adobeccstatic.com"
+  - "+.adobedtm.com"
+  - "+.adobe.io"
+  - "+.omtrdc.net"
+  - "+.typekit.net"
+  - "+.adobeaemcloud.net"
+  - "+.adobedc.net"
+  - "+.behance.net"
+  - "+.edgefonts.net"

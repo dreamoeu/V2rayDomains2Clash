@@ -1,0 +1,9 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/douyu.yaml
+
+payload:
+  - "+.douyu.com"
+  - "+.douyuscdn.com"
+  - "+.douyutv.com"
+  - "+.douyu.tv"
+  - "+.douyucdn.cn"
+  - "+.douyucdn2.cn"

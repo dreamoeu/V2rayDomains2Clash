@@ -1,0 +1,19 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/oracle.yaml
+
+payload:
+  - "+.oracle.com"
+  - "+.oraclecloud.com"
+  - "+.oracleimg.com"
+  - "+.addthiscdn.com"
+  - "+.addthisedge.com"
+  - "+.java.com"
+  - "+.ateam-oracle.com"
+  - "+.bronto.com"
+  - "+.sun.com"
+  - "+.addthis.com"
+  - "+.oraclefoundation.org"
+  - "+.covid19-rx.org"
+  - "+.covid19rx.org"
+  - "+.java"
+  - "+.java.net"
+  - "+.oracle"

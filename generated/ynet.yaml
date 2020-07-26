@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/ynet.yaml
+
+payload:
+  - "+.ynet.cn"
+  - "+.ynet.com.cn"
+  - "+.ynet.com"

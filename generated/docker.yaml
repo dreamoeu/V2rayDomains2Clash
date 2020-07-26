@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/docker.yaml
+
+payload:
+  - "+.compose-spec.io"
+  - "+.docker.io"
+  - "+.docker.com"

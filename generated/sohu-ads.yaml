@@ -1,0 +1,19 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/sohu-ads.yaml
+
+payload:
+  - "+.data.vod.itc.cn"
+  - "+.v2.reachmax.cn"
+  - "+.ads.sohu.com"
+  - "+.aty.sohu.com"
+  - "+.go.sohu.com"
+  - "+.adnet.sohu.com"
+  - "+.epro.sogou.com"
+  - "+.golden1.sogou.com"
+  - "+.inte.sogou.com"
+  - "+.uranus.sogou.com"
+  - "+.imp.optaim.com"
+  - "+.theta.sogoucdn.com"
+  - "+.inte.sogoucdn.com"
+  - "+.lu.sogoucdn.com"
+  - "+.full:e8aeb8bbdbbd7.cdn.sohucs.com"
+  - "+.full:643108e7617ef.cdn.sohucs.com"

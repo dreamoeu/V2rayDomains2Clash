@@ -1,0 +1,4 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/freebeacon.yaml
+
+payload:
+  - "+.freebeacon.com"

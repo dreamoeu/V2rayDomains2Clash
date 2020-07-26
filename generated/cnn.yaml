@@ -1,0 +1,11 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/cnn.yaml
+
+payload:
+  - "+.cnn.com"
+  - "+.cnnarabic.com"
+  - "+.cnnlabs.com"
+  - "+.cnnmoney.com"
+  - "+.cnnmoneystream.com"
+  - "+.cnnpolitics.com"
+  - "+.cnn.io"
+  - "+.cnnmoney.ch"

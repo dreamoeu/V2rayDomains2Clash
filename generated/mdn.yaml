@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/mdn.yaml
+
+payload:
+  - "+.full:media.prod.mdn.mozit.cloud"
+  - "+.full:developer.mozilla.org"
+  - "+.full:mdn.mozillademos.org"
+  - "+.full:interactive-examples.mdn.mozilla.net"

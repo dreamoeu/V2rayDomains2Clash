@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/nikkei.yaml
+
+payload:
+  - "+.nikkei.com"
+  - "+.nikkei.jp"
+  - "+.nikkei.co.jp"

@@ -1,0 +1,19 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/dropbox.yaml
+
+payload:
+  - "+.dropbox.tech"
+  - "+.db.tt"
+  - "+.dropboxapi.com"
+  - "+.dropboxcaptcha.com"
+  - "+.dropboxpartners.com"
+  - "+.dropbox-dns.com"
+  - "+.dropbox.com"
+  - "+.dropboxinsiders.com"
+  - "+.dropboxmail.com"
+  - "+.full:paper-attachments.s3.amazonaws.com"
+  - "+.dropboxforum.com"
+  - "+.dropboxusercontent.com"
+  - "+.getdropbox.com"
+  - "+.dropboxbusiness.com"
+  - "+.dropboxforums.com"
+  - "+.dropboxstatic.com"

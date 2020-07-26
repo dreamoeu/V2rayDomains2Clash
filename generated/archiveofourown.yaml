@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/archiveofourown.yaml
+
+payload:
+  - "+.ao3.org"
+  - "+.archiveofourown.org"
+  - "+.archiveofourown.com"
+  - "+.archiveofourown.net"

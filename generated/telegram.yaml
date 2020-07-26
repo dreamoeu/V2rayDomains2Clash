@@ -1,0 +1,11 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/telegram.yaml
+
+payload:
+  - "+.t.me"
+  - "+.telegram.me"
+  - "+.tdesktop.com"
+  - "+.telegra.ph"
+  - "+.telesco.pe"
+  - "+.telegram.org"
+  - "+.graph.org"
+  - "+.telegram.dog"

@@ -1,0 +1,15 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/spotify.yaml
+
+payload:
+  - "+.spotifycodes.com"
+  - "+.spotifyforbrands.com"
+  - "+.spotifyjobs.com"
+  - "+.byspotify.com"
+  - "+.spotify-everywhere.com"
+  - "+.spotify.com"
+  - "+.spotifycdn.com"
+  - "+.spotifycharts.com"
+  - "+.pscdn.co"
+  - "+.scdn.co"
+  - "+.spoti.fi"
+  - "+.spotify.design"

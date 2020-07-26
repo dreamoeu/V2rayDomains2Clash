@@ -1,0 +1,19 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/voxmedia.yaml
+
+payload:
+  - "+.recode.net"
+  - "+.voxops.net"
+  - "+.cstatic.net"
+  - "+.meridian.net"
+  - "+.eater.com"
+  - "+.funnyordie.com"
+  - "+.polygon.com"
+  - "+.voxcreative.com"
+  - "+.voxfieldguide.com"
+  - "+.voxmedia.com"
+  - "+.curbed.com"
+  - "+.racked.com"
+  - "+.sbnation.com"
+  - "+.theverge.com"
+  - "+.vox-cdn.com"
+  - "+.vox.com"

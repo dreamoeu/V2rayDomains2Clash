@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/ethereum.yaml
+
+payload:
+  - "+.devcon.org"
+  - "+.ethereum.org"
+  - "+.ethereum.foundation"

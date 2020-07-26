@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/addthis.yaml
+
+payload:
+  - "+.addthis.com"
+  - "+.addthiscdn.com"
+  - "+.addthisedge.com"

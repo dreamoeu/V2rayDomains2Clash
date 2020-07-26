@@ -1,0 +1,8 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/discord.yaml
+
+payload:
+  - "+.discord.gg"
+  - "+.discord.media"
+  - "+.discordapp.net"
+  - "+.discord.com"
+  - "+.discordapp.com"

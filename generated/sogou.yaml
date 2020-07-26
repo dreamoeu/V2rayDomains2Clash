@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/sogou.yaml
+
+payload:
+  - "+.sogoucdn.com"
+  - "+.go2map.com"
+  - "+.sogo.com"
+  - "+.sogou.com"

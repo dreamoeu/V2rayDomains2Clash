@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/python.yaml
+
+payload:
+  - "+.python.org"
+  - "+.pythonhosted.org"
+  - "+.pypi.org"
+  - "+.pypa.io"

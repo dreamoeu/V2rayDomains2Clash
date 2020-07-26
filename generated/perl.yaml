@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/perl.yaml
+
+payload:
+  - "+.perl.org"
+  - "+.cpan.org"
+  - "+.metacpan.org"

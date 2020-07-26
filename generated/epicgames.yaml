@@ -1,0 +1,16 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/epicgames.yaml
+
+payload:
+  - "+.paragon.com"
+  - "+.playparagon.com"
+  - "+.shadowcomplex.com"
+  - "+.unrealengine.com"
+  - "+.fortnite.com"
+  - "+.epicgames.com"
+  - "+.roborecall.com"
+  - "+.spyjinx.com"
+  - "+.unrealtournament.com"
+  - "+.battlebreakers.com"
+  - "+.regex:^epicgames-download\d\.akamaized\.net$"
+  - "+.regex:^epicgames-download\d-\d+\.file\.myqcloud\.com$"
+  - "+.regex:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$"

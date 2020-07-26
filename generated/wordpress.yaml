@@ -1,0 +1,11 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/wordpress.yaml
+
+payload:
+  - "+.wp.com"
+  - "+.wpvip.com"
+  - "+.videopress.com"
+  - "+.wordpress.com"
+  - "+.wp-themes.com"
+  - "+.w.org"
+  - "+.wordpress.org"
+  - "+.wordpress.tv"

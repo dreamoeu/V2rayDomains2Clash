@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/godaddy.yaml
+
+payload:
+  - "+.godaddy.com"
+  - "+.x.co"
+  - "+.godaddy"

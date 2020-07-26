@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/ssrcloud.yaml
+
+payload:
+  - "+.china-internet-exchange.com"
+  - "+.cxkcloud.com"
+  - "+.ssrcloud.com"
+  - "+.ssrcloud.org"

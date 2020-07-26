@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/protonmail.yaml
+
+payload:
+  - "+.protonmail.ch"
+  - "+.protonmail.com"
+  - "+.protonstatus.com"
+  - "+.pm.me"

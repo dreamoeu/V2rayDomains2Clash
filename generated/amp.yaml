@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/amp.yaml
+
+payload:
+  - "+.amp.dev"
+  - "+.ampproject.com"
+  - "+.ampproject.net"
+  - "+.ampproject.org"

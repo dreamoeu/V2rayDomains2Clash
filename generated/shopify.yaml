@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/shopify.yaml
+
+payload:
+  - "+.shopify.com"
+  - "+.shopifysvc.com"
+  - "+.shopify.dev"

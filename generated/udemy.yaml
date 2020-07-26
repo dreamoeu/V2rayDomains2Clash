@@ -1,0 +1,5 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/udemy.yaml
+
+payload:
+  - "+.udemy.com"
+  - "+.udemycdn.com"

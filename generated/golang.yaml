@@ -1,0 +1,11 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/golang.yaml
+
+payload:
+  - "+.go-lang.net"
+  - "+.golang.net"
+  - "+.go-lang.org"
+  - "+.godoc.org"
+  - "+.golang.org"
+  - "+.go.dev"
+  - "+.go-lang.com"
+  - "+.golang.com"

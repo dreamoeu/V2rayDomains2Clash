@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/v2ray.yaml
+
+payload:
+  - "+.v2ray.com"
+  - "+.v2ray.cool"
+  - "+.v2fly.org"

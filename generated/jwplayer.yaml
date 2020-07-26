@@ -1,0 +1,9 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/jwplayer.yaml
+
+payload:
+  - "+.longtailvideo.com"
+  - "+.jwpcdn.com"
+  - "+.jwplatform.com"
+  - "+.jwplayer.com"
+  - "+.jwpltx.com"
+  - "+.jwpsrv.com"

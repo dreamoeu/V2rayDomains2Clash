@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/rust.yaml
+
+payload:
+  - "+.rustup.rs"
+  - "+.docs.rs"
+  - "+.crates.io"
+  - "+.rust-lang.org"

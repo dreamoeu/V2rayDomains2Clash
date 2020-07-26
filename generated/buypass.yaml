@@ -1,0 +1,8 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/buypass.yaml
+
+payload:
+  - "+.buypass.com"
+  - "+.buypass-ssl.com"
+  - "+.buypass.no"
+  - "+.minid.no"
+  - "+.buypass.se"

@@ -1,0 +1,5 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/scala.yaml
+
+payload:
+  - "+.scala-lang.org"
+  - "+.scala-sbt.org"

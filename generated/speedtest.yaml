@@ -1,0 +1,14 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/speedtest.yaml
+
+payload:
+  - "+.cdnst.net"
+  - "+.pingtest.net"
+  - "+.speedtest.net"
+  - "+.webtest.net"
+  - "+.cellmaps.com"
+  - "+.ekahau.com"
+  - "+.ookla.com"
+  - "+.speedtestcustom.com"
+  - "+.ekahau.cloud"
+  - "+.speedtest.co"
+  - "+.regex:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$"

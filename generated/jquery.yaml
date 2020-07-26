@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/jquery.yaml
+
+payload:
+  - "+.jquery.com"
+  - "+.jquerymobile.com"
+  - "+.jqueryui.com"

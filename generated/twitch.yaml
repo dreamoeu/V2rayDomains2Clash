@@ -1,0 +1,9 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/twitch.yaml
+
+payload:
+  - "+.ext-twitch.tv"
+  - "+.twitch.tv"
+  - "+.jtvnw.net"
+  - "+.ttvnw.net"
+  - "+.twitchcdn.net"
+  - "+.twitchsvc.net"

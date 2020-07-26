@@ -1,0 +1,8 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/fastly.yaml
+
+payload:
+  - "+.fastly.net"
+  - "+.fastlylb.net"
+  - "+.fastly.com"
+  - "+.fastlylabs.com"
+  - "+.fastly-terrarium.com"

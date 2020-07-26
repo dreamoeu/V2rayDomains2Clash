@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/deviantart.yaml
+
+payload:
+  - "+.deviantart.com"
+  - "+.da-files.com"
+  - "+.deviantart.net"

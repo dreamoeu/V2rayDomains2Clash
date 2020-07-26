@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/haskell.yaml
+
+payload:
+  - "+.haskell.org"
+  - "+.haskellstack.org"
+  - "+.stackage.org"

@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/readthedocs.yaml
+
+payload:
+  - "+.readthedocs-hosted.com"
+  - "+.readthedocs.com"
+  - "+.readthedocs.io"
+  - "+.readthedocs.org"

@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/quora.yaml
+
+payload:
+  - "+.quora.com"
+  - "+.quoracdn.net"
+  - "+.qr.ae"

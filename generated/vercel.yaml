@@ -1,0 +1,15 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/vercel.yaml
+
+payload:
+  - "+.now.sh"
+  - "+.zeit.sh"
+  - "+.zeitworld.com"
+  - "+.vercel-dns.com"
+  - "+.vercel-status.com"
+  - "+.vercel.com"
+  - "+.zeit-world.com"
+  - "+.vercel.app"
+  - "+.zeit-world.co.uk"
+  - "+.zeit-world.net"
+  - "+.zeit-world.org"
+  - "+.zeit.co"

@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/sourceforge.yaml
+
+payload:
+  - "+.fsdn.com"
+  - "+.sourceforge.com"
+  - "+.sourceforge.net"
+  - "+.sf.net"

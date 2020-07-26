@@ -1,0 +1,10 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/digicert.yaml
+
+payload:
+  - "+.rapidssl.com"
+  - "+.thawte.com"
+  - "+.digicert.com"
+  - "+.freessl.com"
+  - "+.geotrust.com"
+  - "+.thawte.de"
+  - "+.thawte.fr"

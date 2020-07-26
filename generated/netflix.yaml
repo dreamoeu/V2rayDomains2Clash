@@ -1,0 +1,14 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/netflix.yaml
+
+payload:
+  - "+.fast.com"
+  - "+.netflix.com"
+  - "+.netflixinvestor.com"
+  - "+.nflxext.com"
+  - "+.nflximg.com"
+  - "+.netflix.ca"
+  - "+.netflix.net"
+  - "+.nflximg.net"
+  - "+.nflxsearch.net"
+  - "+.nflxso.net"
+  - "+.nflxvideo.net"

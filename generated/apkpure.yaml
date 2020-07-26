@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/apkpure.yaml
+
+payload:
+  - "+.apkpure.com"
+  - "+.cdnpure.com"
+  - "+.pureapk.com"
+  - "+.winudf.com"

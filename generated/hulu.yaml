@@ -1,0 +1,8 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/hulu.yaml
+
+payload:
+  - "+.huluqa.com"
+  - "+.hulustream.com"
+  - "+.hulu.com"
+  - "+.huluad.com"
+  - "+.huluim.com"

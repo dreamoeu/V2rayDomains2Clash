@@ -1,0 +1,9 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/jd-ads.yaml
+
+payload:
+  - "+.stat.m.jd.com"
+  - "+.img-x.jd.com"
+  - "+.ads.union.jd.com"
+  - "+.c-nfa.jd.com"
+  - "+.jzt.jd.com"
+  - "+.cps.360buy.com"

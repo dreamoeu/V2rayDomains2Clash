@@ -5,17 +5,11 @@ import (
 	"fmt"
 	"github.com/kr328/domains2providers/trie"
 	"io"
+	"io/ioutil"
 	"os"
 	"path"
 	"strings"
 )
-
-var generateFiles = map[string][]string{}
-
-func init() {
-	generateFiles["cn"] = []string{"cn"}
-	generateFiles["!cn"] = []string{"category-scholar-!cn", "geolocation-!cn", "tld-!cn"}
-}
 
 func main() {
 	data := path.Join(".", "domain-list-community", "data")
@@ -23,21 +17,26 @@ func main() {
 
 	_ = os.MkdirAll(generated, 0755)
 
-	for output, inputs := range generateFiles {
+	files, err := ioutil.ReadDir(data)
+	if err != nil {
+		panic(err.Error())
+	}
+
+	for _, file := range files {
 		t := trie.New()
 
-		for _, input := range inputs {
-			if err := appendFileToTrie(data, input, t); err != nil {
-				panic(err.Error())
-			}
+		if err := appendFileToTrie(data, file.Name(), t); err != nil {
+			panic(err.Error())
 		}
 
-		file, err := os.OpenFile(path.Join(generated, output+".yaml"), os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
+		file, err := os.OpenFile(path.Join(generated, file.Name()+".yaml"), os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
 		if err != nil {
 			panic(err.Error())
 		}
 
-		if _, err := file.WriteString("payload:\n"); err != nil {
+		header := fmt.Sprintf("https://github.com/v2ray/domain-list-community/blob/master/data/%s\n\npayload:\n", file.Name())
+
+		if _, err := file.WriteString(header); err != nil {
 			panic(err.Error())
 		}
 

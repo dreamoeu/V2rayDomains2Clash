@@ -1,0 +1,17 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/youtube.yaml
+
+payload:
+  - "+.ggpht.cn"
+  - "+.youtubeeducation.com"
+  - "+.youtubegaming.com"
+  - "+.youtubekids.com"
+  - "+.youtubemobilesupport.com"
+  - "+.ggpht.com"
+  - "+.googlevideo.com"
+  - "+.youtube.com"
+  - "+.ytimg.com"
+  - "+.withyoutube.com"
+  - "+.youtube-nocookie.com"
+  - "+.youtubei.googleapis.com"
+  - "+.youtu.be"
+  - "+.yt.be"

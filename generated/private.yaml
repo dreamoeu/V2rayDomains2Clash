@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/private.yaml
+
+payload:
+  - "+.local"
+  - "+.localhost"
+  - "+.localhost.sec.qq.com"
+  - "+.localhost.ptlogin2.qq.com"

@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/coursera.yaml
+
+payload:
+  - "+.coursera-for-business.org"
+  - "+.coursera.org"
+  - "+.coursera.community"
+  - "+.coursera.help"

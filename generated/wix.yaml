@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/wix.yaml
+
+payload:
+  - "+.wix.com"
+  - "+.wixmp.com"
+  - "+.wixsite.com"
+  - "+.wixstatic.com"

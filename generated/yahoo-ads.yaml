@@ -1,0 +1,5 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/yahoo-ads.yaml
+
+payload:
+  - "+.ads.yahoo.com"
+  - "+.gemini.yahoo.com"

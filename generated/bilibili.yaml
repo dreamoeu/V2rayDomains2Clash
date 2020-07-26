@@ -1,0 +1,17 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/bilibili.yaml
+
+payload:
+  - "+.biliapi.net"
+  - "+.bilibiligame.net"
+  - "+.biligame.net"
+  - "+.full:upos-hz-mirrorakam.akamaized.net"
+  - "+.acg.tv"
+  - "+.b23.tv"
+  - "+.im9.com"
+  - "+.mincdn.com"
+  - "+.acgvideo.com"
+  - "+.biliapi.com"
+  - "+.bilibili.com"
+  - "+.biligame.com"
+  - "+.bilivideo.com"
+  - "+.hdslb.com"

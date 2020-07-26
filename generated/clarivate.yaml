@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/clarivate.yaml
+
+payload:
+  - "+.isiknowledge.com"
+  - "+.clarivate.com"
+  - "+.webofknowledge.com"
+  - "+.newisiknowledge.com"

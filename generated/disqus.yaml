@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/disqus.yaml
+
+payload:
+  - "+.disqus.com"
+  - "+.disquscdn.com"
+  - "+.disqusservice.com"

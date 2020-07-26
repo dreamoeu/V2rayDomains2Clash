@@ -1,0 +1,21 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/wikimedia.yaml
+
+payload:
+  - "+.w.wiki"
+  - "+.wikimediafoundation.org"
+  - "+.wikinews.org"
+  - "+.wikiversity.org"
+  - "+.wmfusercontent.org"
+  - "+.toolforge.org"
+  - "+.wikibooks.org"
+  - "+.wikidata.org"
+  - "+.wikisource.org"
+  - "+.wikivoyage.org"
+  - "+.wmflabs.org"
+  - "+.mediawiki.org"
+  - "+.wikimedia.org"
+  - "+.wikimediacloud.org"
+  - "+.wmcloud.org"
+  - "+.wikipedia.org"
+  - "+.wikiquote.org"
+  - "+.wiktionary.org"

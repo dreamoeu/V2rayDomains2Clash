@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/gitbook.yaml
+
+payload:
+  - "+.gitbook.com"
+  - "+.gitbook.zendesk.com"
+  - "+.gitbook.io"

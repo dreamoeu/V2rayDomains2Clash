@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/duckduckgo.yaml
+
+payload:
+  - "+.duckduckgo.com"
+  - "+.duck.com"
+  - "+.spreadprivacy.com"
+  - "+.ddg.gg"

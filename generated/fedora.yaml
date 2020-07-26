@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/fedora.yaml
+
+payload:
+  - "+.getfedora.org"
+  - "+.fedoraforum.org"
+  - "+.fedoraproject.org"
+  - "+.fedoramagazine.org"

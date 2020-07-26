@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/anaconda.yaml
+
+payload:
+  - "+.anaconda.com"
+  - "+.anaconda.org"
+  - "+.conda.io"

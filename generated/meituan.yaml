@@ -1,0 +1,10 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/meituan.yaml
+
+payload:
+  - "+.dianping.com"
+  - "+.maoyan.com"
+  - "+.meituan.com"
+  - "+.mtyun.com"
+  - "+.sankuai.com"
+  - "+.meituan.net"
+  - "+.neixin.cn"

@@ -1,0 +1,15 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/heroku.yaml
+
+payload:
+  - "+.heroku.co"
+  - "+.codeish.co"
+  - "+.heroku-charge.com"
+  - "+.heroku.com"
+  - "+.herokuapp.com"
+  - "+.herokucdn.com"
+  - "+.herokucharge.com"
+  - "+.herokussl.com"
+  - "+.heroku-app.com"
+  - "+.heroku.me"
+  - "+.codei.sh"
+  - "+.codeish.io"

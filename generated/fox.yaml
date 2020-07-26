@@ -1,0 +1,16 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/fox.yaml
+
+payload:
+  - "+.fox"
+  - "+.fox.com"
+  - "+.foxcorporation.com"
+  - "+.foxfdm.com"
+  - "+.foxinc.com"
+  - "+.foxnews.com"
+  - "+.foxbusiness.com"
+  - "+.foxdcg.com"
+  - "+.foxdoua.com"
+  - "+.foxneo.com"
+  - "+.foxneodigital.com"
+  - "+.fxnetwork.com"
+  - "+.full:foxnewsplayer-a.akamaihd.net"

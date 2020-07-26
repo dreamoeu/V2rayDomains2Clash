@@ -1,0 +1,10 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/line.yaml
+
+payload:
+  - "+.line.me"
+  - "+.line.naver.jp"
+  - "+.nhncorp.jp"
+  - "+.line-apps.com"
+  - "+.line-cdn.net"
+  - "+.line-scdn.net"
+  - "+.lin.ee"

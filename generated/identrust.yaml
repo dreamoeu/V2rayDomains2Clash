@@ -1,0 +1,6 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/identrust.yaml
+
+payload:
+  - "+.identrust.co.uk"
+  - "+.identrust.net"
+  - "+.identrust.com"

@@ -1,0 +1,10 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/huawei.yaml
+
+payload:
+  - "+.vmall.com"
+  - "+.vmallres.com"
+  - "+.hicloud.com"
+  - "+.hihonor.com"
+  - "+.huawei.com"
+  - "+.huaweicloud.com"
+  - "+.honor.cn"

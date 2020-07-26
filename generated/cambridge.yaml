@@ -1,0 +1,7 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/cambridge.yaml
+
+payload:
+  - "+.cambridge.org"
+  - "+.cambridgemaths.org"
+  - "+.cambridgeschoolshakespeare.com"
+  - "+.cambridgedigital.net"

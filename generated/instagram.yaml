@@ -1,0 +1,8 @@
+https://github.com/v2ray/domain-list-community/blob/master/data/generated/instagram.yaml
+
+payload:
+  - "+.igcdn.com"
+  - "+.igsonar.com"
+  - "+.instagram.com"
+  - "+.instagram-press.com"
+  - "+.cdninstagram.com"
