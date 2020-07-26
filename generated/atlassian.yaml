@@ -2,7 +2,7 @@
 
 payload:
   - "+.atlassian.com"
-  - "+.trello.com"
-  - "+.trellocdn.com"
   - "+.bitbucket.org"
   - "+.statuspage.io"
+  - "+.trello.com"
+  - "+.trellocdn.com"

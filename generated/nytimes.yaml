@@ -2,9 +2,9 @@
 
 payload:
   - "+.nyt.com"
+  - "+.nyt.net"
+  - "+.nytcn.me"
   - "+.nytco.com"
   - "+.nytimes.com"
   - "+.nytstyle.com"
   - "+.timestalks.com"
-  - "+.nyt.net"
-  - "+.nytcn.me"

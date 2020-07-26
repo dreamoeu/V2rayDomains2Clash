@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/fastly
 
 payload:
-  - "+.fastly.com"
-  - "+.fastlylabs.com"
   - "+.fastly-terrarium.com"
+  - "+.fastly.com"
   - "+.fastly.net"
+  - "+.fastlylabs.com"
   - "+.fastlylb.net"

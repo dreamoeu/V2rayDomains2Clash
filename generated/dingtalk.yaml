@@ -2,10 +2,10 @@
 
 payload:
   - "+.ddurl.to"
-  - "+.lwurl.to"
   - "+.dingding.xin"
   - "+.dingtalk.cn"
   - "+.dingtalk.com"
+  - "+.dingtalk.net"
   - "+.dingtalkapps.com"
   - "+.laiwang.com"
-  - "+.dingtalk.net"
+  - "+.lwurl.to"

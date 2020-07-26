@@ -1,9 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/youku
 
 payload:
+  - "+.cibntv.net"
   - "+.kumiao.com"
-  - "+.youku.com"
-  - "+.ykimg.com"
   - "+.mmstat.com"
   - "+.soku.com"
-  - "+.cibntv.net"
+  - "+.ykimg.com"
+  - "+.youku.com"

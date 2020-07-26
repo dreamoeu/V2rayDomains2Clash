@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/sinopec
 
 payload:
-  - "+.sinopecgroup.com"
-  - "+.sinopecsales.com"
   - "+.sinopec-usa.com"
   - "+.sinopec.com"
+  - "+.sinopecgroup.com"
   - "+.sinopecnews.com.cn"
+  - "+.sinopecsales.com"

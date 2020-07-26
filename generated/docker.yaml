@@ -2,5 +2,5 @@
 
 payload:
   - "+.compose-spec.io"
-  - "+.docker.io"
   - "+.docker.com"
+  - "+.docker.io"

@@ -23,13 +23,6 @@ func main() {
 		panic(err.Error())
 	}
 
-	fileNames := make([]string, len(files))
-	for index, file := range files {
-		fileNames[index] = file.Name()
-	}
-
-	sort.Strings(fileNames)
-
 	for _, file := range files {
 		t := trie.New()
 
@@ -49,6 +42,8 @@ func main() {
 		}
 
 		domains := t.Dump()
+
+		sort.Strings(domains)
 
 		for _, domain := range domains {
 			if _, err := output.WriteString(fmt.Sprintf("  - \"+.%s\"\n", domain)); err != nil {

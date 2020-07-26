@@ -1,14 +1,14 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/netflix
 
 payload:
-  - "+.netflix.ca"
-  - "+.nflxso.net"
-  - "+.nflxvideo.net"
-  - "+.netflix.net"
-  - "+.nflximg.net"
-  - "+.nflxsearch.net"
   - "+.fast.com"
+  - "+.netflix.ca"
   - "+.netflix.com"
+  - "+.netflix.net"
   - "+.netflixinvestor.com"
   - "+.nflxext.com"
   - "+.nflximg.com"
+  - "+.nflximg.net"
+  - "+.nflxsearch.net"
+  - "+.nflxso.net"
+  - "+.nflxvideo.net"

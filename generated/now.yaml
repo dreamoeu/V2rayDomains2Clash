@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/now
 
 payload:
-  - "+.now-tv.com"
   - "+.now-ashare.com"
+  - "+.now-tv.com"
   - "+.now.com"
-  - "+.nowe.com"
   - "+.now.com.hk"
+  - "+.nowe.com"

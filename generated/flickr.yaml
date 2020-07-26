@@ -3,5 +3,5 @@
 payload:
   - "+.flickr"
   - "+.flickr.com"
-  - "+.staticflickr.com"
   - "+.flickr.net"
+  - "+.staticflickr.com"

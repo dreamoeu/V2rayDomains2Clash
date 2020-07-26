@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/pixiv
 
 payload:
-  - "+.pixiv.net"
-  - "+.pximg.net"
-  - "+.pixiv.org"
   - "+.pixiv.co.jp"
+  - "+.pixiv.net"
+  - "+.pixiv.org"
+  - "+.pximg.net"

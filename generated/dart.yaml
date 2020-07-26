@@ -2,5 +2,5 @@
 
 payload:
   - "+.dart.dev"
-  - "+.dartpad.dev"
   - "+.dartlang.org"
+  - "+.dartpad.dev"

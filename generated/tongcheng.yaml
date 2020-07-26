@@ -1,11 +1,11 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/tongcheng
 
 payload:
-  - "+.40017.cn"
   - "+.17u.cn"
   - "+.17u.net"
-  - "+.17usoft.net"
-  - "+.ly.com"
   - "+.17usoft.com"
+  - "+.17usoft.net"
+  - "+.40017.cn"
   - "+.elong.com"
   - "+.elongstatic.com"
+  - "+.ly.com"

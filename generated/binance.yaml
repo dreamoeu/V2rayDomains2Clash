@@ -1,10 +1,10 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/binance
 
 payload:
+  - "+.binance.charity"
   - "+.binance.cloud"
-  - "+.yshyqxx.com"
   - "+.binance.com"
+  - "+.binance.vision"
   - "+.binancezh.com"
   - "+.bnbstatic.com"
-  - "+.binance.vision"
-  - "+.binance.charity"
+  - "+.yshyqxx.com"

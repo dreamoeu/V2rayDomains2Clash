@@ -2,6 +2,6 @@
 
 payload:
   - "+.crates.io"
-  - "+.rust-lang.org"
   - "+.docs.rs"
+  - "+.rust-lang.org"
   - "+.rustup.rs"

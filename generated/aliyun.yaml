@@ -1,15 +1,15 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/aliyun
 
 payload:
-  - "+.aliyun-inc.com"
-  - "+.aliyuncs.com"
-  - "+.hichina.com"
-  - "+.mxhichina.com"
   - "+.alibabadns.com"
   - "+.alicdn.com"
+  - "+.alidayu.com"
+  - "+.alidns.com"
+  - "+.aliyun-inc.com"
   - "+.aliyun-iot-share.com"
   - "+.aliyun.com"
   - "+.aliyuncdn.com"
-  - "+.alidayu.com"
-  - "+.alidns.com"
+  - "+.aliyuncs.com"
+  - "+.hichina.com"
   - "+.ica-alliance.org"
+  - "+.mxhichina.com"

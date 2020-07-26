@@ -1,11 +1,11 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dedao
 
 payload:
-  - "+.saolife.com"
   - "+.biji.com"
   - "+.ddmogo.com"
+  - "+.igetget.cn"
   - "+.igetget.com"
   - "+.luojilab.com"
   - "+.mogoo.com"
-  - "+.igetget.cn"
   - "+.sao.cn"
+  - "+.saolife.com"

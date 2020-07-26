@@ -2,8 +2,8 @@
 
 payload:
   - "+.cisco"
-  - "+.full:cisco.evergage.com"
   - "+.cisco.com"
+  - "+.full:cisco.evergage.com"
+  - "+.full:ciscolivehls-i.akamaihd.net"
   - "+.mediafiles-cisco.com"
   - "+.static-cisco.com"
-  - "+.full:ciscolivehls-i.akamaihd.net"

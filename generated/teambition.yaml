@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/teambition
 
 payload:
-  - "+.teambition.net"
   - "+.teambition.com"
+  - "+.teambition.net"
   - "+.teambitionapis.com"

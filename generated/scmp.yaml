@@ -1,5 +1,5 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/scmp
 
 payload:
-  - "+.scmp.com"
   - "+.i-scmp.com"
+  - "+.scmp.com"

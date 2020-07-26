@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dlercloud
 
 payload:
-  - "+.dleris.best"
   - "+.dlercloud.com"
-  - "+.dlercloud.org"
   - "+.dlercloud.me"
+  - "+.dlercloud.org"
+  - "+.dleris.best"

@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/jquery
 
 payload:
+  - "+.jquery.com"
   - "+.jquerymobile.com"
   - "+.jqueryui.com"
-  - "+.jquery.com"

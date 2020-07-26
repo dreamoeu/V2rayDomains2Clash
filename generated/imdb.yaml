@@ -2,5 +2,5 @@
 
 payload:
   - "+.imdb.com"
-  - "+.media-imdb.com"
   - "+.imdb.to"
+  - "+.media-imdb.com"

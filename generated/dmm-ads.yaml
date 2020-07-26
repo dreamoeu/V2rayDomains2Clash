@@ -1,13 +1,13 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/dmm-ads
 
 payload:
+  - "+.bluekai.com"
   - "+.fout.jp"
   - "+.gmossp-sp.jp"
   - "+.i-mobile.co.jp"
-  - "+.microad.co.jp"
-  - "+.impact-ad.jp"
-  - "+.microad.jp"
   - "+.im-apps.net"
-  - "+.bluekai.com"
+  - "+.impact-ad.jp"
   - "+.ladsp.com"
+  - "+.microad.co.jp"
+  - "+.microad.jp"
   - "+.socdm.com"

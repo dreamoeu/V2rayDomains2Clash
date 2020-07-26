@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/gucci
 
 payload:
-  - "+.gucci"
   - "+.chimeforchange.org"
+  - "+.gucci"
   - "+.gucci.cn"
   - "+.gucci.com"
   - "+.guccimuseo.com"

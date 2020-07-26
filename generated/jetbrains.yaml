@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/jetbrains
 
 payload:
-  - "+.jetbrains.net"
   - "+.datalore.io"
-  - "+.kotlinlang.org"
   - "+.jetbrains.com"
+  - "+.jetbrains.net"
+  - "+.kotlinlang.org"

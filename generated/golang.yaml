@@ -2,10 +2,10 @@
 
 payload:
   - "+.go-lang.com"
-  - "+.golang.com"
   - "+.go-lang.net"
-  - "+.golang.net"
-  - "+.godoc.org"
-  - "+.golang.org"
   - "+.go-lang.org"
   - "+.go.dev"
+  - "+.godoc.org"
+  - "+.golang.com"
+  - "+.golang.net"
+  - "+.golang.org"

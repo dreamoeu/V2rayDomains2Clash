@@ -1,15 +1,15 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/heroku
 
 payload:
-  - "+.heroku.me"
   - "+.codei.sh"
-  - "+.codeish.io"
-  - "+.heroku.co"
   - "+.codeish.co"
-  - "+.herokussl.com"
+  - "+.codeish.io"
   - "+.heroku-app.com"
   - "+.heroku-charge.com"
+  - "+.heroku.co"
   - "+.heroku.com"
+  - "+.heroku.me"
   - "+.herokuapp.com"
   - "+.herokucdn.com"
   - "+.herokucharge.com"
+  - "+.herokussl.com"

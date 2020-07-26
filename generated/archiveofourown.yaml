@@ -2,6 +2,6 @@
 
 payload:
   - "+.ao3.org"
-  - "+.archiveofourown.org"
   - "+.archiveofourown.com"
   - "+.archiveofourown.net"
+  - "+.archiveofourown.org"

@@ -1,16 +1,16 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/globalsign
 
 payload:
-  - "+.globalsign.com.hk"
-  - "+.globalsign.com.sg"
-  - "+.globalsign.eu"
-  - "+.globalsign.fr"
-  - "+.globalsign.net"
   - "+.globalsign-media.com"
-  - "+.globalsign.com"
   - "+.globalsign.be"
   - "+.globalsign.ch"
   - "+.globalsign.co.uk"
+  - "+.globalsign.com"
   - "+.globalsign.com.au"
+  - "+.globalsign.com.hk"
+  - "+.globalsign.com.sg"
   - "+.globalsign.es"
+  - "+.globalsign.eu"
+  - "+.globalsign.fr"
+  - "+.globalsign.net"
   - "+.globalsign.nl"

@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/guo
 
 payload:
-  - "+.guo.media"
+  - "+.g-tvapp.com"
+  - "+.gnews.org"
   - "+.gtv.org"
   - "+.gtv1.org"
-  - "+.gnews.org"
-  - "+.g-tvapp.com"
+  - "+.guo.media"

@@ -2,5 +2,5 @@
 
 payload:
   - "+.devcon.org"
-  - "+.ethereum.org"
   - "+.ethereum.foundation"
+  - "+.ethereum.org"

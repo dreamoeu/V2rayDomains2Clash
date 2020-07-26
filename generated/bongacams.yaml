@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/bongacams
 
 payload:
-  - "+.bongacams.com"
   - "+.bcicdn.com"
   - "+.bcrncdn.com"
+  - "+.bongacams.com"

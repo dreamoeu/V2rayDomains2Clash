@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/gitbook
 
 payload:
-  - "+.gitbook.zendesk.com"
   - "+.gitbook.com"
   - "+.gitbook.io"
+  - "+.gitbook.zendesk.com"

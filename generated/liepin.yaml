@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/liepin
 
 payload:
-  - "+.lietou.com"
-  - "+.lietou-static.com"
   - "+.liepin.com"
+  - "+.lietou-static.com"
+  - "+.lietou.com"

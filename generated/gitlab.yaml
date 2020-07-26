@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/gitlab
 
 payload:
-  - "+.gitlab.com"
   - "+.full:gitlab-assets.oss-cn-hongkong.aliyuncs.com"
+  - "+.gitlab-static.net"
+  - "+.gitlab.com"
   - "+.gitlab.io"
   - "+.gitlab.net"
-  - "+.gitlab-static.net"

@@ -2,13 +2,13 @@
 
 payload:
   - "+.shopee.co.id"
-  - "+.shopee.ph"
-  - "+.shopee.tw"
-  - "+.shopee.vn"
-  - "+.shp.ee"
   - "+.shopee.co.th"
   - "+.shopee.com"
-  - "+.shopeemobile.com"
   - "+.shopee.com.br"
   - "+.shopee.com.my"
+  - "+.shopee.ph"
   - "+.shopee.sg"
+  - "+.shopee.tw"
+  - "+.shopee.vn"
+  - "+.shopeemobile.com"
+  - "+.shp.ee"
