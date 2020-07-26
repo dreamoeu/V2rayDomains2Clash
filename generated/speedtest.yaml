@@ -1,14 +1,14 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/speedtest
 
 payload:
-  - "+.speedtest.net"
-  - "+.webtest.net"
-  - "+.cdnst.net"
-  - "+.pingtest.net"
-  - "+.ookla.com"
-  - "+.speedtestcustom.com"
-  - "+.cellmaps.com"
-  - "+.ekahau.com"
   - "+.ekahau.cloud"
   - "+.speedtest.co"
   - "+.regex:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$"
+  - "+.cdnst.net"
+  - "+.pingtest.net"
+  - "+.speedtest.net"
+  - "+.webtest.net"
+  - "+.ekahau.com"
+  - "+.ookla.com"
+  - "+.speedtestcustom.com"
+  - "+.cellmaps.com"

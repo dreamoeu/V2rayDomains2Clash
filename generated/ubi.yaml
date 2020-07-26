@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ubi
 
 payload:
-  - "+.uplay.com"
   - "+.ubi.com"
   - "+.ubisoft.com"
+  - "+.uplay.com"

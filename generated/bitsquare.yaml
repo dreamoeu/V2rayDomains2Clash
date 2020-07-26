@@ -1,6 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/bitsquare
 
 payload:
-  - "+.bitsquare.io"
   - "+.bisq.io"
+  - "+.bitsquare.io"
   - "+.bisq.network"

@@ -1,17 +1,17 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/mozilla
 
 payload:
-  - "+.full:mdn.mozillademos.org"
-  - "+.rust-lang.org"
   - "+.mozilla.org"
   - "+.bugzilla.org"
   - "+.seamonkey-project.org"
-  - "+.firefox.com"
+  - "+.full:mdn.mozillademos.org"
+  - "+.rust-lang.org"
   - "+.getpocket.com"
+  - "+.firefox.com"
   - "+.full:media.prod.mdn.mozit.cloud"
   - "+.rustup.rs"
   - "+.docs.rs"
   - "+.crates.io"
   - "+.mozilla.community"
-  - "+.mozilla.net"
   - "+.thunderbird.net"
+  - "+.mozilla.net"

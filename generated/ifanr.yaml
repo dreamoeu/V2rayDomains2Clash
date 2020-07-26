@@ -1,9 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ifanr
 
 payload:
-  - "+.ifanr.in"
   - "+.ifanr.com"
   - "+.ifanrusercontent.com"
   - "+.ifanrx.com"
   - "+.minapp.com"
   - "+.coolbuy.com"
+  - "+.ifanr.in"

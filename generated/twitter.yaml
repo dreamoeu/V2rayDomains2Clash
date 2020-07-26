@@ -1,6 +1,11 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/twitter
 
 payload:
+  - "+.t.co"
+  - "+.vine.co"
+  - "+.twitterstat.us"
+  - "+.twitter.jp"
+  - "+.twtrdns.net"
   - "+.ads-twitter.com"
   - "+.tellapart.com"
   - "+.tweetdeck.com"
@@ -8,10 +13,5 @@ payload:
   - "+.twitpic.com"
   - "+.twitter.com"
   - "+.twitteroauth.com"
-  - "+.pscp.tv"
   - "+.periscope.tv"
-  - "+.t.co"
-  - "+.vine.co"
-  - "+.twitterstat.us"
-  - "+.twitter.jp"
-  - "+.twtrdns.net"
+  - "+.pscp.tv"

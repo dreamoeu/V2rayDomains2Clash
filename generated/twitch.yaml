@@ -3,7 +3,7 @@
 payload:
   - "+.twitch.tv"
   - "+.ext-twitch.tv"
+  - "+.twitchsvc.net"
   - "+.jtvnw.net"
   - "+.ttvnw.net"
   - "+.twitchcdn.net"
-  - "+.twitchsvc.net"

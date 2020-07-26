@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/fedora
 
 payload:
+  - "+.getfedora.org"
   - "+.fedoraforum.org"
   - "+.fedoraproject.org"
   - "+.fedoramagazine.org"
-  - "+.getfedora.org"

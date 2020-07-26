@@ -1,13 +1,13 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/chinatelecom
 
 payload:
-  - "+.ctexcel.ca"
-  - "+.ctexcel.com"
-  - "+.chinatelecom-h.com"
   - "+.chinatelecomglobal.com"
   - "+.chntel.com"
+  - "+.ctexcel.com"
+  - "+.chinatelecom-h.com"
   - "+.ctexcel.com.hk"
   - "+.ctexcel.fr"
   - "+.ctexcel.us"
   - "+.189.cn"
   - "+.chinatelecom.com.cn"
+  - "+.ctexcel.ca"

@@ -1,8 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/iqiyi
 
 payload:
-  - "+.pps.tv"
-  - "+.qy.net"
   - "+.71.am"
   - "+.iqiyi.com"
   - "+.iqiyipic.com"
@@ -10,3 +8,5 @@ payload:
   - "+.qiyi.com"
   - "+.qiyipic.com"
   - "+.71edge.com"
+  - "+.pps.tv"
+  - "+.qy.net"

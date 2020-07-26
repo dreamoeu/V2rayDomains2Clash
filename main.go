@@ -8,6 +8,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path"
+	"sort"
 	"strings"
 )
 
@@ -21,6 +22,13 @@ func main() {
 	if err != nil {
 		panic(err.Error())
 	}
+
+	fileNames := make([]string, len(files))
+	for index, file := range files {
+		fileNames[index] = file.Name()
+	}
+
+	sort.Strings(fileNames)
 
 	for _, file := range files {
 		t := trie.New()

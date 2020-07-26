@@ -1,11 +1,11 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/chinaunicom
 
 payload:
-  - "+.chinaunicomglobal.com"
-  - "+.mychinaunicom.com"
   - "+.10010.com"
   - "+.chinaunicom.com"
-  - "+.wo.com.cn"
+  - "+.chinaunicomglobal.com"
+  - "+.mychinaunicom.com"
   - "+.10010.com.cn"
   - "+.chinaunicom.com.cn"
+  - "+.wo.com.cn"
   - "+.chinaunicom.com.hk"

@@ -1,5 +1,5 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ruby
 
 payload:
-  - "+.ruby-lang.org"
   - "+.rubygems.org"
+  - "+.ruby-lang.org"

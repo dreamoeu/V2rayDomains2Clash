@@ -1,7 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/telegram
 
 payload:
-  - "+.telesco.pe"
   - "+.telegram.org"
   - "+.graph.org"
   - "+.telegram.dog"
@@ -9,3 +8,4 @@ payload:
   - "+.telegram.me"
   - "+.tdesktop.com"
   - "+.telegra.ph"
+  - "+.telesco.pe"

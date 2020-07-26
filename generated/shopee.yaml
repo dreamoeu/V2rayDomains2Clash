@@ -1,14 +1,14 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/shopee
 
 payload:
-  - "+.shp.ee"
   - "+.shopee.co.id"
+  - "+.shopee.ph"
+  - "+.shopee.tw"
+  - "+.shopee.vn"
+  - "+.shp.ee"
   - "+.shopee.co.th"
   - "+.shopee.com"
   - "+.shopeemobile.com"
-  - "+.shopee.ph"
-  - "+.shopee.sg"
   - "+.shopee.com.br"
   - "+.shopee.com.my"
-  - "+.shopee.tw"
-  - "+.shopee.vn"
+  - "+.shopee.sg"

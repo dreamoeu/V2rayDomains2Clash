@@ -1,15 +1,15 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/zoho
 
 payload:
-  - "+.zoho.com"
-  - "+.zohopublic.com"
   - "+.zohostatic.com"
   - "+.zohouniversity.com"
+  - "+.zohowebstatic.com"
+  - "+.zohomerchandise.com"
+  - "+.zohopublic.com"
+  - "+.zohoschools.com"
+  - "+.zoho.com"
   - "+.zohocdn.com"
   - "+.zohomeetups.com"
-  - "+.zohomerchandise.com"
-  - "+.zohoschools.com"
-  - "+.zohowebstatic.com"
   - "+.zoho.com.au"
   - "+.zoho.eu"
   - "+.zoho.in"

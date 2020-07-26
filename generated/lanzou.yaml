@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/lanzou
 
 payload:
-  - "+.baidupan.com"
-  - "+.lanzou.com"
   - "+.lanzous.com"
   - "+.woozooo.com"
+  - "+.baidupan.com"
+  - "+.lanzou.com"

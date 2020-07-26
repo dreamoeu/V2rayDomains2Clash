@@ -5,7 +5,7 @@ payload:
   - "+.golang.com"
   - "+.go-lang.net"
   - "+.golang.net"
-  - "+.go-lang.org"
   - "+.godoc.org"
   - "+.golang.org"
+  - "+.go-lang.org"
   - "+.go.dev"

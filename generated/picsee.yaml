@@ -1,9 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/picsee
 
 payload:
-  - "+.pise.pw"
-  - "+.pse.is"
-  - "+.pros.ee"
   - "+.pics.ee"
+  - "+.pros.ee"
   - "+.picsee.co"
   - "+.picsee.pro"
+  - "+.pise.pw"
+  - "+.pse.is"

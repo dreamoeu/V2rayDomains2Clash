@@ -1,11 +1,11 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/wordpress
 
 payload:
+  - "+.wpvip.com"
+  - "+.videopress.com"
   - "+.wordpress.com"
   - "+.wp-themes.com"
   - "+.wp.com"
-  - "+.wpvip.com"
-  - "+.videopress.com"
   - "+.w.org"
   - "+.wordpress.org"
   - "+.wordpress.tv"

@@ -1,10 +1,10 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/slack
 
 payload:
-  - "+.slack-edge.com"
-  - "+.slack-imgs.com"
   - "+.slack.com"
   - "+.slackb.com"
   - "+.slackcertified.com"
   - "+.slackdemo.com"
   - "+.slackhq.com"
+  - "+.slack-edge.com"
+  - "+.slack-imgs.com"

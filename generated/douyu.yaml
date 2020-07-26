@@ -1,9 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/douyu
 
 payload:
+  - "+.douyutv.com"
   - "+.douyu.com"
   - "+.douyuscdn.com"
-  - "+.douyutv.com"
   - "+.douyu.tv"
-  - "+.douyucdn.cn"
   - "+.douyucdn2.cn"
+  - "+.douyucdn.cn"

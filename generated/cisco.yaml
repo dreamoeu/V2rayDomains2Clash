@@ -1,9 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/cisco
 
 payload:
-  - "+.full:ciscolivehls-i.akamaihd.net"
   - "+.cisco"
   - "+.full:cisco.evergage.com"
   - "+.cisco.com"
   - "+.mediafiles-cisco.com"
   - "+.static-cisco.com"
+  - "+.full:ciscolivehls-i.akamaihd.net"

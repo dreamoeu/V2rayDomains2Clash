@@ -1,8 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/xunlei
 
 payload:
+  - "+.xunlei.com"
   - "+.00cdn.com"
   - "+.88cdn.com"
   - "+.thunderurl.com"
-  - "+.xunlei.com"
   - "+.sandai.net"

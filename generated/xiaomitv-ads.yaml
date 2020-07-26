@@ -1,18 +1,18 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/xiaomitv-ads
 
 payload:
+  - "+.misc.in.duokanbox.com"
+  - "+.atianqi.com"
+  - "+.kuyun.com"
   - "+.umeng.com"
+  - "+.ad1.xiaomi.com"
+  - "+.mistat.xiaomi.com"
   - "+.ad.intl.xiaomi.com"
   - "+.ad.xiaomi.com"
   - "+.admob.xiaomi.com"
-  - "+.ad1.xiaomi.com"
-  - "+.mistat.xiaomi.com"
   - "+.ad.mi.com"
   - "+.tracking.miui.com"
   - "+.adv.sec.miui.com"
   - "+.adv.sec.intl.miui.com"
-  - "+.misc.in.duokanbox.com"
-  - "+.atianqi.com"
-  - "+.kuyun.com"
   - "+.ad.hpplay.cn"
   - "+.adeng.hpplay.cn"

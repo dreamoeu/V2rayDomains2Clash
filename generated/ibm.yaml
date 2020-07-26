@@ -1,10 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/ibm
 
 payload:
-  - "+.bluemix.net"
-  - "+.ibm.net"
-  - "+.s-bluemix.net"
-  - "+.ibm.eu"
   - "+.ibm.us"
   - "+.ibm"
   - "+.weatherchannel"
@@ -12,3 +8,7 @@ payload:
   - "+.bluemix.com"
   - "+.ibm.com"
   - "+.s81c.com"
+  - "+.bluemix.net"
+  - "+.ibm.net"
+  - "+.s-bluemix.net"
+  - "+.ibm.eu"

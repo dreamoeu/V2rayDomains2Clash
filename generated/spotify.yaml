@@ -1,15 +1,15 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/spotify
 
 payload:
+  - "+.spotify.design"
+  - "+.spotifyforbrands.com"
+  - "+.spotifyjobs.com"
   - "+.byspotify.com"
   - "+.spotify-everywhere.com"
   - "+.spotify.com"
   - "+.spotifycdn.com"
   - "+.spotifycharts.com"
   - "+.spotifycodes.com"
-  - "+.spotifyforbrands.com"
-  - "+.spotifyjobs.com"
   - "+.pscdn.co"
   - "+.scdn.co"
   - "+.spoti.fi"
-  - "+.spotify.design"

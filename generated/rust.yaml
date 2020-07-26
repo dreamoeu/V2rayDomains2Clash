@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/rust
 
 payload:
-  - "+.rust-lang.org"
-  - "+.rustup.rs"
-  - "+.docs.rs"
   - "+.crates.io"
+  - "+.rust-lang.org"
+  - "+.docs.rs"
+  - "+.rustup.rs"

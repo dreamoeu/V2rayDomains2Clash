@@ -1,5 +1,5 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/v8
 
 payload:
-  - "+.v8.dev"
   - "+.v8project.org"
+  - "+.v8.dev"

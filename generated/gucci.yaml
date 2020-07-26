@@ -1,10 +1,10 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/gucci
 
 payload:
-  - "+.gucci.cn"
-  - "+.guccitimeless.com"
-  - "+.regiongold.com"
-  - "+.gucci.com"
-  - "+.guccimuseo.com"
   - "+.gucci"
   - "+.chimeforchange.org"
+  - "+.gucci.cn"
+  - "+.gucci.com"
+  - "+.guccimuseo.com"
+  - "+.guccitimeless.com"
+  - "+.regiongold.com"

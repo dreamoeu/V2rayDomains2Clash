@@ -1,9 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/tiktok
 
 payload:
-  - "+.muscdn.com"
-  - "+.tiktok.com"
-  - "+.tiktokcdn.com"
-  - "+.tiktokv.com"
   - "+.musical.ly"
   - "+.full:p16-tiktokcdn-com.akamaized.net"
+  - "+.tiktokcdn.com"
+  - "+.tiktokv.com"
+  - "+.muscdn.com"
+  - "+.tiktok.com"
