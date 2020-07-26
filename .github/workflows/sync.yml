@@ -31,14 +31,12 @@ jobs:
         git fetch upstream
         git checkout upstream/master
 
-    - name: Get dependencies
-      run: |
-        go get .
-
     - name: Generate
+      working-directory: ./
       run: go run main.go
     
     - name: Push changes
       uses: ad-m/github-push-action@master
+      working-directory: ./
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
