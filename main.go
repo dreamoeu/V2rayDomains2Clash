@@ -46,7 +46,7 @@ func main() {
 		sort.Strings(domains)
 
 		for _, domain := range domains {
-			if _, err := output.WriteString(fmt.Sprintf("  - \"+.%s\"\n", domain)); err != nil {
+			if _, err := output.WriteString(fmt.Sprintf("  - \"%s\"\n", domain)); err != nil {
 				panic(err.Error())
 			}
 		}
@@ -84,12 +84,20 @@ func appendFileToTrie(base, fileName string, t *trie.DomainTrie) error {
 			continue
 		}
 
-		if strings.HasPrefix(line, "include:") {
-			if err := appendFileToTrie(base, line[len("include:"):], t); err != nil {
-				return err
-			}
+		seg := strings.SplitN(line, ":", 2)
+		if len(seg) == 1 {
+			_ = t.Insert(seg[0], "+.")
 		} else {
-			_ = t.Insert(line, true)
+			switch seg[0] {
+			case "include":
+				if err := appendFileToTrie(base, seg[1], t); err != nil {
+					return err
+				}
+			case "full":
+				_ = t.Insert(seg[1], "")
+			default:
+				println("Ignore unsupported " + line)
+			}
 		}
 	}
 }

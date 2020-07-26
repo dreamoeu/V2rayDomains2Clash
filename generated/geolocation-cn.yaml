@@ -753,7 +753,6 @@ payload:
   - "+.freebuf.com"
   - "+.freshhema.com"
   - "+.fugetech.com"
-  - "+.full:upos-hz-mirrorakam.akamaized.net"
   - "+.fuwj.com"
   - "+.fxxz.com"
   - "+.fyxz.com"
@@ -2071,3 +2070,4 @@ payload:
   - "+.zuoyebang.cc"
   - "+.zuoyebang.com"
   - "+.zybang.com"
+  - "upos-hz-mirrorakam.akamaized.net"

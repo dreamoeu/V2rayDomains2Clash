@@ -1,5 +1,5 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/kuaishou-ads
 
 payload:
-  - "+.full:log-sdk.gifshow.com"
-  - "+.full:wlog.kuaishou.com"
+  - "log-sdk.gifshow.com"
+  - "wlog.kuaishou.com"

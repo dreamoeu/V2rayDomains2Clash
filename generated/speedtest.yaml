@@ -7,7 +7,6 @@ payload:
   - "+.ekahau.com"
   - "+.ookla.com"
   - "+.pingtest.net"
-  - "+.regex:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$"
   - "+.speedtest.co"
   - "+.speedtest.net"
   - "+.speedtestcustom.com"

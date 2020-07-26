@@ -12,5 +12,5 @@ payload:
   - "+.foxneo.com"
   - "+.foxneodigital.com"
   - "+.foxnews.com"
-  - "+.full:foxnewsplayer-a.akamaihd.net"
   - "+.fxnetwork.com"
+  - "foxnewsplayer-a.akamaihd.net"

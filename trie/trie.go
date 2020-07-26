@@ -153,7 +153,9 @@ func (t *DomainTrie) Dump() []string {
 
 func (t *DomainTrie) dump(domains *[]string, currentSegment string, node *Node) {
 	if node.Data != nil || len(node.children) == 0 {
-		*domains = append(*domains, currentSegment)
+		if node.Data != nil {
+			*domains = append(*domains, node.Data.(string)+currentSegment)
+		}
 
 		return
 	}

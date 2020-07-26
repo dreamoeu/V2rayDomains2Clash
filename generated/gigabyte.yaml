@@ -3,8 +3,8 @@
 payload:
   - "+.aorus.com"
   - "+.aoruszone.cn"
-  - "+.full:gigabyte2.azureedge.net"
-  - "+.full:sa78gs.wpc.edgecastcdn.net"
-  - "+.full:sni1dcb6gl.wpc.edgecastcdn.net"
   - "+.gigabyte.cn"
   - "+.gigabyte.com"
+  - "gigabyte2.azureedge.net"
+  - "sa78gs.wpc.edgecastcdn.net"
+  - "sni1dcb6gl.wpc.edgecastcdn.net"

@@ -4,7 +4,6 @@ payload:
   - "+.apple-icloud.cn"
   - "+.appleicloud.cn"
   - "+.applemx-icloud.com"
-  - "+.full:www-cdn.icloud.com.akadns.net"
   - "+.icloud-apple.cn"
   - "+.icloud-content.com"
   - "+.icloud-isupport.com"
@@ -40,3 +39,4 @@ payload:
   - "+.me.com"
   - "+.mylcloud.net"
   - "+.wwwicloud.com"
+  - "www-cdn.icloud.com.akadns.net"

@@ -11,7 +11,7 @@ payload:
   - "+.biligame.com"
   - "+.biligame.net"
   - "+.bilivideo.com"
-  - "+.full:upos-hz-mirrorakam.akamaized.net"
   - "+.hdslb.com"
   - "+.im9.com"
   - "+.mincdn.com"
+  - "upos-hz-mirrorakam.akamaized.net"

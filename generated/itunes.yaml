@@ -18,7 +18,6 @@ payload:
   - "+.12diasderegalosdeitunes.pe"
   - "+.12joursdecadeauxdeitunes.com"
   - "+.apple-itunes.cn"
-  - "+.full:itunes-apple.com.akadns.net"
   - "+.itun.es"
   - "+.itunes-apple.cn"
   - "+.itunes-radio.net"
@@ -42,3 +41,4 @@ payload:
   - "+.itunesradio.tw"
   - "+.itunesstore.co"
   - "+.itunesu.com"
+  - "itunes-apple.com.akadns.net"

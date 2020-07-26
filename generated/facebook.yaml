@@ -14,7 +14,6 @@ payload:
   - "+.fb.me"
   - "+.fbcdn.net"
   - "+.fbsbx.com"
-  - "+.full:fbcdn-a.akamaihd.net"
   - "+.igcdn.com"
   - "+.igsonar.com"
   - "+.instagram-press.com"
@@ -27,3 +26,4 @@ payload:
   - "+.thefacebook.com"
   - "+.whatsapp.com"
   - "+.whatsapp.net"
+  - "fbcdn-a.akamaihd.net"

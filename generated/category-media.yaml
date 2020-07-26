@@ -112,7 +112,6 @@ payload:
   - "+.foxnews.com"
   - "+.freebeacon.com"
   - "+.freeviewplus.net.au"
-  - "+.full:foxnewsplayer-a.akamaihd.net"
   - "+.funnyordie.com"
   - "+.fxnetwork.com"
   - "+.g-tvapp.com"
@@ -314,3 +313,4 @@ payload:
   - "+.zeriamerikes.com"
   - "+.zerohedge.com"
   - "+.zoomingin.tv"
+  - "foxnewsplayer-a.akamaihd.net"
