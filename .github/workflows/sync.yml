@@ -34,6 +34,7 @@ jobs:
     - name: Delete unused go files
       working-directory: ./domain-list-community
       run: |
+        echo $PWD
         pwd
         ls
         rm -rf *.go *.mod *.sum
