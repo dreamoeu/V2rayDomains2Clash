@@ -33,7 +33,7 @@ jobs:
 
     - name: Get dependencies
       run: |
-        go get ./...
+        go get .
 
     - name: Generate
       run: go run main.go
