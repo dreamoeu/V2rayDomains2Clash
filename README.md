@@ -1,8 +1,11 @@
 # V2rayDomains2Clash
 
-Convert https://github.com/v2ray/domain-list-community to [Clash](https://github.com/Dreamacro/clash) rule provider
+Generate clash rule providers from https://github.com/v2ray/domain-list-community
 
-# Generated
+## Generated
 
-https://github.com/Kr328/V2rayDomains2Clash/tree/master/generated
+https://github.com/Kr328/V2rayDomains2Clash/tree/generated
 
+## Mirror
+
+https://rules.kr328.app
