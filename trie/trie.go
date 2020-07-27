@@ -131,10 +131,10 @@ func (t *DomainTrie) search(node *Node, parts []string) *Node {
 	return nil
 }
 
-func (t *DomainTrie) Dump() []string {
+func (t *DomainTrie) Dump(transform func(string, interface{}) string) []string {
 	result := make([]string, 0, 1024*10)
 
-	t.dump(&result, "", t.root)
+	t.dump(&result, "", t.root, transform)
 
 	index := 0
 
@@ -151,17 +151,17 @@ func (t *DomainTrie) Dump() []string {
 	return result
 }
 
-func (t *DomainTrie) dump(domains *[]string, currentSegment string, node *Node) {
+func (t *DomainTrie) dump(domains *[]string, currentSegment string, node *Node, transform func(string, interface{}) string) {
 	if node.Data != nil || len(node.children) == 0 {
 		if node.Data != nil {
-			*domains = append(*domains, node.Data.(string)+currentSegment)
+			*domains = append(*domains, transform(currentSegment, node.Data))
 		}
 
 		return
 	}
 
 	for k, v := range node.children {
-		t.dump(domains, k+"."+currentSegment, v)
+		t.dump(domains, k+"."+currentSegment, v, transform)
 	}
 }
 

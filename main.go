@@ -41,7 +41,11 @@ func main() {
 			panic(err.Error())
 		}
 
-		domains := t.Dump()
+		domains := t.Dump(func(s string, i interface{}) string {
+			prefix := i.(string)
+
+			return prefix + s
+		})
 
 		sort.Strings(domains)
 
