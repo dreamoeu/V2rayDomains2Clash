@@ -1,7 +1,0 @@
-# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/readthedocs
-
-payload:
-  - "+.readthedocs-hosted.com"
-  - "+.readthedocs.com"
-  - "+.readthedocs.io"
-  - "+.readthedocs.org"

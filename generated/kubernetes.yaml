@@ -1,5 +1,0 @@
-# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/kubernetes
-
-payload:
-  - "+.k8s.io"
-  - "+.kubernetes.io"

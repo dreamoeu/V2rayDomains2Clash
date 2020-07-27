@@ -1,7 +1,0 @@
-# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/mdn
-
-payload:
-  - "developer.mozilla.org"
-  - "interactive-examples.mdn.mozilla.net"
-  - "mdn.mozillademos.org"
-  - "media.prod.mdn.mozit.cloud"
