@@ -1,6 +1,6 @@
 # V2rayDomains2Clash
 
-Generate clash rule providers from https://github.com/v2ray/domain-list-community
+Generate clash rule providers from https://github.com/v2fly/domain-list-community
 
 ### Generated
 
