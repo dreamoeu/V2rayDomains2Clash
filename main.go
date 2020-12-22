@@ -40,7 +40,7 @@ func main() {
 
 		sort.Strings(domains)
 
-		output, err := os.OpenFile(path.Join(generated, file.Name()), os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0644)
+		output, err := os.OpenFile(path.Join(generated, file.Name()+".yaml"), os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0644)
 		if err != nil {
 			log.Println("Open output file", file.Name(), ":", err.Error())
 
