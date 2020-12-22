@@ -1,5 +1,3 @@
-// from https://github.com/Dreamacro/clash/blob/dev/component/trie/trie.go
-
 package trie
 
 import (
@@ -7,165 +5,124 @@ import (
 	"strings"
 )
 
-const (
-	wildcard        = "*"
-	dotWildcard     = ""
-	complexWildcard = "+"
-	domainStep      = "."
-)
-
 var (
-	// ErrInvalidDomain means insert domain is invalid
 	ErrInvalidDomain = errors.New("invalid domain")
 )
 
-// DomainTrie contains the main logic for adding and searching nodes for domain segments.
-// support wildcard domain (e.g *.google.com)
-type DomainTrie struct {
+type Node struct {
+	children map[string]*Node
+	matched  bool
+}
+
+type Trie struct {
 	root *Node
 }
 
-func validAndSplitDomain(domain string) ([]string, bool) {
+func splitDomain(domain string) ([]string, error) {
 	if domain != "" && domain[len(domain)-1] == '.' {
-		return nil, false
+		return nil, ErrInvalidDomain
 	}
 
-	parts := strings.Split(domain, domainStep)
+	parts := strings.Split(domain, ".")
 	if len(parts) == 1 {
 		if parts[0] == "" {
-			return nil, false
+			return nil, ErrInvalidDomain
 		}
 
-		return parts, true
+		return parts, nil
 	}
 
 	for _, part := range parts[1:] {
 		if part == "" {
-			return nil, false
+			return nil, ErrInvalidDomain
 		}
 	}
 
-	return parts, true
+	return parts, nil
 }
 
-// Insert adds a node to the trie.
-// Support
-// 1. www.example.com
-// 2. *.example.com
-// 3. subdomain.*.example.com
-// 4. .example.com
-// 5. +.example.com
-func (t *DomainTrie) Insert(domain string, data interface{}) error {
-	parts, valid := validAndSplitDomain(domain)
-	if !valid {
-		return ErrInvalidDomain
+func (t *Trie) Insert(domain string, full bool) error {
+	parts, err := splitDomain(domain)
+	if err != nil {
+		return err
 	}
 
-	if parts[0] == complexWildcard {
-		t.insert(parts[1:], data)
-		parts[0] = dotWildcard
-		t.insert(parts, data)
-	} else {
-		t.insert(parts, data)
-	}
-
-	return nil
-}
-
-func (t *DomainTrie) insert(parts []string, data interface{}) {
 	node := t.root
-	// reverse storage domain part to save space
+
 	for i := len(parts) - 1; i >= 0; i-- {
 		part := parts[i]
-		if !node.hasChild(part) {
-			node.addChild(part, newNode(nil))
+
+		if node.children == nil {
+			return nil
 		}
 
-		node = node.getChild(part)
-	}
+		n := node.children[part]
 
-	node.Data = data
-}
+		if n == nil {
+			n = &Node{
+				children: map[string]*Node{},
+			}
 
-// Search is the most important part of the Trie.
-// Priority as:
-// 1. static part
-// 2. wildcard domain
-// 2. dot wildcard domain
-func (t *DomainTrie) Search(domain string) *Node {
-	parts, valid := validAndSplitDomain(domain)
-	if !valid || parts[0] == "" {
-		return nil
-	}
-
-	n := t.search(t.root, parts)
-
-	if n == nil || n.Data == nil {
-		return nil
-	}
-
-	return n
-}
-
-func (t *DomainTrie) search(node *Node, parts []string) *Node {
-	if len(parts) == 0 {
-		return node
-	}
-
-	if c := node.getChild(parts[len(parts)-1]); c != nil {
-		if n := t.search(c, parts[:len(parts)-1]); n != nil {
-			return n
+			node.children[part] = n
 		}
+
+		node = n
 	}
 
-	if c := node.getChild(wildcard); c != nil {
-		if n := t.search(c, parts[:len(parts)-1]); n != nil {
-			return n
-		}
-	}
-
-	if c := node.getChild(dotWildcard); c != nil {
-		return c
+	if full {
+		node.matched = true
+	} else {
+		node.children = nil
 	}
 
 	return nil
 }
 
-func (t *DomainTrie) Dump(transform func(string, interface{}) string) []string {
-	result := make([]string, 0, 1024*10)
+func (t *Trie) Dump() []string {
+	list := make([]string, 0, 1024)
 
-	t.dump(&result, "", t.root, transform)
+	t.root.dump(&list, []string{})
 
-	index := 0
-
-	for _, s := range result {
-		if s == "" {
-			continue
-		}
-
-		result[index] = s[:len(s)-1]
-
-		index++
-	}
-
-	return result
+	return list
 }
 
-func (t *DomainTrie) dump(domains *[]string, currentSegment string, node *Node, transform func(string, interface{}) string) {
-	if node.Data != nil || len(node.children) == 0 {
-		if node.Data != nil {
-			*domains = append(*domains, transform(currentSegment, node.Data))
-		}
+func New() *Trie {
+	return &Trie{
+		root: &Node{
+			children: map[string]*Node{},
+			matched:  false,
+		},
+	}
+}
+
+func (t *Node) dump(list *[]string, parts []string) {
+	if t.children == nil {
+		*list = append(*list, joinDomain(append(parts, "+")))
 
 		return
 	}
 
-	for k, v := range node.children {
-		t.dump(domains, k+"."+currentSegment, v, transform)
+	if t.matched {
+		*list = append(*list, joinDomain(parts))
+	}
+
+	for k, v := range t.children {
+		v.dump(list, append(parts, k))
 	}
 }
 
-// New returns a new, empty Trie.
-func New() *DomainTrie {
-	return &DomainTrie{root: newNode(nil)}
+func joinDomain(parts []string) string {
+	domain := ""
+	index := len(parts) - 1
+
+	for index > 0 {
+		domain += parts[index]
+		domain += "."
+
+		index--
+	}
+
+	domain += parts[index]
+
+	return domain
 }
