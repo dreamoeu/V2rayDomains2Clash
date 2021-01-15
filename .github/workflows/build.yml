@@ -1,0 +1,62 @@
+name: Build
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - "**/README.md"
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: clear domain-list-community
+        run: |
+          cd ${{ github.workspace }}/
+          ls -la ./
+          rm -rf domain-list-community/
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with: 
+          repository: v2fly/domain-list-community
+          path: domain-list-community
+
+      - name: Setup Go 1.x.y
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.15
+
+      - name: Generate
+        run: go run main.go
+
+      - name: Get Commit Message
+        id: message
+        uses: actions/github-script@v3
+        env:
+          FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
+        with:
+          result-encoding: string
+          script: |
+            var message = `${process.env.FULL_COMMIT_MESSAGE}`;
+            core.info(message);
+            if (message != '') return message;
+            var time = new Date(Date.now()).toISOString();
+            core.info(time);
+            return `Generate at ${time}`;
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: generated
+          publish_dir: ./generated
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          full_commit_message: ${{ steps.message.outputs.result }}
+          force_orphan: true
