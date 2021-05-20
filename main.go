@@ -2,82 +2,63 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
-	"log"
 	"os"
 	"path"
-	"sort"
 
-	"github.com/kr328/domains2providers/entry"
-	"github.com/kr328/domains2providers/trie"
+	"github.com/kr328/domains2providers/rule"
 )
 
 func main() {
-	data := path.Join(".", "domain-list-community", "data")
-	generated := path.Join(".", "generated")
+	if len(os.Args) < 3 {
+		println("Usage: <v2ray-domains-path> <output-path>")
+
+		os.Exit(1)
+	}
+
+	data := path.Join(os.Args[1], "data")
+	generated := os.Args[2]
 
 	_ = os.MkdirAll(generated, 0755)
 
-	files, err := ioutil.ReadDir(data)
+	ruleSets, err := rule.ParseDirectory(data)
 	if err != nil {
-		log.Println("Open domain list:", err.Error())
+		println("Load domains: " + err.Error())
 
-		return
+		os.Exit(1)
 	}
 
-	cache, err := entry.BuildCache(data)
-
-	for _, file := range files {
-		t := trie.New()
-
-		if err := putAllDomains(cache, t, file.Name()); err != nil {
-			log.Println("Put domain list", err.Error())
-
-			return
-		}
-
-		domains := t.Dump()
-
-		sort.Strings(domains)
-
-		output, err := os.OpenFile(path.Join(generated, file.Name()+".yaml"), os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0644)
+	for name := range ruleSets {
+		tags, err := rule.Resolve(ruleSets, name)
 		if err != nil {
-			log.Println("Open output file", file.Name(), ":", err.Error())
+			println("Resolve " + name + ": " + err.Error())
 
-			return
+			continue
 		}
 
-		_, _ = output.WriteString("# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/" + file.Name() + "\n\n")
-		_, _ = output.WriteString("payload:\n")
+		for tag, rules := range tags {
+			var outputPath string
 
-		for _, domain := range domains {
-			if _, err := output.WriteString(fmt.Sprintf("  - \"%s\"\n", domain)); err != nil {
-				panic(err.Error())
+			if tag == "" {
+				outputPath = path.Join(generated, fmt.Sprintf("%s.yaml", name))
+			} else {
+				outputPath = path.Join(generated, fmt.Sprintf("%s@%s.yaml", name, tag))
 			}
-		}
 
-		_ = output.Close()
-	}
-}
+			file, err := os.OpenFile(outputPath, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0644)
+			if err != nil {
+				println("Write file " + outputPath + ": " + err.Error())
 
-func putAllDomains(cache map[string]*entry.Entry, trie *trie.Trie, name string) error {
-	root := cache[name]
-	if root == nil {
-		return fmt.Errorf("entry %s not found", name)
-	}
-
-	for _, l := range root.Lines {
-		switch l.Type {
-		case entry.Include:
-			if err := putAllDomains(cache, trie, l.Payload); err != nil {
-				return err
+				continue
 			}
-		case entry.Full:
-			_ = trie.Insert(l.Payload, true)
-		case entry.Suffix:
-			_ = trie.Insert(l.Payload, false)
+
+			_, _ = file.WriteString(fmt.Sprintf("# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/%s\n\n", name))
+			_, _ = file.WriteString(fmt.Sprintf("payload:\n"))
+
+			for _, domain := range rules {
+				_, _ = file.WriteString(fmt.Sprintf("- \"%s\"\n", domain))
+			}
+
+			_ = file.Close()
 		}
 	}
-
-	return nil
 }

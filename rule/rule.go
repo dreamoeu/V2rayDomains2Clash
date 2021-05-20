@@ -1,4 +1,4 @@
-package entry
+package rule
 
 const (
 	Include LineType = iota
@@ -8,11 +8,12 @@ const (
 
 type LineType int
 
-type Line struct {
+type Rule struct {
 	Type    LineType
 	Payload string
+	Tags    []string
 }
 
-type Entry struct {
-	Lines []*Line
+type Ruleset struct {
+	Rules []*Rule
 }

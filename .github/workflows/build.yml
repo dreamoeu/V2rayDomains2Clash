@@ -15,13 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: clear domain-list-community
-        run: |
-          cd ${{ github.workspace }}/
-          ls -la ./
-          rm -rf domain-list-community/
-
-      - name: Checkout code
+      - name: Checkout data source
         uses: actions/checkout@v2
         with: 
           repository: v2fly/domain-list-community
@@ -30,10 +24,10 @@ jobs:
       - name: Setup Go 1.x.y
         uses: actions/setup-go@v2
         with:
-          go-version: ^1.15
+          go-version: ^1.16
 
       - name: Generate
-        run: go run main.go
+        run: go run main.go domain-list-community generated
 
       - name: Get Commit Message
         id: message
