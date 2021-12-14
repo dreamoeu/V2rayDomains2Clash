@@ -24,6 +24,11 @@ var raws = []*Raw{
 		Behavior:  "ipcidr",
 		SourceUrl: "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt",
 	},
+	{
+		Name:      "local-ips",
+		Behavior:  "ipcidr",
+		SourceUrl: "https://gist.githubusercontent.com/Kr328/927492746f728ac0b1c5e4b1660ca260/raw/local-ip-list.txt",
+	},
 }
 
 func LoadRawSources() ([]*RuleSet, error) {
