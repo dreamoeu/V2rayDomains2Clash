@@ -29,6 +29,11 @@ var raws = []*Raw{
 		Behavior:  "ipcidr",
 		SourceUrl: "https://gist.githubusercontent.com/Kr328/927492746f728ac0b1c5e4b1660ca260/raw/local-ip-list.txt",
 	},
+	{
+		Name:      "public-dns",
+		Behavior:  "ipcidr",
+		SourceUrl: "https://gist.githubusercontent.com/Kr328/83120bec98f8596676e916fa3be969c8/raw/public-dns.txt",
+	},
 }
 
 func LoadRawSources() ([]*RuleSet, error) {
