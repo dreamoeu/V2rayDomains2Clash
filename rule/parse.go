@@ -1,13 +1,13 @@
 package rule
 
 import (
-	"io/ioutil"
+	"os"
 	"path"
 	"strings"
 )
 
 func ParseFile(file string) (*Ruleset, error) {
-	content, err := ioutil.ReadFile(file)
+	content, err := os.ReadFile(file)
 	if err != nil {
 		return nil, err
 	}
@@ -27,16 +27,21 @@ func ParseFile(file string) (*Ruleset, error) {
 
 		rule := &Rule{}
 
+		descriptor := fields[0]
+
 		switch {
-		case !strings.Contains(fields[0], ":"):
+		case !strings.Contains(descriptor, ":"):
 			rule.Type = Suffix
-			rule.Payload = fields[0]
-		case strings.HasPrefix(fields[0], "include:"):
+			rule.Payload = descriptor
+		case strings.HasPrefix(descriptor, "include:"):
 			rule.Type = Include
-			rule.Payload = fields[0][len("include:"):]
-		case strings.HasPrefix(fields[0], "full:"):
+			rule.Payload = descriptor[len("include:"):]
+		case strings.HasPrefix(descriptor, "full:"):
 			rule.Type = Full
-			rule.Payload = fields[0][len("full:"):]
+			rule.Payload = descriptor[len("full:"):]
+		case strings.HasPrefix(descriptor, "domain:"):
+			rule.Type = Full
+			rule.Payload = descriptor[len("domain:"):]
 		default:
 			println("Unsupported rule: " + line)
 			continue
@@ -59,7 +64,7 @@ func ParseFile(file string) (*Ruleset, error) {
 }
 
 func ParseDirectory(directory string) (map[string]*Ruleset, error) {
-	files, err := ioutil.ReadDir(directory)
+	files, err := os.ReadDir(directory)
 	if err != nil {
 		return nil, err
 	}
