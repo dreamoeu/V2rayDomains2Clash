@@ -28,7 +28,7 @@ type RuleSetCollection struct {
 func main() {
 	if len(os.Args) < 3 {
 		println("Usage: <v2ray-domains-path> <output-path>")
-		
+
 		os.Exit(1)
 	}
 
@@ -60,7 +60,15 @@ func main() {
 	// Write RuleSetCollection to json file
 	rulesetCollection.Count = len(rulesetCollection.RuleSets)
 	sort.Slice(rulesetCollection.RuleSets, func(i, j int) bool {
-		return rulesetCollection.RuleSets[i].Name < rulesetCollection.RuleSets[j].Name
+		if rulesetCollection.RuleSets[i].Behavior == "ipcidr" && rulesetCollection.RuleSets[j].Behavior == "domain" {
+			return true
+		} else if rulesetCollection.RuleSets[i].Behavior == "domain" && rulesetCollection.RuleSets[j].Behavior == "ipcidr" {
+			return false
+		} else if rulesetCollection.RuleSets[i].Behavior == rulesetCollection.RuleSets[j].Behavior {
+			return rulesetCollection.RuleSets[i].Name < rulesetCollection.RuleSets[j].Name
+		} else {
+			return rulesetCollection.RuleSets[i].Behavior < rulesetCollection.RuleSets[j].Behavior
+		}
 	})
 
 	jsonBytes, err := json.Marshal(rulesetCollection)
