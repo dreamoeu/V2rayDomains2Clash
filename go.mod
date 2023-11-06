@@ -1,3 +1,3 @@
-module github.com/kr328/domains2providers
+module github.com/dreamoeu/domains2providers
 
-go 1.18
+go 1.21
