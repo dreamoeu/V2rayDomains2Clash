@@ -42,6 +42,12 @@ jobs:
       - name: Generate
         run: go run main.go domain-list-community generated
 
+      - name: Create index page
+        run: |
+          cp index.html.tpl ./generated/index.html
+          RULESETS_CONTENT=$(cat ./generated/rulesets.json)
+          sed -i "s/RULESETS_JSON_PLACEHOLDER/${RULESETS_CONTENT}/g" ./generated/index.html
+
       - name: Get Commit Message
         id: message
         uses: actions/github-script@v6

@@ -39,6 +39,21 @@ var raws = []*Raw{
 		Behavior:  "domain",
 		SourceUrl: "https://gist.githubusercontent.com/Kr328/38b9d7907d0e3e9ee1a9bacd99dfa6f4/raw/public-dns-domain.txt",
 	},
+	{
+		Name:      "telegram-cidr",
+		Behavior:  "ipcidr",
+		SourceUrl: "https://core.telegram.org/resources/cidr.txt",
+	},
+	{
+		Name:      "cloudflare-cidr-ipv4",
+		Behavior:  "ipcidr",
+		SourceUrl: "https://www.cloudflare.com/ips-v4",
+	},
+	{
+		Name:      "cloudflare-cidr-ipv6",
+		Behavior:  "ipcidr",
+		SourceUrl: "https://www.cloudflare.com/ips-v6",
+	},
 }
 
 func LoadRawSources() ([]*RuleSet, error) {
