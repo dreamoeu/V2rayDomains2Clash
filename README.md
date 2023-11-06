@@ -4,8 +4,8 @@ Generate clash rule providers from https://github.com/v2fly/domain-list-communit
 
 ### Generated
 
-https://github.com/Kr328/V2rayDomains2Clash/tree/generated
+https://github.com/dreamoeu/V2rayDomains2Clash/tree/generated
 
 ### Mirror
 
-https://rules.kr328.app
+https://rules.dreamoeu.com

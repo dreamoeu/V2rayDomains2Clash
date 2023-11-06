@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/kr328/domains2providers/trie"
+	"github.com/dreamoeu/domains2providers/trie"
 )
 
 func Resolve(all map[string]*Ruleset, name string) (map[string][]string, error) {

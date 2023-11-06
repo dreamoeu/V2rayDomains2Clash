@@ -5,8 +5,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/kr328/domains2providers/raw"
-	"github.com/kr328/domains2providers/rule"
+	"github.com/dreamoeu/domains2providers/raw"
+	"github.com/dreamoeu/domains2providers/rule"
 )
 
 func main() {

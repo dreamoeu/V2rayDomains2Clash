@@ -4,6 +4,8 @@ on:
     - cron: "0 0 * * 0"
   workflow_dispatch:
   push:
+    branches:
+      - main
     paths-ignore:
       - "**/README.md"
 jobs:
@@ -13,25 +15,36 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Checkout data source
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with: 
           repository: v2fly/domain-list-community
           path: domain-list-community
 
       - name: Setup Go 1.x.y
-        uses: actions/setup-go@v2
+        uses: actions/setup-go@v4
         with:
-          go-version: ^1.18
+          check-latest: true
+          go-version: '^1.21'
+
+      - name: Cache go module
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/go/pkg/mod
+            ~/.cache/go-build
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
 
       - name: Generate
         run: go run main.go domain-list-community generated
 
       - name: Get Commit Message
         id: message
-        uses: actions/github-script@v3
+        uses: actions/github-script@v6
         env:
           FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
         with:
