@@ -14,6 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Setup Go 1.x.y
+        uses: actions/setup-go@v5
+        with:
+          check-latest: true
+          go-version: '^1.21'
+
       - name: Checkout code
         uses: actions/checkout@v4
 
@@ -22,12 +28,6 @@ jobs:
         with: 
           repository: v2fly/domain-list-community
           path: domain-list-community
-
-      - name: Setup Go 1.x.y
-        uses: actions/setup-go@v4
-        with:
-          check-latest: true
-          go-version: '^1.21'
 
       - name: Cache go module
         uses: actions/cache@v3
@@ -50,7 +50,7 @@ jobs:
 
       - name: Get Commit Message
         id: message
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         env:
           FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
         with:
