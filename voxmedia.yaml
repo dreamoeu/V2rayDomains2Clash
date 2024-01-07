@@ -1,0 +1,23 @@
+# NAME: voxmedia
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/voxmedia
+# COUNT: 16
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.cstatic.net"
+- "+.curbed.com"
+- "+.eater.com"
+- "+.funnyordie.com"
+- "+.meridian.net"
+- "+.polygon.com"
+- "+.racked.com"
+- "+.recode.net"
+- "+.sbnation.com"
+- "+.theverge.com"
+- "+.vox-cdn.com"
+- "+.vox.com"
+- "+.voxcreative.com"
+- "+.voxfieldguide.com"
+- "+.voxmedia.com"
+- "+.voxops.net"

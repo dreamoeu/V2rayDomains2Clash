@@ -1,0 +1,27 @@
+# NAME: abema
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/abema
+# COUNT: 20
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.abema-tv.com"
+- "+.abema.io"
+- "+.abema.tv"
+- "+.adx.promo"
+- "+.ameba.jp"
+- "+.amebame.com"
+- "+.amebaownd.com"
+- "+.amebaowndme.com"
+- "+.ameblo.jp"
+- "+.bucketeer.jp"
+- "+.dokusho-ojikan.jp"
+- "+.hayabusa.dev"
+- "+.hayabusa.io"
+- "+.hayabusa.media"
+- "+.winticket.jp"
+- "abematv.akamaized.net"
+- "ds-linear-abematv.akamaized.net"
+- "ds-vod-abematv.akamaized.net"
+- "linear-abematv.akamaized.net"
+- "vod-abematv.akamaized.net"

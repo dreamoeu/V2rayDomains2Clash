@@ -1,0 +1,12 @@
+# NAME: qualcomm
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qualcomm
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.gpsonextra.net"
+- "+.izatcloud.net"
+- "+.qceventscenter.com.cn"
+- "+.qualcomm.cn"
+- "+.xtracloud.cn"

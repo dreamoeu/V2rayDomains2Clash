@@ -1,0 +1,19 @@
+# NAME: tiktok
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tiktok
+# COUNT: 12
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.byteoversea.com"
+- "+.muscdn.com"
+- "+.musical.ly"
+- "+.tik-tokapi.com"
+- "+.tiktok.com"
+- "+.tiktokcdn-us.com"
+- "+.tiktokcdn.com"
+- "+.tiktokd.net"
+- "+.tiktokd.org"
+- "+.tiktokv.com"
+- "+.ttwstatic.com"
+- "p16-tiktokcdn-com.akamaized.net"

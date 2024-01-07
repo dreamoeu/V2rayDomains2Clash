@@ -1,0 +1,10 @@
+# NAME: 4chan
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/4chan
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.4cdn.org"
+- "+.4chan.org"
+- "+.4channel.org"

@@ -1,0 +1,9 @@
+# NAME: ziroom
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ziroom
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.ziroom.com"
+- "+.ziroomapartment.com"

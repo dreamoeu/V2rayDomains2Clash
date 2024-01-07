@@ -1,0 +1,12 @@
+# NAME: panasonic
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/panasonic
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.panasonic"
+- "+.panasonic.cn"
+- "+.panasonic.com"
+- "+.panasonic.jp"
+- "+.technics.com"

@@ -1,0 +1,9 @@
+# NAME: tokyo-sports
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tokyo-sports
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.tokyo-sports.co.jp"
+- "+.tospo-keiba.jp"

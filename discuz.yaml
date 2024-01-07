@@ -1,0 +1,10 @@
+# NAME: discuz
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/discuz
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.comsenz.com"
+- "+.discuz.net"
+- "+.discuz.org"

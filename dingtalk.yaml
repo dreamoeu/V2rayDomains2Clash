@@ -1,0 +1,15 @@
+# NAME: dingtalk
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dingtalk
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.ddurl.to"
+- "+.dingding.xin"
+- "+.dingtalk.cn"
+- "+.dingtalk.com"
+- "+.dingtalk.net"
+- "+.dingtalkapps.com"
+- "+.laiwang.com"
+- "+.lwurl.to"

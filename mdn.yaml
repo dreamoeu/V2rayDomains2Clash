@@ -1,0 +1,16 @@
+# NAME: mdn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mdn
+# COUNT: 9
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.developer.allizom.org"
+- "+.developer.mozilla.org"
+- "+.mdn.allizom.net"
+- "+.mdn.dev"
+- "+.mdn.mozilla.net"
+- "+.mdn.mozit.cloud"
+- "+.mdnplay.dev"
+- "+.mdnyalp.dev"
+- "mdn.mozillademos.org"

@@ -1,0 +1,18 @@
+# NAME: bytedance-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bytedance-ads
+# COUNT: 11
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.bds.snssdk.com"
+- "+.ctobsnssdk.com"
+- "+.dig.bdurl.net"
+- "+.extlog.snssdk.com"
+- "+.i.snssdk.com"
+- "+.is.snssdk.com"
+- "+.mcs.snssdk.com"
+- "+.pangolin-sdk-toutiao.com"
+- "+.pangolin.snssdk.com"
+- "+.pglstatp-toutiao.com"
+- "+.sf3-ttcdn-tos.pstatp.com"

@@ -1,0 +1,18 @@
+# NAME: canonical
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/canonical
+# COUNT: 11
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.canonical.com"
+- "+.launchpad.net"
+- "+.launchpadlibrarian.com"
+- "+.launchpadlibrarian.net"
+- "+.launchpadlibrarian.org"
+- "+.snapcraft.io"
+- "+.snapstore.io"
+- "+.ubuntu-touch.io"
+- "+.ubuntu.com"
+- "+.ubuntu.net"
+- "+.ubuntuforums.org"

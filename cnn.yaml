@@ -1,0 +1,16 @@
+# NAME: cnn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cnn
+# COUNT: 9
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.cnn.com"
+- "+.cnn.io"
+- "+.cnn.it"
+- "+.cnnarabic.com"
+- "+.cnnlabs.com"
+- "+.cnnmoney.ch"
+- "+.cnnmoney.com"
+- "+.cnnmoneystream.com"
+- "+.cnnpolitics.com"

@@ -1,0 +1,12 @@
+# NAME: clarivate
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/clarivate
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.clarivate.com"
+- "+.isiknowledge.com"
+- "+.newisiknowledge.com"
+- "+.webofknowledge.com"
+- "+.webofscience.com"

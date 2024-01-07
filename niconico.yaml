@@ -1,0 +1,15 @@
+# NAME: niconico
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/niconico
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.nico"
+- "+.nicodic.jp"
+- "+.nicomanga.jp"
+- "+.niconico.com"
+- "+.nicoseiga.jp"
+- "+.nicovideo.jp"
+- "+.nimg.jp"
+- "+.simg.jp"

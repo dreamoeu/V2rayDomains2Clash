@@ -1,0 +1,10 @@
+# NAME: n3ro
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/n3ro
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.n3ro.lol"
+- "+.n3ro.net"
+- "+.n3ro.wtf"

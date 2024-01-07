@@ -1,0 +1,9 @@
+# NAME: playboy
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/playboy
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.playboy.com"
+- "+.playboy.com.uk"

@@ -1,0 +1,10 @@
+# NAME: discoveryplus
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/discoveryplus
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.content-ause1-ur-discovery1.uplynk.com"
+- "+.disco-api.com"
+- "+.discoveryplus.com"

@@ -1,0 +1,9 @@
+# NAME: ruby
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ruby
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.ruby-lang.org"
+- "+.rubygems.org"

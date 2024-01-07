@@ -1,0 +1,11 @@
+# NAME: chinanews
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/chinanews
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.chinanews.com"
+- "+.chinanews.com.cn"
+- "+.cns.com.cn"
+- "+.ecns.cn"

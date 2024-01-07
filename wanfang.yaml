@@ -1,0 +1,9 @@
+# NAME: wanfang
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/wanfang
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.wanfangdata.com.cn"
+- "+.wf.pub"

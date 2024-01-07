@@ -1,0 +1,9 @@
+# NAME: primevideo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/primevideo
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.amazonprimevideo.cn"
+- "+.amazonprimevideo.com.cn"

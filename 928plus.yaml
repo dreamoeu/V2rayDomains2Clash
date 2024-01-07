@@ -1,0 +1,9 @@
+# NAME: 928plus
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/928plus
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.928.plus"
+- "+.zind.cloud"

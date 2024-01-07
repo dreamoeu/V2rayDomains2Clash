@@ -1,0 +1,10 @@
+# NAME: imgbb
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/imgbb
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.ibb.co"
+- "+.imgbb.com"
+- "+.simgbb.com"

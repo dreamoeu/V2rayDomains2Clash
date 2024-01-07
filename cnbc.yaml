@@ -1,0 +1,11 @@
+# NAME: cnbc
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cnbc
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.cnbc.com"
+- "+.cnbcfm.com"
+- "+.nbcudigitaladops.com"
+- "+.nbcuni.com"

@@ -1,0 +1,16 @@
+# NAME: olevod
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/olevod
+# COUNT: 9
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.haiwaikan.com"
+- "+.iole.tv"
+- "+.olehd.com"
+- "+.olelive.com"
+- "+.olemovienews.com"
+- "+.olevod.com"
+- "+.olevod.io"
+- "+.olevod.tv"
+- "+.olevodtv.com"

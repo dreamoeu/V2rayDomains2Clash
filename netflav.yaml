@@ -1,0 +1,10 @@
+# NAME: netflav
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/netflav
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.netflav.com"
+- "+.netflav1.com"
+- "+.netflav5.com"

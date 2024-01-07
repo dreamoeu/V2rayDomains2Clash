@@ -1,0 +1,10 @@
+# NAME: termux
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/termux
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.termux.com"
+- "+.termux.dev"
+- "+.termux.org"

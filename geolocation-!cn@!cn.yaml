@@ -1,0 +1,20 @@
+# NAME: geolocation-!cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/geolocation-!cn
+# COUNT: 13
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.byteoversea.com"
+- "+.muscdn.com"
+- "+.musical.ly"
+- "+.supercell.com"
+- "+.tik-tokapi.com"
+- "+.tiktok.com"
+- "+.tiktokcdn-us.com"
+- "+.tiktokcdn.com"
+- "+.tiktokd.net"
+- "+.tiktokd.org"
+- "+.tiktokv.com"
+- "+.ttwstatic.com"
+- "p16-tiktokcdn-com.akamaized.net"

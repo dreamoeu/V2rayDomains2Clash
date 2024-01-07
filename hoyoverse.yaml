@@ -1,0 +1,14 @@
+# NAME: hoyoverse
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hoyoverse
+# COUNT: 7
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.genshinimpact.com"
+- "+.honkaiimpact3.com"
+- "+.honkaistarrail.com"
+- "+.hoyo.link"
+- "+.hoyolab.com"
+- "+.hoyoverse.com"
+- "+.n0vadesktop.com"

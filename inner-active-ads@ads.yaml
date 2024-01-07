@@ -1,0 +1,8 @@
+# NAME: inner-active-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/inner-active-ads
+# COUNT: 1
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.inner-active.mobi"

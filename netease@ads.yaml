@@ -1,0 +1,11 @@
+# NAME: netease
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/netease
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.analytics.163.com"
+- "+.crash.163.com"
+- "+.crashlytics.163.com"
+- "+.g.163.com"

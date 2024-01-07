@@ -1,0 +1,8 @@
+# NAME: decryptipastore
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/decryptipastore
+# COUNT: 1
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.decrypt.day"

@@ -1,0 +1,12 @@
+# NAME: tver
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tver
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.dogatch.jp"
+- "+.gorin.jp"
+- "+.screens-lab.jp"
+- "+.tver.co.jp"
+- "+.tver.jp"

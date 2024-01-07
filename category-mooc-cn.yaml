@@ -1,0 +1,17 @@
+# NAME: category-mooc-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-mooc-cn
+# COUNT: 10
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.chinesemooc.org"
+- "+.cnmooc.org"
+- "+.icourse163.org"
+- "+.icourses.cn"
+- "+.mooc.cn"
+- "+.openlearning.com"
+- "+.pmphmooc.com"
+- "moocs.unipus.cn"
+- "opencourse.pku.edu.cn"
+- "study.163.com"

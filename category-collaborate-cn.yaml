@@ -1,0 +1,9 @@
+# NAME: category-collaborate-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-collaborate-cn
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.shimo.im"
+- "+.yuque.com"

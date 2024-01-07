@@ -1,0 +1,16 @@
+# NAME: huobi
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/huobi
+# COUNT: 9
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.hbabit.com"
+- "+.hbfile.net"
+- "+.huobi.com"
+- "+.huobi.me"
+- "+.huobi.pro"
+- "+.huobi.sc"
+- "+.huobiasia.vip"
+- "+.huobigroup.com"
+- "+.huobitoken.com"

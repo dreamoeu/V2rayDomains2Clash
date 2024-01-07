@@ -1,0 +1,10 @@
+# NAME: spotify-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/spotify-ads
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "adeventtracker.spotify.com"
+- "adstudio-assets.scdn.co"
+- "bloodhound.spotify.com"

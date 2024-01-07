@@ -1,0 +1,15 @@
+# NAME: dedao
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dedao
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.biji.com"
+- "+.ddmogo.com"
+- "+.igetget.cn"
+- "+.igetget.com"
+- "+.luojilab.com"
+- "+.mogoo.com"
+- "+.sao.cn"
+- "+.saolife.com"

@@ -1,0 +1,12 @@
+# NAME: fedora
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/fedora
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.fedoraforum.org"
+- "+.fedoramagazine.org"
+- "+.fedorapeople.org"
+- "+.fedoraproject.org"
+- "+.getfedora.org"

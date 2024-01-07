@@ -1,0 +1,10 @@
+# NAME: category-documents-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-documents-cn
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.doc88.com"
+- "+.docin.com"
+- "+.douding.cn"

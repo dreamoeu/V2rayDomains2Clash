@@ -1,0 +1,15 @@
+# NAME: bybit
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bybit
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.byapis.com"
+- "+.bybit.com"
+- "+.bycbe.com"
+- "+.bycsi.com"
+- "+.bymj.io"
+- "+.bytick.com"
+- "bybit-exchange.github.io"
+- "bybit.ada.support"

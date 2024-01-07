@@ -1,0 +1,13 @@
+# NAME: qingcloud
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qingcloud
+# COUNT: 6
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.frontwize.com"
+- "+.qingcache.com"
+- "+.qingcloud.com"
+- "+.qingstor.com"
+- "+.routewize.com"
+- "+.yunify.com"

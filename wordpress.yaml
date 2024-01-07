@@ -1,0 +1,15 @@
+# NAME: wordpress
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/wordpress
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.videopress.com"
+- "+.w.org"
+- "+.wordpress.com"
+- "+.wordpress.org"
+- "+.wordpress.tv"
+- "+.wp-themes.com"
+- "+.wp.com"
+- "+.wpvip.com"

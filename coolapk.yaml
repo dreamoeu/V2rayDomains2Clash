@@ -1,0 +1,10 @@
+# NAME: coolapk
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/coolapk
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.coolapk.com"
+- "+.coolapkmarket.com"
+- "+.coolapkmarket.net"

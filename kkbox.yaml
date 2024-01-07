@@ -1,0 +1,14 @@
+# NAME: kkbox
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kkbox
+# COUNT: 7
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.kfs.io"
+- "+.kk.stream"
+- "+.kkbox.com"
+- "+.kkbox.com.tw"
+- "+.kktix.com"
+- "+.kktv.com.tw"
+- "+.kktv.me"

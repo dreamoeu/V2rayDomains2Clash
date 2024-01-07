@@ -1,0 +1,10 @@
+# NAME: thetype
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/thetype
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.thetype.cloud"
+- "+.thetype.com"
+- "+.typeisbeautiful.com"

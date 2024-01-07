@@ -1,0 +1,13 @@
+# NAME: volvo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/volvo
+# COUNT: 6
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.vfsco.com.cn"
+- "+.volvo.cn"
+- "+.volvo.com.cn"
+- "+.volvogroup.cn"
+- "+.volvogroup.com.cn"
+- "+.volvotrucks.com.cn"

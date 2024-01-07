@@ -1,0 +1,10 @@
+# NAME: imagecurl
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/imagecurl
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.imagecurl.com"
+- "+.imagecurl.org"
+- "+.imgcrl.org"

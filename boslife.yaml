@@ -1,0 +1,9 @@
+# NAME: boslife
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/boslife
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.boslife.biz"
+- "+.boslife.net"

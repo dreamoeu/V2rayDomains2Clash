@@ -1,0 +1,10 @@
+# NAME: perl
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/perl
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.cpan.org"
+- "+.metacpan.org"
+- "+.perl.org"

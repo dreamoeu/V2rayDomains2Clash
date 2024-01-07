@@ -1,0 +1,11 @@
+# NAME: momo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/momo
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.momo.dm"
+- "+.momo5188.com"
+- "+.momomall.com.tw"
+- "+.momoshop.com.tw"

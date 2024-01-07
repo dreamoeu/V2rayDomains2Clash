@@ -1,0 +1,13 @@
+# NAME: starplus
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/starplus
+# COUNT: 6
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.star.api.edge.bamgrid.com"
+- "+.star.connections.edge.bamgrid.com"
+- "+.star.content.edge.bamgrid.com"
+- "+.star.playback.edge.bamgrid.com"
+- "+.starott.com"
+- "+.starplus.com"

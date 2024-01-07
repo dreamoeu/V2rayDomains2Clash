@@ -1,0 +1,12 @@
+# NAME: reddit
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/reddit
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.redd.it"
+- "+.reddit.com"
+- "+.redditmail.com"
+- "+.redditmedia.com"
+- "+.redditstatic.com"

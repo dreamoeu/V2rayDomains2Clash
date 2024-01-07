@@ -1,0 +1,9 @@
+# NAME: theinitium
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/theinitium
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.init.shop"
+- "+.theinitium.com"

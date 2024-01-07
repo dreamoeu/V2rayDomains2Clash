@@ -1,0 +1,14 @@
+# NAME: entrust
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/entrust
+# COUNT: 7
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.affirmtrust.com"
+- "+.atos.net"
+- "+.certificat2.com"
+- "+.entrust.net"
+- "+.entrustdatacard.com"
+- "+.myatos.net"
+- "+.trendmicro.com"

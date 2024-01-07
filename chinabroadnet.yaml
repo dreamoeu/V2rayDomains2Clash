@@ -1,0 +1,15 @@
+# NAME: chinabroadnet
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/chinabroadnet
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.10099.com.cn"
+- "+.ahitv.com"
+- "+.chn.cn"
+- "+.cqccn.com"
+- "+.gcable.com.cn"
+- "+.isxtv.com"
+- "+.sc96655.com"
+- "+.sdgdwljt.com"

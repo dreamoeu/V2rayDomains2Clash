@@ -1,0 +1,12 @@
+# NAME: metart
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/metart
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.metart.com"
+- "+.metartnetwork.com"
+- "+.metcams.com"
+- "+.naiadsystems.com"
+- "+.nsimg.net"

@@ -1,0 +1,9 @@
+# NAME: category-forums-ir
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-forums-ir
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.quera.ir"
+- "+.quera.org"

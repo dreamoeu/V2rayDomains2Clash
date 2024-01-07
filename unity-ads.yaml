@@ -1,0 +1,9 @@
+# NAME: unity-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/unity-ads
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.unityads.unity3d.com"
+- "+.unityads.unitychina.cn"

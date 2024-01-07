@@ -1,0 +1,12 @@
+# NAME: notion
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/notion
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.notion-static.com"
+- "+.notion.com"
+- "+.notion.new"
+- "+.notion.site"
+- "+.notion.so"

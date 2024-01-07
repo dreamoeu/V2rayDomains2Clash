@@ -1,0 +1,10 @@
+# NAME: aerogard
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/aerogard
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.aerogard.com.au"
+- "+.aerogard.com.cn"
+- "+.aerogardcn.com"

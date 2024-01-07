@@ -1,0 +1,8 @@
+# NAME: pikpak
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/pikpak
+# COUNT: 1
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "o4504926511693824.ingest.sentry.io"

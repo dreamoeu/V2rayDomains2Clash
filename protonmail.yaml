@@ -1,0 +1,12 @@
+# NAME: protonmail
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/protonmail
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.pm.me"
+- "+.proton.me"
+- "+.protonmail.ch"
+- "+.protonmail.com"
+- "+.protonstatus.com"

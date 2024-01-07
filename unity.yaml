@@ -1,0 +1,10 @@
+# NAME: unity
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/unity
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.unity.com"
+- "+.unity3d.com"
+- "+.unityads.unitychina.cn"

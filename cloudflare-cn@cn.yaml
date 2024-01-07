@@ -1,0 +1,21 @@
+# NAME: cloudflare-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cloudflare-cn
+# COUNT: 14
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.cf-ns.com"
+- "+.cf-ns.net"
+- "+.cf-ns.site"
+- "+.cf-ns.tech"
+- "+.cftest5.cn"
+- "+.cftest6.cn"
+- "+.cftest7.com"
+- "+.cftest8.com"
+- "+.cloudflare-cn.com"
+- "+.cloudflarecn.net"
+- "+.cloudflareinsights-cn.com"
+- "+.cloudflareprod.com"
+- "+.cloudflarestaging.com"
+- "+.cloudflarestoragegw.com"

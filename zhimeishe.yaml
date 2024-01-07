@@ -1,0 +1,12 @@
+# NAME: zhimeishe
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zhimeishe
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.168sex.top"
+- "+.a7sex.com"
+- "+.ctotires.com"
+- "+.ferryclean.com"
+- "+.zhimeishe888.com"

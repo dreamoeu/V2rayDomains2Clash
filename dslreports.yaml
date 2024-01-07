@@ -1,0 +1,10 @@
+# NAME: dslreports
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dslreports
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.broadbandreports.com"
+- "+.dslr.net"
+- "+.dslreports.com"

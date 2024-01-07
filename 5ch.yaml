@@ -1,0 +1,9 @@
+# NAME: 5ch
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/5ch
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.2ch.net"
+- "+.5ch.net"

@@ -1,0 +1,10 @@
+# NAME: sxl
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sxl
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.mysxl.cn"
+- "+.sxl.cn"
+- "+.sxlcdn.cn"

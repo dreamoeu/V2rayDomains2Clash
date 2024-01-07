@@ -1,0 +1,15 @@
+# NAME: greatfire
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/greatfire
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.applecensorship.com"
+- "+.freebrowser.org"
+- "+.freewechat.com"
+- "+.freeweibo.com"
+- "+.freezhihu.org"
+- "+.greatfire.org"
+- "+.pao-pao.net"
+- "+.wikiunblocked.org"

@@ -1,0 +1,10 @@
+# NAME: ftv
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ftv
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.4gtv.tv"
+- "+.ftv.com.tw"
+- "+.ftvnews.com.tw"

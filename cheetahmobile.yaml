@@ -1,0 +1,13 @@
+# NAME: cheetahmobile
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cheetahmobile
+# COUNT: 6
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.cmcm.com"
+- "+.cmcmcdn.com"
+- "+.duba.com"
+- "+.duba.net"
+- "+.ijinshan.com"
+- "+.liebao.cn"

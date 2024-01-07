@@ -1,0 +1,11 @@
+# NAME: mit
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mit
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.mit"
+- "+.mit.edu"
+- "+.mit.net"
+- "+.mitpressjournals.org"

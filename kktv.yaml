@@ -1,0 +1,10 @@
+# NAME: kktv
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kktv
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.kktv.com.tw"
+- "+.kktv.me"
+- "+.theater-kktv.cdn.hinet.net"

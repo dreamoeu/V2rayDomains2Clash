@@ -1,0 +1,14 @@
+# NAME: sb
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sb
+# COUNT: 7
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.dns.sb"
+- "+.ip.sb"
+- "+.loli.net"
+- "+.sb.sb"
+- "+.sm.ms"
+- "+.u.nu"
+- "+.www.sb"

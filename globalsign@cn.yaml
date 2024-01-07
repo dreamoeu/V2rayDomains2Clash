@@ -1,0 +1,14 @@
+# NAME: globalsign
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/globalsign
+# COUNT: 7
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "crl.alphassl.com"
+- "crl2.alphassl.com"
+- "global.prd.cdn.globalsign.com"
+- "ocsp.globalsign.com"
+- "ocsp2.globalsign.com"
+- "secure.globalsign.com"
+- "secure2.alphassl.com"

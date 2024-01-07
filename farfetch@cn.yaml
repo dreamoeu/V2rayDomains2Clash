@@ -1,0 +1,10 @@
+# NAME: farfetch
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/farfetch
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.farfetch.cn"
+- "+.farfetch.com.cn"
+- "+.farfetch.net.cn"

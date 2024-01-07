@@ -1,0 +1,10 @@
+# NAME: target
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/target
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.target"
+- "+.target.com"
+- "+.targetimg1.com"

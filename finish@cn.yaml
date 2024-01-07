@@ -1,0 +1,9 @@
+# NAME: finish
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/finish
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.dishwashingexpert.com.cn"
+- "+.finish.com.cn"

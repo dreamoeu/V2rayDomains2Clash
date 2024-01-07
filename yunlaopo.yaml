@@ -1,0 +1,13 @@
+# NAME: yunlaopo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/yunlaopo
+# COUNT: 6
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.doure.net"
+- "+.kuaipa.net"
+- "+.miaopa.net"
+- "+.yunlaopo.cc"
+- "+.yunlaopo.com"
+- "+.yunlaopo.net"

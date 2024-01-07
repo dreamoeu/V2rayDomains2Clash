@@ -1,0 +1,13 @@
+# NAME: qnap
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qnap
+# COUNT: 6
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.myqnapcloud.cn"
+- "+.myqnapcloud.com"
+- "+.qlink.to"
+- "+.qlinkto.cn"
+- "+.qnap.com"
+- "+.qnap.com.cn"

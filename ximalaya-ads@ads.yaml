@@ -1,0 +1,10 @@
+# NAME: ximalaya-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ximalaya-ads
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.adbehavior.ximalaya.com"
+- "+.adse.wsa.ximalaya.com"
+- "+.adse.ximalaya.com"

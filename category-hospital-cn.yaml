@@ -1,0 +1,12 @@
+# NAME: category-hospital-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-hospital-cn
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.fuwai.com"
+- "+.pkuh6.cn"
+- "+.puh3.net.cn"
+- "hospital.pku.edu.cn"
+- "ss.bjmu.edu.cn"

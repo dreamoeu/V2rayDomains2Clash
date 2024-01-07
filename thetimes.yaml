@@ -1,0 +1,16 @@
+# NAME: thetimes
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/thetimes
+# COUNT: 9
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.driving.co.uk"
+- "+.mytimesplus.co.uk"
+- "+.sportswomanoftheyear.co.uk"
+- "+.sportswomenoftheyear.co.uk"
+- "+.the-tls.co.uk"
+- "+.thesundaytimes.co.uk"
+- "+.thetimes.co.uk"
+- "+.thetimes.ie"
+- "+.timesmembership.com"

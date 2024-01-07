@@ -1,0 +1,9 @@
+# NAME: tube8
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tube8
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.tube8.com"
+- "+.tube8.fr"

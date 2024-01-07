@@ -1,0 +1,8 @@
+# NAME: airwick
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/airwick
+# COUNT: 1
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.airwick.com.cn"

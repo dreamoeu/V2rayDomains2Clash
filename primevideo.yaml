@@ -1,0 +1,19 @@
+# NAME: primevideo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/primevideo
+# COUNT: 12
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.aiv-cdn.net"
+- "+.amazonprimevideo.cn"
+- "+.amazonprimevideo.com.cn"
+- "+.amazonprimevideos.com"
+- "+.amazonvideo.cc"
+- "+.amazonvideo.com"
+- "+.prime-video.com"
+- "+.primevideo.cc"
+- "+.primevideo.com"
+- "+.primevideo.info"
+- "+.primevideo.org"
+- "+.primevideo.tv"

@@ -1,0 +1,9 @@
+# NAME: heyzo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/heyzo
+# COUNT: 2
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.heydoga.com"
+- "+.heyzo.com"

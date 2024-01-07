@@ -1,0 +1,15 @@
+# NAME: apple-pki
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/apple-pki
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "certs-lb.apple.com.akadns.net"
+- "certs.apple.com"
+- "crl-lb.apple.com.akadns.net"
+- "crl.apple.com"
+- "ocsp-lb.apple.com.akadns.net"
+- "ocsp.apple.com"
+- "ocsp2-lb.apple.com.akadns.net"
+- "ocsp2.apple.com"

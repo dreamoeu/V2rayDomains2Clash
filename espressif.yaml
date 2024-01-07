@@ -1,0 +1,10 @@
+# NAME: espressif
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/espressif
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.esp32.com"
+- "+.esp8266.com"
+- "+.espressif.com"

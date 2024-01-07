@@ -1,0 +1,22 @@
+# NAME: globalsign
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/globalsign
+# COUNT: 15
+# UPDATED: 2024-01-07 01:10:33
+
+payload:
+- "+.alphassl.com"
+- "+.globalsign-media.com"
+- "+.globalsign.be"
+- "+.globalsign.ch"
+- "+.globalsign.co.uk"
+- "+.globalsign.com"
+- "+.globalsign.com.au"
+- "+.globalsign.com.br"
+- "+.globalsign.com.hk"
+- "+.globalsign.com.sg"
+- "+.globalsign.es"
+- "+.globalsign.eu"
+- "+.globalsign.fr"
+- "+.globalsign.net"
+- "+.globalsign.nl"

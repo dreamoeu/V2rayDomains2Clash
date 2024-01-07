@@ -1,0 +1,11 @@
+# NAME: dcard
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dcard
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.dcard.cc"
+- "+.dcard.io"
+- "+.dcard.link"
+- "+.dcard.tw"

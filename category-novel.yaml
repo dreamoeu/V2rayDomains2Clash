@@ -1,0 +1,10 @@
+# NAME: category-novel
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-novel
+# COUNT: 3
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.ptzwx.com"
+- "+.quanben-xiaoshuo.com"
+- "+.quanben.io"

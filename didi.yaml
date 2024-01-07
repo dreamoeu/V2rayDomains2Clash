@@ -1,0 +1,14 @@
+# NAME: didi
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/didi
+# COUNT: 7
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.didi-food.com"
+- "+.didiaustralia.blog"
+- "+.didichuxing.com"
+- "+.didiglobal.com"
+- "+.didimobility.co.jp"
+- "+.didistatic.com"
+- "+.xiaojukeji.com"

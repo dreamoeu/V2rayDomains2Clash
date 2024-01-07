@@ -1,0 +1,14 @@
+# NAME: cern
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cern
+# COUNT: 7
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.ams02.space"
+- "+.cern"
+- "+.cern.ch"
+- "+.cixp.net"
+- "+.dotcernpilot.info"
+- "+.ippog.org"
+- "+.linearcollider.org"

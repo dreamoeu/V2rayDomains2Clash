@@ -1,0 +1,11 @@
+# NAME: sectigo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sectigo
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.oemssl.cn"
+- "+.oemssl.cn.cdn.cloudflare.net"
+- "+.sectigochina.com"
+- "+.trust-provider.cn"

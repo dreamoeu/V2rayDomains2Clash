@@ -1,0 +1,15 @@
+# NAME: limelight
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/limelight
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.delvenetworks.com"
+- "+.limelight.com"
+- "+.lldns.net"
+- "+.llnw-trials.com"
+- "+.llnw.com"
+- "+.llnw.net"
+- "+.llnwd.net"
+- "+.llnwi.net"

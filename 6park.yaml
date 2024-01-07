@@ -1,0 +1,11 @@
+# NAME: 6park
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/6park
+# COUNT: 4
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.6park.com"
+- "+.6parkbbs.com"
+- "+.6parknews.com"
+- "+.cool18.com"

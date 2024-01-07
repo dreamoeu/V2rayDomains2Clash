@@ -1,0 +1,22 @@
+# NAME: xiaomitv-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xiaomitv-ads
+# COUNT: 15
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.ad.hpplay.cn"
+- "+.ad.intl.xiaomi.com"
+- "+.ad.mi.com"
+- "+.ad.xiaomi.com"
+- "+.ad1.xiaomi.com"
+- "+.adeng.hpplay.cn"
+- "+.admob.xiaomi.com"
+- "+.adv.sec.intl.miui.com"
+- "+.adv.sec.miui.com"
+- "+.kuyun.com"
+- "+.misc.in.duokanbox.com"
+- "+.mistat.xiaomi.com"
+- "+.tjqonline.cn"
+- "+.tracking.miui.com"
+- "+.umeng.com"

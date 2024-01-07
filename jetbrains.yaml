@@ -1,0 +1,16 @@
+# NAME: jetbrains
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jetbrains
+# COUNT: 9
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.datalore.io"
+- "+.intellij.com"
+- "+.intellij.net"
+- "+.intellij.org"
+- "+.jetbrains.com"
+- "+.jetbrains.net"
+- "+.jetbrains.space"
+- "+.jetbrains.team"
+- "+.kotlinlang.org"

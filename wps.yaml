@@ -1,0 +1,15 @@
+# NAME: wps
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/wps
+# COUNT: 8
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.51dzt.com"
+- "+.docer.com"
+- "+.iciba.com"
+- "+.kdocs.cn"
+- "+.papocket.com"
+- "+.wps.cn"
+- "+.wps.com"
+- "+.wpspdf.cn"

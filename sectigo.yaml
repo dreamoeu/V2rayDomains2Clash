@@ -1,0 +1,23 @@
+# NAME: sectigo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sectigo
+# COUNT: 16
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.aoc.cat"
+- "+.catcert.cat"
+- "+.enterprisessl.com"
+- "+.hackerguardian.com"
+- "+.incommon-rsa.org"
+- "+.instantssl.com"
+- "+.netsolssl.com"
+- "+.oemssl.cn"
+- "+.oemssl.cn.cdn.cloudflare.net"
+- "+.optimumssl.com"
+- "+.positivessl.com"
+- "+.sectigo.com"
+- "+.sectigochina.com"
+- "+.trust-provider.cn"
+- "+.trust-provider.com"
+- "+.usertrust.com"

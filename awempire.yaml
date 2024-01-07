@@ -1,0 +1,12 @@
+# NAME: awempire
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/awempire
+# COUNT: 5
+# UPDATED: 2024-01-07 01:10:32
+
+payload:
+- "+.awempire.com"
+- "+.dditsadn.com"
+- "+.dditscdn.com"
+- "+.docleradn.com"
+- "+.doclercdn.com"
