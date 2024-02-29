@@ -1,7 +1,7 @@
 name: Build
 on:
   schedule:
-    - cron: "30 21 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -9,6 +9,8 @@ on:
     paths-ignore:
       - "**/.github/**"
       - "**/README.md"
+env:
+  TZ: Asia/Shanghai
 jobs:
   build:
     name: Build
