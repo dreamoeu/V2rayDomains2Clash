@@ -1,0 +1,14 @@
+# NAME: matrix
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/matrix
+# COUNT: 7
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.arewereadyyet.com"
+- "+.element.io"
+- "+.matrix.org"
+- "+.matrix.to"
+- "+.modular.im"
+- "+.riot.im"
+- "+.vector.im"

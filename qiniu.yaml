@@ -1,0 +1,16 @@
+# NAME: qiniu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qiniu
+# COUNT: 9
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.qbox.me"
+- "+.qiniu.com"
+- "+.qiniucdn.com"
+- "+.qiniudn.com"
+- "+.qiniudns.com"
+- "+.qiniup.com"
+- "+.qnsdk.com"
+- "+.qnssl.com"
+- "+.staticfile.org"

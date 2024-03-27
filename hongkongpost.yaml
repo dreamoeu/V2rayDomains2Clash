@@ -1,0 +1,9 @@
+# NAME: hongkongpost
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hongkongpost
+# COUNT: 2
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.ecert.gov.hk"
+- "+.hongkongpost.gov.hk"

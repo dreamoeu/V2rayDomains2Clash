@@ -1,0 +1,12 @@
+# NAME: gannett
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/gannett
+# COUNT: 5
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.gannett-cdn.com"
+- "+.gannett.com"
+- "+.gannettdigital.com"
+- "+.usatoday.com"
+- "+.usatodaynetworkservice.com"

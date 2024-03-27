@@ -1,0 +1,12 @@
+# NAME: dazn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dazn
+# COUNT: 5
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.dazn-api.com"
+- "+.dazn.com"
+- "+.dazndn.com"
+- "+.indazn.com"
+- "+.indaznlab.com"

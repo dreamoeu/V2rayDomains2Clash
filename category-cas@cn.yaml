@@ -1,0 +1,36 @@
+# NAME: category-cas
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-cas
+# COUNT: 29
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.alphassl.com"
+- "+.dcocsp.cn"
+- "+.digicert.cn"
+- "+.easy-signing.com"
+- "+.globalsign.cn"
+- "+.globalsign.com"
+- "+.globalsigncdn.com"
+- "+.oemssl.cn"
+- "+.oemssl.cn.cdn.cloudflare.net"
+- "+.sectigochina.com"
+- "+.sectigochina.com.cdn.cloudflare.net"
+- "+.sslcom.cn"
+- "+.trust-provider.cn"
+- "+.yahoo.cn"
+- "+.yahoo.com.cn"
+- "cdn.globalsigncdn.com.cdn.cloudflare.net"
+- "certs-lb.apple.com.akadns.net"
+- "certs.apple.com"
+- "crl-lb.apple.com.akadns.net"
+- "crl.apple.com"
+- "crl.pki.goog"
+- "crls.pki.goog"
+- "ocsp-lb.apple.com.akadns.net"
+- "ocsp.apple.com"
+- "ocsp.pki.goog"
+- "ocsp2-lb.apple.com.akadns.net"
+- "ocsp2.apple.com"
+- "pki-goog.l.google.com"
+- "www.microsoft.com"

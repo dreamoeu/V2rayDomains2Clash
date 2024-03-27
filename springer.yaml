@@ -1,0 +1,12 @@
+# NAME: springer
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/springer
+# COUNT: 5
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.apress.com"
+- "+.springer.com"
+- "+.springerlink.com"
+- "+.springernature.com"
+- "+.wkap.nl"

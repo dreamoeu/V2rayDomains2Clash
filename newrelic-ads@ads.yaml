@@ -1,0 +1,8 @@
+# NAME: newrelic-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/newrelic-ads
+# COUNT: 1
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.js-agent.newrelic.com"

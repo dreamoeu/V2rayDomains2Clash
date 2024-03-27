@@ -1,0 +1,8 @@
+# NAME: adjust-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/adjust-ads
+# COUNT: 1
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.adjust.com"

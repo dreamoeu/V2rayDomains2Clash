@@ -1,0 +1,17 @@
+# NAME: marvel
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/marvel
+# COUNT: 10
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.marvel.com"
+- "+.marvel10thanniversary.com"
+- "+.marveldimensionofheroes.com"
+- "+.marvelparty.net"
+- "+.marvelpinball.com"
+- "+.marvelsdoubleagent.com"
+- "+.marvelspotlightplays.com"
+- "+.marvelsuperheroseptember.com"
+- "+.marvelsuperwar.com"
+- "+.themarvelexperiencetour.com"

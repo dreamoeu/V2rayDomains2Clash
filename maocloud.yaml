@@ -1,0 +1,10 @@
+# NAME: maocloud
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/maocloud
+# COUNT: 3
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.maoyun.com"
+- "+.maoyuncloud.cn"
+- "+.maoyuncloud.com"

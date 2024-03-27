@@ -1,0 +1,14 @@
+# NAME: beats
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/beats
+# COUNT: 7
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.beats1.cn"
+- "+.beats1.com.cn"
+- "+.beats2.com.cn"
+- "+.beats4.cn"
+- "+.beatsbydre.com"
+- "+.beatsbydre.com.cn"
+- "+.beatsep.cn"

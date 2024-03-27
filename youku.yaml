@@ -1,0 +1,13 @@
+# NAME: youku
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/youku
+# COUNT: 6
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.cibntv.net"
+- "+.kumiao.com"
+- "+.mmstat.com"
+- "+.soku.com"
+- "+.ykimg.com"
+- "+.youku.com"

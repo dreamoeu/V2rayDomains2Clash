@@ -1,0 +1,14 @@
+# NAME: libgen
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/libgen
+# COUNT: 7
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.gen.lib.rus.ec"
+- "+.libgen.fun"
+- "+.libgen.is"
+- "+.libgen.life"
+- "+.libgen.me"
+- "+.libgen.rs"
+- "+.libgen.st"

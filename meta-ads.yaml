@@ -1,0 +1,20 @@
+# NAME: meta-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/meta-ads
+# COUNT: 13
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.b-graph-fallback.facebook.com"
+- "+.b-graph.facebook.com"
+- "+.connect.facebook.com"
+- "+.connect.facebook.net"
+- "+.graph-fallback.facebook.com"
+- "+.graph-fallback.instagram.com"
+- "+.graph.facebook.com"
+- "+.graph.fbpigeon.com"
+- "+.graph.instagram.com"
+- "+.graph.whatsapp.com"
+- "+.graph.whatsapp.net"
+- "+.mqtt-mini.facebook.com"
+- "+.z-m-graph.facebook.com"

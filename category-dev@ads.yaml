@@ -1,0 +1,15 @@
+# NAME: category-dev
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+# COUNT: 8
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.ads.unitychina.cn"
+- "+.splash-ads.cdn.unity.cn"
+- "+.splash-ads.unitychina.cn"
+- "+.unityads.unity.cn"
+- "+.unityads.unity3d.com"
+- "+.unityads.unitychina.cn"
+- "o33249.ingest.sentry.io"
+- "openaicom.imgix.net"

@@ -1,0 +1,10 @@
+# NAME: microsoft-dev
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/microsoft-dev
+# COUNT: 3
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.microsoftreactor.cn"
+- "+.microsoftreactor.com.cn"
+- "+.reactorms.com.cn"

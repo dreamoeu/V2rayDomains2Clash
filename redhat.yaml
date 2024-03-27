@@ -1,0 +1,9 @@
+# NAME: redhat
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/redhat
+# COUNT: 2
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.redhat.com"
+- "+.redhat.org"

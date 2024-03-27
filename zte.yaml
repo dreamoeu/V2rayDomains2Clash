@@ -1,0 +1,16 @@
+# NAME: zte
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zte
+# COUNT: 9
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.nubia.cn"
+- "+.nubia.com"
+- "+.redmagic.com"
+- "+.zte.com.cn"
+- "+.ztemall.com"
+- "+.ztems.com"
+- "bbs.ztedevices.com"
+- "www.ztedevices.com"
+- "ztedevices.com"

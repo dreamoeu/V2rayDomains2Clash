@@ -1,0 +1,10 @@
+# NAME: v2ray
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/v2ray
+# COUNT: 3
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.v2fly.org"
+- "+.v2ray.com"
+- "+.v2ray.cool"

@@ -1,0 +1,11 @@
+# NAME: hentaivn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hentaivn
+# COUNT: 4
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.hentaivn.de"
+- "+.hentaivn.la"
+- "+.hentaivn.net"
+- "+.htvncdn.net"

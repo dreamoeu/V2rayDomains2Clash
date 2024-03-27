@@ -1,0 +1,10 @@
+# NAME: cas
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cas
+# COUNT: 3
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.csdl.ac.cn"
+- "+.iscas.ac.cn"
+- "+.las.ac.cn"

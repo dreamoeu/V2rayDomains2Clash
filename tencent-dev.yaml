@@ -1,0 +1,15 @@
+# NAME: tencent-dev
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tencent-dev
+# COUNT: 8
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.openmidas.com"
+- "+.qq.design"
+- "+.qqgamedesign.com"
+- "+.tencent.design"
+- "+.tjstats.com"
+- "+.wegamedeveloper.com"
+- "+.weixinbridge.com"
+- "+.weui.io"

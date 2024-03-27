@@ -1,0 +1,12 @@
+# NAME: openx-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/openx-ads
+# COUNT: 5
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.openx.net"
+- "+.openxadexchange.com"
+- "+.openxcdn.net"
+- "+.openxenterprise.com"
+- "+.openxmarket.asia"

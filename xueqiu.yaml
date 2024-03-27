@@ -1,0 +1,12 @@
+# NAME: xueqiu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xueqiu
+# COUNT: 5
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.aiganggu.com"
+- "+.danjuanfunds.com"
+- "+.imedao.com"
+- "+.snowballsecurities.com"
+- "+.xueqiu.com"

@@ -1,0 +1,10 @@
+# NAME: npmjs
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/npmjs
+# COUNT: 3
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.npm.community"
+- "+.npmjs.com"
+- "+.npmjs.org"

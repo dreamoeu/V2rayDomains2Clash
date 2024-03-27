@@ -1,0 +1,9 @@
+# NAME: colorfulclouds
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/colorfulclouds
+# COUNT: 2
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.caiyunai.com"
+- "+.caiyunapp.com"

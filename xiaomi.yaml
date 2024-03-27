@@ -1,0 +1,20 @@
+# NAME: xiaomi
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi
+# COUNT: 13
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.mi-img.com"
+- "+.mi.com"
+- "+.mifile.cn"
+- "+.misc.in.duokanbox.com"
+- "+.miui.com"
+- "+.miwifi.com"
+- "+.saxyit.com"
+- "+.tjqonline.cn"
+- "+.xiaomi.cn"
+- "+.xiaomi.com"
+- "+.xiaomi.net"
+- "+.xiaomiev.com"
+- "+.xiaomiyoupin.com"

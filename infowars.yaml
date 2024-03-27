@@ -1,0 +1,10 @@
+# NAME: infowars
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/infowars
+# COUNT: 3
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.banned.video"
+- "+.infowars.com"
+- "+.infowarsmedia.com"

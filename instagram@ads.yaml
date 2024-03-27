@@ -1,0 +1,9 @@
+# NAME: instagram
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/instagram
+# COUNT: 2
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.graph-fallback.instagram.com"
+- "+.graph.instagram.com"

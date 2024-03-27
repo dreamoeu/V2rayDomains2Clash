@@ -1,0 +1,13 @@
+# NAME: category-wiki-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-wiki-cn
+# COUNT: 6
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.fgo.wiki"
+- "+.huijistatic.com"
+- "+.huijiwiki.com"
+- "+.mbalib.com"
+- "+.moegirl.org"
+- "+.moegirl.org.cn"

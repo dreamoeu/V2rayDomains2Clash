@@ -1,0 +1,11 @@
+# NAME: seasun
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/seasun
+# COUNT: 4
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.seasungames.com"
+- "+.testplus.cn"
+- "+.xishanju.com"
+- "+.xoyo.com"

@@ -1,0 +1,8 @@
+# NAME: w3schools
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/w3schools
+# COUNT: 1
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.w3schools.com"

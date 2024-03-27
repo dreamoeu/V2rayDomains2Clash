@@ -1,0 +1,8 @@
+# NAME: setapp
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/setapp
+# COUNT: 1
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.setapp.com"

@@ -1,0 +1,10 @@
+# NAME: purikonejp
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/purikonejp
+# COUNT: 3
+# UPDATED: 2024-03-27 21:35:01
+
+payload:
+- "+.api-priconne-redive.cygames.jp"
+- "+.omotenashi.cygames.jp"
+- "prd-priconne-redive.akamaized.net"
