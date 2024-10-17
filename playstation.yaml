@@ -1,0 +1,11 @@
+# NAME: playstation
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/playstation
+# COUNT: 4
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.playstation"
+- "+.playstation.com"
+- "+.playstation.net"
+- "+.sonyentertainmentnetwork.com"

@@ -1,0 +1,10 @@
+# NAME: jquery
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jquery
+# COUNT: 3
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.jquery.com"
+- "+.jquerymobile.com"
+- "+.jqueryui.com"

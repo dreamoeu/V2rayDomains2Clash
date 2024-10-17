@@ -1,0 +1,10 @@
+# NAME: vpngate
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/vpngate
+# COUNT: 3
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.opengw.net"
+- "+.vpngate.jp"
+- "+.vpngate.net"

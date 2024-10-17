@@ -1,0 +1,10 @@
+# NAME: douban
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/douban
+# COUNT: 3
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.douban.com"
+- "+.douban.fm"
+- "+.doubanio.com"

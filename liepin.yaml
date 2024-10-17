@@ -1,0 +1,10 @@
+# NAME: liepin
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/liepin
+# COUNT: 3
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.liepin.com"
+- "+.lietou-static.com"
+- "+.lietou.com"

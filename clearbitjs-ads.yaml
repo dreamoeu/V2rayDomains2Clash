@@ -1,0 +1,8 @@
+# NAME: clearbitjs-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/clearbitjs-ads
+# COUNT: 1
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.x.clearbitjs.com"

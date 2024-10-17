@@ -1,0 +1,10 @@
+# NAME: meitu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/meitu
+# COUNT: 3
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.meitu.com"
+- "+.meitudata.com"
+- "+.meitustat.com"

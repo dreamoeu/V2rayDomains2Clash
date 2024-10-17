@@ -1,0 +1,11 @@
+# NAME: opensourceinsights
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/opensourceinsights
+# COUNT: 4
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.deps.dev"
+- "+.deps.info"
+- "+.opensourceinsight.dev"
+- "+.opensourceinsights.dev"

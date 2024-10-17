@@ -1,0 +1,10 @@
+# NAME: clubhouse
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/clubhouse
+# COUNT: 3
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.clubhouse.com"
+- "+.clubhouseapi.com"
+- "+.joinclubhouse.com"

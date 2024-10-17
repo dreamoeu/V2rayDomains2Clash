@@ -1,0 +1,17 @@
+# NAME: amap
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/amap
+# COUNT: 10
+# UPDATED: 2024-10-17 21:36:23
+
+payload:
+- "+.a-map.cn"
+- "+.a-map.co"
+- "+.a-map.link"
+- "+.a-map.vip"
+- "+.acloudrender.com"
+- "+.amap.com"
+- "+.amapauto.com"
+- "+.anav.com"
+- "+.autonavi.com"
+- "+.gaode.com"
