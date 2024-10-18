@@ -1,0 +1,11 @@
+# NAME: reuters
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/reuters
+# COUNT: 4
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.reut.rs"
+- "+.reuters.com"
+- "+.reuters.tv"
+- "+.reutersmedia.net"

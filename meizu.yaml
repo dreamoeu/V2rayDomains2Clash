@@ -1,0 +1,11 @@
+# NAME: meizu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/meizu
+# COUNT: 4
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.flyme.cn"
+- "+.meizu.cn"
+- "+.meizu.com"
+- "+.mzres.com"

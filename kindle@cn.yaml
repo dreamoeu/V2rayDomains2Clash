@@ -1,0 +1,10 @@
+# NAME: kindle
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kindle
+# COUNT: 3
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.kindle.cn"
+- "+.kindleoasis.cn"
+- "+.kindleoasis.com.cn"

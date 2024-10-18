@@ -1,0 +1,10 @@
+# NAME: embedly
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/embedly
+# COUNT: 3
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.embed.ly"
+- "+.embedly.com"
+- "+.playerjs.io"

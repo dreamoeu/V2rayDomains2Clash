@@ -1,0 +1,9 @@
+# NAME: playcover
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/playcover
+# COUNT: 2
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.playcover.io"
+- "+.playcover.workers.dev"

@@ -1,0 +1,13 @@
+# NAME: gemfury
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/gemfury
+# COUNT: 6
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.fury.blog"
+- "+.fury.co"
+- "+.fury.dev"
+- "+.fury.help"
+- "+.fury.io"
+- "+.gemfury.com"

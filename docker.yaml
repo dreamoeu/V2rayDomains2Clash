@@ -1,0 +1,10 @@
+# NAME: docker
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/docker
+# COUNT: 3
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.compose-spec.io"
+- "+.docker.com"
+- "+.docker.io"

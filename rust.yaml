@@ -1,0 +1,11 @@
+# NAME: rust
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/rust
+# COUNT: 4
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.crates.io"
+- "+.docs.rs"
+- "+.rust-lang.org"
+- "+.rustup.rs"

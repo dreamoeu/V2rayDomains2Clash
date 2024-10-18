@@ -1,0 +1,13 @@
+# NAME: cambridge
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cambridge
+# COUNT: 6
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.cam.ac.uk"
+- "+.cambridge.org"
+- "+.cambridgedigital.net"
+- "+.cambridgemaths.org"
+- "+.cambridgeschoolshakespeare.com"
+- "+.dlib.eastview.com"

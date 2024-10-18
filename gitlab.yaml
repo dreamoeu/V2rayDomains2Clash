@@ -1,0 +1,12 @@
+# NAME: gitlab
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/gitlab
+# COUNT: 5
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.gitlab-static.net"
+- "+.gitlab.com"
+- "+.gitlab.io"
+- "+.gitlab.net"
+- "gitlab-assets.oss-cn-hongkong.aliyuncs.com"

@@ -1,0 +1,10 @@
+# NAME: agora
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/agora
+# COUNT: 3
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.agora.io"
+- "+.agoraio.cn"
+- "+.agoralab.co"

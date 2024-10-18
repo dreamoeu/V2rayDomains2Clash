@@ -1,0 +1,8 @@
+# NAME: taboola
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/taboola
+# COUNT: 1
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.taboola.com"

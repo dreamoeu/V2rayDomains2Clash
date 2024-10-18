@@ -1,0 +1,11 @@
+# NAME: tendcloud
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tendcloud
+# COUNT: 4
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.cpatrk.net"
+- "+.talkingdata.com"
+- "+.talkinggame.com"
+- "+.tendcloud.com"

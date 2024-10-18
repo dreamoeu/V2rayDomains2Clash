@@ -1,0 +1,13 @@
+# NAME: hkbn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hkbn
+# COUNT: 6
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.csifund.org"
+- "+.hkbn.com.hk"
+- "+.hkbn.net"
+- "+.hkbnes.net"
+- "+.jos.com"
+- "+.speedtest.com.hk"

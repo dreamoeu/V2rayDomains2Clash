@@ -1,0 +1,15 @@
+# NAME: category-acg
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-acg
+# COUNT: 8
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.bowlroll.net"
+- "+.colorfulstage.com"
+- "+.crypton.co.jp"
+- "+.lapriere.jp"
+- "+.magicalmirai.com"
+- "+.mikuexpo.com"
+- "+.piapro.net"
+- "+.snowmiku.com"

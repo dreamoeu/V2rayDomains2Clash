@@ -1,0 +1,10 @@
+# NAME: bridgestone
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bridgestone
+# COUNT: 3
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.bridgestone.cn"
+- "+.bridgestone.com.cn"
+- "+.nokiantyres.cn"

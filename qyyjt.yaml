@@ -1,0 +1,8 @@
+# NAME: qyyjt
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qyyjt
+# COUNT: 1
+# UPDATED: 2024-10-18 21:36:16
+
+payload:
+- "+.qyyjt.cn"
