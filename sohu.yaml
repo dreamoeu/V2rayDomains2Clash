@@ -1,0 +1,10 @@
+# NAME: sohu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sohu
+# COUNT: 3
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.itc.cn"
+- "+.sohu.com"
+- "+.sohucs.com"

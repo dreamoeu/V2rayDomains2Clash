@@ -1,0 +1,10 @@
+# NAME: nexitally
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nexitally
+# COUNT: 3
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.nexitally.com"
+- "+.nexitallysafe.com"
+- "+.nexitcore.com"

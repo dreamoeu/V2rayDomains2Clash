@@ -1,0 +1,10 @@
+# NAME: tokyo-toshokan
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tokyo-toshokan
+# COUNT: 3
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.tokyo-tosho.net"
+- "+.tokyotosho.info"
+- "+.tokyotosho.se"

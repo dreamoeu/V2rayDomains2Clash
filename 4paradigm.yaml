@@ -1,0 +1,8 @@
+# NAME: 4paradigm
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/4paradigm
+# COUNT: 1
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.4paradigm.com"

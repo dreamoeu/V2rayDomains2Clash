@@ -1,0 +1,9 @@
+# NAME: trello
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/trello
+# COUNT: 2
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.trello.com"
+- "+.trellocdn.com"

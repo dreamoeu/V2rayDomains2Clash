@@ -1,0 +1,9 @@
+# NAME: ruleoflaw
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ruleoflaw
+# COUNT: 2
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.rolfoundation.org"
+- "+.rolsociety.org"

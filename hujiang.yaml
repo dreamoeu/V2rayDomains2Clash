@@ -1,0 +1,12 @@
+# NAME: hujiang
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hujiang
+# COUNT: 5
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.cctalk.com"
+- "+.hjapi.com"
+- "+.hjfile.cn"
+- "+.hujiang.com"
+- "+.yeshj.com"

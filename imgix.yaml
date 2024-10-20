@@ -1,0 +1,9 @@
+# NAME: imgix
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/imgix
+# COUNT: 2
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.imgix.com"
+- "+.imgix.net"

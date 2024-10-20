@@ -1,0 +1,8 @@
+# NAME: walmart
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/walmart
+# COUNT: 1
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.walmart.cn"

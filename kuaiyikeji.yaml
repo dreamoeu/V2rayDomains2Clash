@@ -1,0 +1,10 @@
+# NAME: kuaiyikeji
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kuaiyikeji
+# COUNT: 3
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.dengguobi.com"
+- "+.houyicaiji.com"
+- "+.jinglingbiaozhu.com"

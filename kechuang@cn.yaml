@@ -1,0 +1,8 @@
+# NAME: kechuang
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kechuang
+# COUNT: 1
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "kc.kexinshe.com"

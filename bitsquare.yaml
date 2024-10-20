@@ -1,0 +1,10 @@
+# NAME: bitsquare
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bitsquare
+# COUNT: 3
+# UPDATED: 2024-10-20 21:35:40
+
+payload:
+- "+.bisq.io"
+- "+.bisq.network"
+- "+.bitsquare.io"
