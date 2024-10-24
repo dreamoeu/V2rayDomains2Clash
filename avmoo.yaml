@@ -1,0 +1,10 @@
+# NAME: avmoo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/avmoo
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.avmoo.click"
+- "+.avmoo.com"
+- "+.tellme.pw"

@@ -1,0 +1,18 @@
+# NAME: drweb
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/drweb
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.drweb-av.de"
+- "+.drweb-av.es"
+- "+.drweb-av.it"
+- "+.drweb-av.pl"
+- "+.drweb.by"
+- "+.drweb.cn"
+- "+.drweb.co.jp"
+- "+.drweb.com"
+- "+.drweb.fr"
+- "+.drweb.kz"
+- "+.drweb.uz"

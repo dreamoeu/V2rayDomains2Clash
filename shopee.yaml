@@ -1,0 +1,28 @@
+# NAME: shopee
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/shopee
+# COUNT: 21
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.shopee.cl"
+- "+.shopee.cn"
+- "+.shopee.co.id"
+- "+.shopee.co.th"
+- "+.shopee.com"
+- "+.shopee.com.br"
+- "+.shopee.com.co"
+- "+.shopee.com.mx"
+- "+.shopee.com.my"
+- "+.shopee.es"
+- "+.shopee.fr"
+- "+.shopee.id"
+- "+.shopee.in"
+- "+.shopee.io"
+- "+.shopee.ph"
+- "+.shopee.sg"
+- "+.shopee.tw"
+- "+.shopee.vn"
+- "+.shopeemobile.com"
+- "+.shopeesz.com"
+- "+.shp.ee"

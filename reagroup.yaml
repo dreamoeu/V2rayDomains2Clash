@@ -1,0 +1,39 @@
+# NAME: reagroup
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/reagroup
+# COUNT: 32
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.flatmates.com.au"
+- "+.hackday.com.au"
+- "+.hometrack.com.au"
+- "+.housing.com"
+- "+.housingcdn.com"
+- "+.inventorship.com.au"
+- "+.ippstatic.com"
+- "+.iproperty.com"
+- "+.iproperty.com.my"
+- "+.iproperty.com.sg"
+- "+.makaan.com"
+- "+.move.com"
+- "+.moveaws.com"
+- "+.myfun.com"
+- "+.property.com.au"
+- "+.proptiger.com"
+- "+.rea-asia.com"
+- "+.rea-group.com"
+- "+.rea.design"
+- "+.rea.global"
+- "+.rea.io"
+- "+.rea.tech"
+- "+.realcommercial.com.au"
+- "+.realestate.com.au"
+- "+.realtor.com"
+- "+.reastatic.net"
+- "+.rumah123.com"
+- "+.smartexpos.com"
+- "+.smartline.com.au"
+- "+.spacely.com.au"
+- "+.squarefoot.com.hk"
+- "+.thinkofliving.com"

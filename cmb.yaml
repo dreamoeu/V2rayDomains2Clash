@@ -1,0 +1,28 @@
+# NAME: cmb
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cmb
+# COUNT: 21
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.8008205555.cn"
+- "+.8008205555.com"
+- "+.cignacmb-ipmi.com"
+- "+.cignacmb.com"
+- "+.cignacmbamc.com"
+- "+.cmb-leasing.com"
+- "+.cmbchina.biz"
+- "+.cmbchina.cn"
+- "+.cmbchina.com"
+- "+.cmbi.com.hk"
+- "+.cmbimg.cn"
+- "+.cmbimg.com"
+- "+.cmbt.cn"
+- "+.cmbuat.com"
+- "+.cmburl.cn"
+- "+.cmbwinglungbank.com"
+- "+.cmf.biz"
+- "+.cmf.ltd"
+- "+.cmfchina.com"
+- "+.cmfunds.cn"
+- "+.test-cignacmb.com"

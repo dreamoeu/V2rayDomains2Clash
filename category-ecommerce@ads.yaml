@@ -1,0 +1,18 @@
+# NAME: category-ecommerce
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-ecommerce
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ad.games.dmm.com"
+- "+.bluekai.com"
+- "+.fout.jp"
+- "+.gmossp-sp.jp"
+- "+.i-mobile.co.jp"
+- "+.im-apps.net"
+- "+.impact-ad.jp"
+- "+.ladsp.com"
+- "+.microad.co.jp"
+- "+.microad.jp"
+- "+.socdm.com"

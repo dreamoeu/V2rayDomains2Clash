@@ -1,0 +1,8 @@
+# NAME: codeforces
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/codeforces
+# COUNT: 1
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.codeforces.com"

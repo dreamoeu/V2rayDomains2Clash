@@ -1,0 +1,10 @@
+# NAME: clips4sale
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/clips4sale
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.c4slive.com"
+- "+.clips4sale.com"
+- "+.videos4sale.com"

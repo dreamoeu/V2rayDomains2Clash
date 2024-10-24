@@ -1,0 +1,24 @@
+# NAME: oculus
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/oculus
+# COUNT: 17
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.binoculus.com"
+- "+.buyoculus.com"
+- "+.ocul.us"
+- "+.oculus-china.com"
+- "+.oculus.com"
+- "+.oculus2014.com"
+- "+.oculus3d.com"
+- "+.oculusblog.com"
+- "+.oculusbrand.com"
+- "+.oculuscasino.net"
+- "+.oculuscdn.com"
+- "+.oculusconnect.com"
+- "+.oculusdiving.com"
+- "+.oculusforbusiness.com"
+- "+.oculusrift.com"
+- "+.oculusvr.com"
+- "+.powersunitedvr.com"

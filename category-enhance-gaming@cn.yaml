@@ -1,0 +1,12 @@
+# NAME: category-enhance-gaming
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-enhance-gaming
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.heavenlywind.cc"
+- "+.lsplayer.com"
+- "+.rpglogs.cn"
+- "+.steampp.net"
+- "+.yeshen.com"

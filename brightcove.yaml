@@ -1,0 +1,21 @@
+# NAME: brightcove
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/brightcove
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bcove.video"
+- "+.bcovlive.io"
+- "+.bcvp0rtal.com"
+- "+.boltdns.net"
+- "+.brightcove.com"
+- "+.brightcove.net"
+- "+.brightcove.services"
+- "+.brightcovecdn.com"
+- "+.videojs.com"
+- "+.zencdn.net"
+- "+.zencoder.com"
+- "bcovlive-a.akamaihd.net"
+- "bcsecure01-a.akamaihd.net"
+- "brightcove.imgix.net"

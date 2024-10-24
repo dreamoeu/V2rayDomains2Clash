@@ -1,0 +1,10 @@
+# NAME: weiphone
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/weiphone
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.feng.com"
+- "+.fengimg.com"
+- "+.wfdata.club"

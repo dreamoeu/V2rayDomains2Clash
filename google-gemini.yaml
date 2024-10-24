@@ -1,0 +1,20 @@
+# NAME: google-gemini
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/google-gemini
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.aistudio.google.com"
+- "+.bard.google.com"
+- "+.deepmind.com"
+- "+.deepmind.google"
+- "+.geller-pa.googleapis.com"
+- "+.gemini.google.com"
+- "+.generativeai.google"
+- "+.generativelanguage.googleapis.com"
+- "+.makersuite.google.com"
+- "+.proactivebackend-pa.googleapis.com"
+- "ai.google.dev"
+- "alkalicore-pa.clients6.google.com"
+- "alkalimakersuite-pa.clients6.google.com"

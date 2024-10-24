@@ -1,0 +1,18 @@
+# NAME: onedrive
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/onedrive
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.1drv.com"
+- "+.1drv.ms"
+- "+.livefilestore.com"
+- "+.onedrive.co"
+- "+.onedrive.co.uk"
+- "+.onedrive.com"
+- "+.onedrive.eu"
+- "+.onedrive.live.com"
+- "+.onedrive.net"
+- "+.onedrive.org"
+- "+.storage.live.com"

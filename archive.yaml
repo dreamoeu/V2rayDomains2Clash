@@ -1,0 +1,14 @@
+# NAME: archive
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/archive
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.4pcdn.org"
+- "+.4plebs.org"
+- "+.archive-it.org"
+- "+.archive.org"
+- "+.archive.ph"
+- "+.archive.today"
+- "+.openlibrary.org"

@@ -1,0 +1,12 @@
+# NAME: boylove
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/boylove
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.boylove.cc"
+- "+.boylove.live"
+- "+.boylove1.cc"
+- "+.boyloves.cc"
+- "+.fuhouse.club"

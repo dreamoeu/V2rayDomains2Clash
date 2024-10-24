@@ -1,0 +1,14 @@
+# NAME: avaxhome
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/avaxhome
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.avh.world"
+- "+.avxde.org"
+- "+.avxhm.is"
+- "+.avxhm.se"
+- "+.avxlive.icu"
+- "+.xsava.xyz"
+- "+.zavat.pw"

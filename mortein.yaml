@@ -1,0 +1,18 @@
+# NAME: mortein
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mortein
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.mortein.cn"
+- "+.mortein.co.in"
+- "+.mortein.co.nz"
+- "+.mortein.co.za"
+- "+.mortein.com"
+- "+.mortein.com.au"
+- "+.mortein.com.br"
+- "+.mortein.com.ng"
+- "+.mortein.com.pk"
+- "+.morteincam.com"
+- "+.pifpafarabia.com"

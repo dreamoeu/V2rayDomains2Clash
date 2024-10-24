@@ -1,0 +1,11 @@
+# NAME: messenger
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/messenger
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.fbmessenger.com"
+- "+.m.me"
+- "+.messenger.com"
+- "+.nbabot.net"

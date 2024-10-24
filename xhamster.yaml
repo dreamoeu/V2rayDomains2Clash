@@ -1,0 +1,15 @@
+# NAME: xhamster
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xhamster
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.xhamster.com"
+- "+.xhamster.desi"
+- "+.xhamster.xxx"
+- "+.xhamster18.com"
+- "+.xhamster18.desi"
+- "+.xhamsterlive.com"
+- "+.xhcdn.com"
+- "widgets.stripst.com"

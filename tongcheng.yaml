@@ -1,0 +1,15 @@
+# NAME: tongcheng
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tongcheng
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.17u.cn"
+- "+.17u.net"
+- "+.17usoft.com"
+- "+.17usoft.net"
+- "+.40017.cn"
+- "+.elong.com"
+- "+.elongstatic.com"
+- "+.ly.com"

@@ -1,0 +1,9 @@
+# NAME: mobile01
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mobile01
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.5i01.com"
+- "+.mobile01.com"

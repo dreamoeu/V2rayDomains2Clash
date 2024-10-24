@@ -1,0 +1,22 @@
+# NAME: category-shopping-ir
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-shopping-ir
+# COUNT: 15
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.digi-kala.com"
+- "+.digikala.com"
+- "+.digikalabusiness.com"
+- "+.digikalajet.com"
+- "+.digistyle.com"
+- "+.divar.cloud"
+- "+.divar.ir"
+- "+.divarcdn.com"
+- "+.emalls.ir"
+- "+.esam.ir"
+- "+.janebi.com"
+- "+.janebi.ir"
+- "+.sheypoor.com"
+- "+.torob.com"
+- "+.zanbil.ir"

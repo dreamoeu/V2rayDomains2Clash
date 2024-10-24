@@ -1,0 +1,16 @@
+# NAME: vilavpn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/vilavpn
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.vilavpn.com"
+- "+.vilavpn.xyz"
+- "+.vilavpn1.xyz"
+- "+.vilavpn2.xyz"
+- "+.vilavpn3.xyz"
+- "+.vilavpn4.xyz"
+- "+.vilavpn5.xyz"
+- "+.vilavpn6.xyz"
+- "+.vilavpn7.xyz"

@@ -1,0 +1,32 @@
+# NAME: category-tech-media
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-tech-media
+# COUNT: 25
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.9to5google.com"
+- "+.9to5mac.com"
+- "+.9to5terminal.com"
+- "+.9to5toys.com"
+- "+.androidauthority.com"
+- "+.androidpolice.com"
+- "+.appleinsider.com"
+- "+.digitaltrends.com"
+- "+.dronedj.com"
+- "+.electrek.co"
+- "+.engadget.com"
+- "+.macrumors.com"
+- "+.slashdot.org"
+- "+.spaceexplored.com"
+- "+.startupschool.org"
+- "+.technews.tw"
+- "+.techradar.com"
+- "+.thetype.cloud"
+- "+.thetype.com"
+- "+.theverge.com"
+- "+.tomsguide.com"
+- "+.typeisbeautiful.com"
+- "+.ycombinator.com"
+- "+.zdnet.com"
+- "+.zdnet.redvideo.io"

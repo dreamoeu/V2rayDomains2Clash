@@ -1,0 +1,15 @@
+# NAME: muji
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/muji
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.muji.com"
+- "+.muji.com.cn"
+- "+.muji.com.hk"
+- "+.muji.eu"
+- "+.muji.net"
+- "+.muji.tw"
+- "+.muji.us"
+- "+.mujikorea.net"

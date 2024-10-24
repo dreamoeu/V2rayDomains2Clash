@@ -1,0 +1,16 @@
+# NAME: fqnovel
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/fqnovel
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "ads3-normal-hl.zijieapi.com"
+- "ads5-normal-hl.zijieapi.com"
+- "log3-applog-hl.fqnovel.com"
+- "log5-applog-hl.fqnovel.com"
+- "p3-ad-sign.byteimg.com"
+- "p6-ad-sign.byteimg.com"
+- "p9-ad-sign.byteimg.com"
+- "rtlog3-applog-hl.fqnovel.com"
+- "rtlog5-applog-hl.fqnovel.com"

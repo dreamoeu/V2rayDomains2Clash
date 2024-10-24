@@ -1,0 +1,28 @@
+# NAME: oppo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/oppo
+# COUNT: 21
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.allawntech.com"
+- "+.coloros.com"
+- "+.finzfin.com"
+- "+.heytap.com"
+- "+.heytapcs.com"
+- "+.heytapdownload.com"
+- "+.heytapimage.com"
+- "+.heytapmobi.com"
+- "+.myoppo.com"
+- "+.nearme.com.cn"
+- "+.oppo.cn"
+- "+.oppo.com"
+- "+.oppo.mobi"
+- "+.oppodigital.com"
+- "+.oppoer.me"
+- "+.oppomobile.com"
+- "+.oppopay.com"
+- "+.opposhop.cn"
+- "+.realme.com"
+- "+.realmebbs.com"
+- "+.realmemobile.com"

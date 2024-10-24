@@ -1,0 +1,9 @@
+# NAME: op
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/op
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.op.gg"
+- "opgg-static.akamaized.net"

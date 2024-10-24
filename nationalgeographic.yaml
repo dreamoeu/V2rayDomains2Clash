@@ -1,0 +1,11 @@
+# NAME: nationalgeographic
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nationalgeographic
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.natgeomaps.com"
+- "+.nationalgeographic.com"
+- "+.nationalgeographicpartners.com"
+- "+.ngeo.com"

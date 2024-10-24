@@ -1,0 +1,21 @@
+# NAME: dnspod
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dnspod
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.dns.pub"
+- "+.dnsapi.cn"
+- "+.dnspod.cn"
+- "+.dnspod.com"
+- "+.dnspod.com.cn"
+- "+.dnspod.mobi"
+- "+.dnspod.net"
+- "+.dnspod.org"
+- "+.dnsv2.com"
+- "+.dnsv3.com"
+- "+.dnsv4.com"
+- "+.dnsv5.com"
+- "+.doh.pub"
+- "+.dot.pub"

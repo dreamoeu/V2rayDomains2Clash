@@ -1,0 +1,9 @@
+# NAME: dmm-porn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dmm-porn
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.dmm.co.jp"
+- "+.dmmrex.com"

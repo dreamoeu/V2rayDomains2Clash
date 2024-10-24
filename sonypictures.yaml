@@ -1,0 +1,21 @@
+# NAME: sonypictures
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sonypictures
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.imageworks.com"
+- "+.motionpictureser.com"
+- "+.playshow.io"
+- "+.playshowtv.com"
+- "+.sonyclassics.com"
+- "+.sonypictures.com"
+- "+.sonypicturesanimation.com"
+- "+.sonypicturesmuseum.com"
+- "+.sonypicturesstudios.com"
+- "+.sonypicturestelevision.com"
+- "+.sonypicturestelevisiongames.com"
+- "+.wheelpop.com"
+- "+.wwtbam.com"
+- "+.yourfantasybeginsnow.com"

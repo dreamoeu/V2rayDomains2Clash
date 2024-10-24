@@ -1,0 +1,16 @@
+# NAME: visa
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/visa
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.financialsoccer.com.cn"
+- "+.practicalmoneyskills.cn"
+- "+.practicalmoneyskills.com.cn"
+- "+.visa.cn"
+- "+.visa.com.cn"
+- "+.visainfinite.cn"
+- "+.visapay.cn"
+- "+.visaplatinum.cn"
+- "+.visaplatinum.com.cn"

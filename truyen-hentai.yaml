@@ -1,0 +1,10 @@
+# NAME: truyen-hentai
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/truyen-hentai
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.truyen-hentai.com"
+- "+.truyen-hentai.fr"
+- "+.truyen-hentai.ru"

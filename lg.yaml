@@ -1,0 +1,17 @@
+# NAME: lg
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/lg
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.lg.com"
+- "+.lgappstv.com"
+- "+.lge.co.kr"
+- "+.lge.com"
+- "+.lgecareers.com"
+- "+.lghvac.com"
+- "+.lghvacstory.com"
+- "+.lgrecyclingprogram.com"
+- "+.lgsalesportal.com"
+- "lgelectronics.122.2o7.net"

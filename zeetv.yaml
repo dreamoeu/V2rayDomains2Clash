@@ -1,0 +1,16 @@
+# NAME: zeetv
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zeetv
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.z5.app"
+- "+.z5.com"
+- "+.zee5.com"
+- "+.zee5.in"
+- "+.zee5.tv"
+- "+.zeebioskop.com"
+- "+.zeetv.co.uk"
+- "+.zeetv.com"
+- "+.zeeuk.com"

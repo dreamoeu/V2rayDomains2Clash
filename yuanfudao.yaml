@@ -1,0 +1,13 @@
+# NAME: yuanfudao
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/yuanfudao
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.banmaaike.com"
+- "+.xiaoyuankousuan.com"
+- "+.ybccode.com"
+- "+.yuanfudao.com"
+- "+.yuansouti.com"
+- "+.yuantiku.com"

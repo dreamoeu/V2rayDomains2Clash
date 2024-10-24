@@ -1,0 +1,28 @@
+# NAME: category-entertainment-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment-cn
+# COUNT: 21
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.benghuai.com"
+- "+.bh3.com"
+- "+.bhsr.com"
+- "+.bilibiligame.cn"
+- "+.bilibiligame.co"
+- "+.bilibiligame.net"
+- "+.biligame.co"
+- "+.biligame.com"
+- "+.biligame.net"
+- "+.juequling.com"
+- "+.mhystatic.com"
+- "+.mhyurl.cn"
+- "+.mihayo.com"
+- "+.mihayou.com"
+- "+.mihoyo.com"
+- "+.mihoyocg.com"
+- "+.mihoyogift.com"
+- "+.mihoyomall.com"
+- "+.miyoushe.com"
+- "+.themisweeps.com"
+- "+.yuanshen.com"

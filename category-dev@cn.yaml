@@ -1,0 +1,18 @@
+# NAME: category-dev
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.cdn.jetbrains.com"
+- "+.download-cdn.jetbrains.com.cn"
+- "+.microsoftreactor.cn"
+- "+.microsoftreactor.com.cn"
+- "+.reactorms.com.cn"
+- "+.researchkit.cn"
+- "+.researchkit.com.cn"
+- "+.swiftui.cn"
+- "+.swiftui.com.cn"
+- "cdn.ampproject.org"
+- "firebase-settings.crashlytics.com"

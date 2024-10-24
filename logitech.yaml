@@ -1,0 +1,20 @@
+# NAME: logitech
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/logitech
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.logi.com"
+- "+.logicool.co.jp"
+- "+.logicoolg.com"
+- "+.logitech.biz"
+- "+.logitech.com"
+- "+.logitech.com.cn"
+- "+.logitech.fr"
+- "+.logitech.io"
+- "+.logitechg.com"
+- "+.logitechg.com.cn"
+- "+.logitechg.fr"
+- "+.logitechio.com.cn"
+- "+.worldsfastestgamer.net"

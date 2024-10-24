@@ -1,0 +1,20 @@
+# NAME: ubiquiti
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ubiquiti
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.amplifi.com"
+- "+.amplifi.com.cn"
+- "+.frontrow.com"
+- "+.frontrow.com.cn"
+- "+.ubncloud.com"
+- "+.ubnt.com"
+- "+.ubnt.com.cn"
+- "+.ui.com"
+- "+.ui.com.cn"
+- "+.uisp.com"
+- "+.uum.com.cn"
+- "+.uwn.com"
+- "+.wifiman.com"

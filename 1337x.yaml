@@ -1,0 +1,17 @@
+# NAME: 1337x
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/1337x
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.1337x.gd"
+- "+.1337x.is"
+- "+.1337x.st"
+- "+.1337x.to"
+- "+.1337x.tw"
+- "+.1337xto.to"
+- "+.1337xx.to"
+- "+.x1337x.eu"
+- "+.x1337x.se"
+- "+.x1337x.ws"

@@ -1,0 +1,20 @@
+# NAME: yomiuri
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/yomiuri
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.chuokoron.jp"
+- "+.fujinkoron.jp"
+- "+.hochi.news"
+- "+.ryokoyomiuri.co.jp"
+- "+.the-japan-news.com"
+- "+.ync.ne.jp"
+- "+.yomikyo.or.jp"
+- "+.yomilogi.com"
+- "+.yomiuri-johkai.co.jp"
+- "+.yomiuri-ryokou.co.jp"
+- "+.yomiuri-shimbun.pressreader.com"
+- "+.yomiuri-systec.co.jp"
+- "+.yomiuri.co.jp"

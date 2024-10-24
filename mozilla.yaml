@@ -1,0 +1,30 @@
+# NAME: mozilla
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mozilla
+# COUNT: 23
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bugzilla.org"
+- "+.crates.io"
+- "+.developer.allizom.org"
+- "+.docs.rs"
+- "+.extensionworkshop.com"
+- "+.firefox.com"
+- "+.firefoxusercontent.com"
+- "+.getpocket.com"
+- "+.mdn.allizom.net"
+- "+.mdn.dev"
+- "+.mdn.mozit.cloud"
+- "+.mdnplay.dev"
+- "+.mdnyalp.dev"
+- "+.mozgcp.net"
+- "+.mozilla.com"
+- "+.mozilla.community"
+- "+.mozilla.net"
+- "+.mozilla.org"
+- "+.rust-lang.org"
+- "+.rustup.rs"
+- "+.seamonkey-project.org"
+- "+.thunderbird.net"
+- "mdn.mozillademos.org"

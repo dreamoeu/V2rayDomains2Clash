@@ -1,0 +1,15 @@
+# NAME: category-scholar-ir
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-scholar-ir
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ac.ir"
+- "+.edu.ir"
+- "+.iranlms.ir"
+- "+.jtt.ir"
+- "+.sanjesh.org"
+- "+.sharif.edu"
+- "+.sharif.ir"
+- "+.srttu.edu"

@@ -1,0 +1,12 @@
+# NAME: category-entertainment-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment-cn
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bilibili.tv"
+- "+.biliintl.com"
+- "+.dreamcast.hk"
+- "+.iq.com"
+- "upos-hz-mirrorakam.akamaized.net"

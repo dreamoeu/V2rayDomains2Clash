@@ -1,0 +1,8 @@
+# NAME: public-dns-domain
+# BEHAVIOR: domain
+# SOURCE: https://gist.githubusercontent.com/Kr328/38b9d7907d0e3e9ee1a9bacd99dfa6f4/raw/public-dns-domain.txt
+# COUNT: 1
+# UPDATED: 2024-10-24 21:36:59
+
+payload:
+- "dns.jd.com"

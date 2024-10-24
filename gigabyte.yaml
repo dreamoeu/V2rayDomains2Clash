@@ -1,0 +1,14 @@
+# NAME: gigabyte
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/gigabyte
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.aorus.com"
+- "+.aoruszone.cn"
+- "+.gigabyte.cn"
+- "+.gigabyte.com"
+- "gigabyte2.azureedge.net"
+- "sa78gs.wpc.edgecastcdn.net"
+- "sni1dcb6gl.wpc.edgecastcdn.net"

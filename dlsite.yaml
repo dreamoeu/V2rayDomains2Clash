@@ -1,0 +1,16 @@
+# NAME: dlsite
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dlsite
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.chobit.cc"
+- "+.ci-en.jp"
+- "+.ci-en.net"
+- "+.dlsite.com"
+- "+.dlsite.com.tw"
+- "+.dlsite.jp"
+- "+.dlsitestudio.com"
+- "+.nijiyome.jp"
+- "+.triokini.com"

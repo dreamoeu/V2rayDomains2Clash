@@ -1,0 +1,18 @@
+# NAME: chinatelecom
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/chinatelecom
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.189.cn"
+- "+.chinatelecom-h.com"
+- "+.chinatelecom.com.cn"
+- "+.chinatelecomglobal.com"
+- "+.chinatelecomhk.com"
+- "+.chntel.com"
+- "+.ctexcel.ca"
+- "+.ctexcel.com"
+- "+.ctexcel.com.hk"
+- "+.ctexcel.fr"
+- "+.ctexcel.us"

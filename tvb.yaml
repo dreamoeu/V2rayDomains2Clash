@@ -1,0 +1,20 @@
+# NAME: tvb
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tvb
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bigbigchannel.com.hk"
+- "+.bigbigshop.com"
+- "+.encoretvb.com"
+- "+.mytvsuper.com"
+- "+.tvb.com"
+- "+.tvb.com.au"
+- "+.tvbanywhere.com"
+- "+.tvbanywhere.com.sg"
+- "+.tvbc.com.cn"
+- "+.tvbeventpower.com.hk"
+- "+.tvbusa.com"
+- "+.tvbweekly.com"
+- "+.tvmedia.net.au"

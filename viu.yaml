@@ -1,0 +1,13 @@
+# NAME: viu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/viu
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.viu.com"
+- "+.viu.tv"
+- "api.viu.now.com"
+- "d1k2us671qcoau.cloudfront.net"
+- "d2anahhhmp1ffz.cloudfront.net"
+- "dfp6rglgjqszk.cloudfront.net"

@@ -1,0 +1,13 @@
+# NAME: category-game-accelerator-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-game-accelerator-cn
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bohejiasuqi.com"
+- "+.jiasu.bohe.com"
+- "+.leigod.com"
+- "+.tmjiasuqi.com"
+- "+.uu.163.com"
+- "+.xunyou.com"

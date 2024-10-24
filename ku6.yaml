@@ -1,0 +1,10 @@
+# NAME: ku6
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ku6
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ku6.com"
+- "+.ku6cdn.com"
+- "+.ku6img.com"

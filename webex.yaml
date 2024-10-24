@@ -1,0 +1,23 @@
+# NAME: webex
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/webex
+# COUNT: 16
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.webex.ca"
+- "+.webex.co.in"
+- "+.webex.co.it"
+- "+.webex.co.jp"
+- "+.webex.co.kr"
+- "+.webex.co.nz"
+- "+.webex.co.uk"
+- "+.webex.com"
+- "+.webex.com.au"
+- "+.webex.com.br"
+- "+.webex.com.cn"
+- "+.webex.com.hk"
+- "+.webex.com.mx"
+- "+.webex.de"
+- "+.webex.es"
+- "+.webex.fr"

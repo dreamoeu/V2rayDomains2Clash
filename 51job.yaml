@@ -1,0 +1,12 @@
+# NAME: 51job
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/51job
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.51job.com"
+- "+.51jobcdn.com"
+- "+.yingjiesheng.com"
+- "+.yingjiesheng.net"
+- "+.zhiding.com.cn"

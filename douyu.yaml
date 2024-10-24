@@ -1,0 +1,13 @@
+# NAME: douyu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/douyu
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.douyu.com"
+- "+.douyu.tv"
+- "+.douyucdn.cn"
+- "+.douyucdn2.cn"
+- "+.douyuscdn.com"
+- "+.douyutv.com"

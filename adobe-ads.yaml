@@ -1,0 +1,9 @@
+# NAME: adobe-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/adobe-ads
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.advertising.adobe.com"
+- "+.tubemogul.com"

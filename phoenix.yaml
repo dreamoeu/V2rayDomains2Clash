@@ -1,0 +1,13 @@
+# NAME: phoenix
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/phoenix
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.fengcx.com"
+- "+.fengedu.com"
+- "+.ifeng.com"
+- "+.ifengimg.com"
+- "+.ifengweekly.com"
+- "+.phoenixcenter.cn"

@@ -1,0 +1,10 @@
+# NAME: hcaptcha
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hcaptcha
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.botstop.com"
+- "+.hcaptcha.com"
+- "+.hcaptchastatus.com"

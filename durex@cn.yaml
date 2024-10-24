@@ -1,0 +1,10 @@
+# NAME: durex
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/durex
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.durex.com.cn"
+- "+.durexchina.com.cn"
+- "+.lovesexdurex.cn"

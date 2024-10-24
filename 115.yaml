@@ -1,0 +1,16 @@
+# NAME: 115
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/115
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.115.com"
+- "+.115cdn.com"
+- "+.115cdn.net"
+- "+.115img.com"
+- "+.116cd.cn"
+- "+.116cd.com"
+- "+.116cd.net"
+- "+.anxia.com"
+- "+.sq.cc"

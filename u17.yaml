@@ -1,0 +1,10 @@
+# NAME: u17
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/u17
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.u17.com"
+- "+.u17i.com"
+- "+.u17t.com"

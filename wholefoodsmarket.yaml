@@ -1,0 +1,14 @@
+# NAME: wholefoodsmarket
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/wholefoodsmarket
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.wfm.com"
+- "+.wholecitiesfoundation.org"
+- "+.wholefoods.com"
+- "+.wholefoodsmarket.co.uk"
+- "+.wholefoodsmarket.com"
+- "+.wholekidsfoundation.org"
+- "+.wholeplanetfoundation.org"

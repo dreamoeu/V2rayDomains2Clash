@@ -1,0 +1,14 @@
+# NAME: meituan
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/meituan
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.dianping.com"
+- "+.maoyan.com"
+- "+.meituan.com"
+- "+.meituan.net"
+- "+.mtyun.com"
+- "+.neixin.cn"
+- "+.sankuai.com"

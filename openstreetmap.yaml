@@ -1,0 +1,16 @@
+# NAME: openstreetmap
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/openstreetmap
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.openmaps.org"
+- "+.openstreetmap.com"
+- "+.openstreetmap.net"
+- "+.openstreetmap.org"
+- "+.openstreetmaps.org"
+- "+.osm.org"
+- "+.osmfoundation.org"
+- "+.stateofthemap.com"
+- "+.stateofthemap.org"

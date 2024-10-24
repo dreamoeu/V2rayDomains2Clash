@@ -1,0 +1,11 @@
+# NAME: hellofont
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hellofont
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.hellofont.cn"
+- "+.hellowebfont.com"
+- "hellofontpreview.oss-cn-beijing.aliyuncs.com"
+- "hellowebfonts.oss-cn-beijing.aliyuncs.com"

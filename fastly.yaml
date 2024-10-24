@@ -1,0 +1,15 @@
+# NAME: fastly
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/fastly
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.fastly-edge.com"
+- "+.fastly-terrarium.com"
+- "+.fastly.com"
+- "+.fastly.io"
+- "+.fastly.net"
+- "+.fastlylabs.com"
+- "+.fastlylb.net"
+- "+.zencdn.net"

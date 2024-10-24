@@ -1,0 +1,17 @@
+# NAME: mainichi
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mainichi
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.machigoto.jp"
+- "+.mainichi-athletepartners.jp"
+- "+.mainichi.jp"
+- "+.mainichibooks.com"
+- "+.meijinsen.jp"
+- "+.mirailab.tech"
+- "+.mottainai.info"
+- "+.newsgawakaru.com"
+- "+.sponichi.co.jp"
+- "+.weekly-economist.com"

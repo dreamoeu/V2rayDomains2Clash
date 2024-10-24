@@ -1,0 +1,10 @@
+# NAME: spankbang
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/spankbang
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.sb-cd.com"
+- "+.spankbang.com"
+- "+.spankbang.party"

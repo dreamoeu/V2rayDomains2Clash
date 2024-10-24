@@ -1,0 +1,21 @@
+# NAME: category-payment-ir
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-payment-ir
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.asanpardakht.com"
+- "+.asanpardakht.net"
+- "+.behpardakht.com"
+- "+.iranicard.ir"
+- "+.mydigipay.com"
+- "+.pay.ir"
+- "+.payping.ir"
+- "+.pec.ir"
+- "+.pep.co.ir"
+- "+.sadadpsp.ir"
+- "+.sep.ir"
+- "+.shaparak.ir"
+- "+.weswap.digital"
+- "+.zarinpal.com"

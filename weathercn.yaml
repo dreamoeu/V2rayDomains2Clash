@@ -1,0 +1,12 @@
+# NAME: weathercn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/weathercn
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.hf-aw.cn"
+- "+.hf-aw.com"
+- "+.huafeng-accuweather.cn"
+- "+.huafengaw.com"
+- "+.weathercn.com"

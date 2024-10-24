@@ -1,0 +1,13 @@
+# NAME: unity
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/unity
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ads.unitychina.cn"
+- "+.splash-ads.cdn.unity.cn"
+- "+.splash-ads.unitychina.cn"
+- "+.unityads.unity.cn"
+- "+.unityads.unity3d.com"
+- "+.unityads.unitychina.cn"

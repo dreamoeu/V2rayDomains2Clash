@@ -1,0 +1,25 @@
+# NAME: snapp
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/snapp
+# COUNT: 18
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.cdnsnapptrip.com"
+- "+.snapp-box.com"
+- "+.snapp.cab"
+- "+.snapp.doctor"
+- "+.snapp.express"
+- "+.snapp.ir"
+- "+.snapp.ninja"
+- "+.snapp.site"
+- "+.snapp.supply"
+- "+.snapp.taxi"
+- "+.snapp.tech"
+- "+.snappcloud.io"
+- "+.snappfood.dev"
+- "+.snappfood.ir"
+- "+.snappmaps.ir"
+- "+.snapproom.com"
+- "+.snappshop.ir"
+- "+.snapptrip.com"

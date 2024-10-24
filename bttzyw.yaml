@@ -1,0 +1,11 @@
+# NAME: bttzyw
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bttzyw
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.btt804.com"
+- "+.btt904.com"
+- "+.bttzyw.com"
+- "+.bttzyw.net"

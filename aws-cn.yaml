@@ -1,0 +1,28 @@
+# NAME: aws-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/aws-cn
+# COUNT: 21
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.a2z.org.cn"
+- "+.amazonaws.cn"
+- "+.amazonaws.com.cn"
+- "+.amazonwebservices.com.cn"
+- "+.amazonworkdocs.cn"
+- "+.amazonworkdocs.com.cn"
+- "+.asfiovnxocqpcry.com.cn"
+- "+.aws-border.cn"
+- "+.aws-icp-domain-manager.cn"
+- "+.awsapps.cn"
+- "+.awsapps.com.cn"
+- "+.awsstatic.cn"
+- "+.cloudfront-cn.net"
+- "+.cloudfront-test.cn"
+- "+.cloudfront.cn"
+- "+.nwcdcloud.cn"
+- "+.nwcdcloud.com.cn"
+- "+.nwcddns.cn"
+- "+.nwcdinfosec.cn"
+- "+.route53.cn"
+- "+.sagemaker.com.cn"

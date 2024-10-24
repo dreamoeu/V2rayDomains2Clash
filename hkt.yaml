@@ -1,0 +1,19 @@
+# NAME: hkt
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hkt
+# COUNT: 12
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.1010.com.hk"
+- "+.esmarthealth.com"
+- "+.hkcsl.com"
+- "+.hkt-enterprise.com"
+- "+.hkt-eye.com"
+- "+.hkt.com"
+- "+.hkteducation.com"
+- "+.hktpremier.com"
+- "+.hktshop.com"
+- "+.netvigator.com"
+- "+.theclub.com.hk"
+- "+.uhub.com"

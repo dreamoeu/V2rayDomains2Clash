@@ -1,0 +1,17 @@
+# NAME: akamai
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/akamai
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.accdn.com.cn"
+- "+.akadns88.net"
+- "+.akadns99.net"
+- "+.akamai.com"
+- "+.akcdn.com.cn"
+- "+.aptdn.net"
+- "+.edgekey88.net"
+- "+.janrain.biz"
+- "+.janrainservices.com"
+- "+.skycdn.com.cn"

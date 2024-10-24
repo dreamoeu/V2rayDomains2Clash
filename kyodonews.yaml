@@ -1,0 +1,16 @@
+# NAME: kyodonews
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kyodonews
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.47gyosei.jp"
+- "+.47news.jp"
+- "+.kyodo-d.info"
+- "+.kyodo-d.jp"
+- "+.kyodoimages.jp"
+- "+.kyodonews.jp"
+- "+.kyodonews.net"
+- "+.newsmart.jp"
+- "+.nna.jp"

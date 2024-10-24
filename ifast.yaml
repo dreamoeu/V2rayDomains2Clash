@@ -1,0 +1,21 @@
+# NAME: ifast
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ifast
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.fsmone.com"
+- "+.fsmone.com.hk"
+- "+.fsmone.com.my"
+- "+.fundsupermart.com"
+- "+.ifastcapital.com.my"
+- "+.ifastcorp.com"
+- "+.ifastfinancial.co.in"
+- "+.ifastfinancial.com.hk"
+- "+.ifastgb.com"
+- "+.ifastgp.com"
+- "+.ifastgp.com.hk"
+- "+.ifastnetwork.com"
+- "+.ifastps.com.cn"
+- "+.ifasttv.com"

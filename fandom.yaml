@@ -1,0 +1,19 @@
+# NAME: fandom
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/fandom
+# COUNT: 12
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.cortexrpg.com"
+- "+.cursecdn.com"
+- "+.dndbeyond.com"
+- "+.fanatical.com"
+- "+.fandom.com"
+- "+.futhead.com"
+- "+.gamepedia.com"
+- "+.muthead.com"
+- "+.wikia.com"
+- "+.wikia.nocookie.net"
+- "+.wikia.org"
+- "fandom.zendesk.com"

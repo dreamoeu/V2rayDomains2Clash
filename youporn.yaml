@@ -1,0 +1,15 @@
+# NAME: youporn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/youporn
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.extremetube.com"
+- "+.keezmovies.com"
+- "+.yopornshop.com"
+- "+.youporn.com"
+- "+.youporngay.com"
+- "+.youpornpremium.com"
+- "+.youpornru.com"
+- "+.ypncdn.com"

@@ -1,0 +1,19 @@
+# NAME: zdns
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zdns
+# COUNT: 12
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.zcmbc.com.cn"
+- "+.zdns.cn"
+- "+.zdns.net.cn"
+- "+.zdns.org.cn"
+- "+.zdnscloud.biz"
+- "+.zdnscloud.cn"
+- "+.zdnscloud.com"
+- "+.zdnscloud.com.cn"
+- "+.zdnscloud.info"
+- "+.zdnscloud.net"
+- "+.zdnscloud.net.cn"
+- "+.zdnscloud.org.cn"

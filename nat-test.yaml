@@ -1,0 +1,8 @@
+# NAME: nat-test
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nat-test
+# COUNT: 1
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.nattest-china.com"

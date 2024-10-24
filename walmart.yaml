@@ -1,0 +1,17 @@
+# NAME: walmart
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/walmart
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.w-mt.co"
+- "+.wal-mart.com"
+- "+.wal.co"
+- "+.walmart"
+- "+.walmart-content.com"
+- "+.walmart.cn"
+- "+.walmart.com"
+- "+.walmart.pharmacy"
+- "+.walmartimages.com"
+- "+.wmt.co"

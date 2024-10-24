@@ -1,0 +1,25 @@
+# NAME: wikimedia
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/wikimedia
+# COUNT: 18
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.mediawiki.org"
+- "+.toolforge.org"
+- "+.w.wiki"
+- "+.wikibooks.org"
+- "+.wikidata.org"
+- "+.wikimedia.org"
+- "+.wikimediacloud.org"
+- "+.wikimediafoundation.org"
+- "+.wikinews.org"
+- "+.wikipedia.org"
+- "+.wikiquote.org"
+- "+.wikisource.org"
+- "+.wikiversity.org"
+- "+.wikivoyage.org"
+- "+.wiktionary.org"
+- "+.wmcloud.org"
+- "+.wmflabs.org"
+- "+.wmfusercontent.org"

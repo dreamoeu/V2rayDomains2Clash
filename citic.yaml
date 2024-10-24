@@ -1,0 +1,22 @@
+# NAME: citic
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/citic
+# COUNT: 15
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.chinaamc.com"
+- "+.citic"
+- "+.citic-prudential.com.cn"
+- "+.citicbank.com"
+- "+.citiccapital.com"
+- "+.citiciam.com"
+- "+.citicifh.com"
+- "+.citicprufunds.com.cn"
+- "+.citics.com.hk"
+- "+.citicsf.com"
+- "+.clsa.com"
+- "+.cncbinternational.com"
+- "+.csc108.com"
+- "+.csci.hk"
+- "+.ecitic.com"

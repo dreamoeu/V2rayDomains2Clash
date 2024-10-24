@@ -1,0 +1,17 @@
+# NAME: ctrip
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ctrip
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ctrip.co.id"
+- "+.ctrip.co.kr"
+- "+.ctrip.co.th"
+- "+.ctrip.com.hk"
+- "+.ctrip.my"
+- "+.ctrip.sg"
+- "+.ctripbuy.hk"
+- "+.hhtravel.com.tw"
+- "+.trip.com"
+- "+.tripcdn.com"

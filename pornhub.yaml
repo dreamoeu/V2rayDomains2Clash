@@ -1,0 +1,16 @@
+# NAME: pornhub
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/pornhub
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.gaytube.com"
+- "+.phncdn.com"
+- "+.phprcdn.com"
+- "+.porngub.com"
+- "+.pornhub-deutsch.net"
+- "+.pornhub.com"
+- "+.pornhub.org"
+- "+.pornhubapparel.com"
+- "+.pornhubpremium.com"

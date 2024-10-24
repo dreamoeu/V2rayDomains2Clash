@@ -1,0 +1,10 @@
+# NAME: duolingo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/duolingo
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ads-api.duolingo.com"
+- "+.analytics.vpc.duolingo.com"
+- "+.metrics.duolingo.com"

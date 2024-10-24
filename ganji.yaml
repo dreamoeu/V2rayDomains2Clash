@@ -1,0 +1,11 @@
+# NAME: ganji
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ganji
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.58ganji-corp.com"
+- "+.58ganji.com"
+- "+.ganji.com"
+- "+.ganjistatic1.com"

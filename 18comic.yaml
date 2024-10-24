@@ -1,0 +1,22 @@
+# NAME: 18comic
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/18comic
+# COUNT: 15
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.18comic-god.cc"
+- "+.18comic-god.club"
+- "+.18comic-god.xyz"
+- "+.18comic.cc"
+- "+.18comic.company"
+- "+.18comic.org"
+- "+.18comic.vip"
+- "+.jmcomic.ltd"
+- "+.jmcomic.me"
+- "+.jmcomic.mobi"
+- "+.jmcomic.moe"
+- "+.jmcomic1.city"
+- "+.jmcomic1.me"
+- "+.jmcomic1.mobi"
+- "+.jmcomic2.moe"

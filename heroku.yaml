@@ -1,0 +1,19 @@
+# NAME: heroku
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/heroku
+# COUNT: 12
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.codei.sh"
+- "+.codeish.co"
+- "+.codeish.io"
+- "+.heroku-app.com"
+- "+.heroku-charge.com"
+- "+.heroku.co"
+- "+.heroku.com"
+- "+.heroku.me"
+- "+.herokuapp.com"
+- "+.herokucdn.com"
+- "+.herokucharge.com"
+- "+.herokussl.com"

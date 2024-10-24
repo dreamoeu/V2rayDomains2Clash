@@ -1,0 +1,14 @@
+# NAME: bing
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bing
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bing.com.cn"
+- "+.cn.bing.com"
+- "+.cn.bing.net"
+- "+.cn.mm.bing.net"
+- "+.ditu.live.com"
+- "bj1.api.bing.com"
+- "emoi-cncdn.bing.com"

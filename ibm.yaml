@@ -1,0 +1,27 @@
+# NAME: ibm
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ibm
+# COUNT: 20
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.appdomain.cloud"
+- "+.bluemix.com"
+- "+.bluemix.net"
+- "+.consul.io"
+- "+.hashicorp.com"
+- "+.ibm"
+- "+.ibm.com"
+- "+.ibm.eu"
+- "+.ibm.net"
+- "+.ibm.us"
+- "+.nomadproject.io"
+- "+.packer.io"
+- "+.s-bluemix.net"
+- "+.s81c.com"
+- "+.terraform.io"
+- "+.vagrantcloud.com"
+- "+.vagrantup.com"
+- "+.vaultproject.io"
+- "+.weather"
+- "+.weatherchannel"

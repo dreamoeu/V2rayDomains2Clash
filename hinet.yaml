@@ -1,0 +1,13 @@
+# NAME: hinet
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hinet
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.cht.com.tw"
+- "+.chtf.org.tw"
+- "+.emome.net"
+- "+.gtlsca.nat.gov.tw"
+- "+.hinet.net"
+- "+.xuite.net"

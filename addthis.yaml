@@ -1,0 +1,10 @@
+# NAME: addthis
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/addthis
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.addthis.com"
+- "+.addthiscdn.com"
+- "+.addthisedge.com"

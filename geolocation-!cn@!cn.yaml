@@ -1,0 +1,28 @@
+# NAME: geolocation-!cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/geolocation-!cn
+# COUNT: 21
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.alibabacloud.co.in"
+- "+.alibabacloud.com.au"
+- "+.alibabacloud.com.hk"
+- "+.alibabacloud.com.my"
+- "+.alibabacloud.com.sg"
+- "+.alibabacloud.com.tw"
+- "+.byteoversea.com"
+- "+.muscdn.com"
+- "+.musical.ly"
+- "+.supercell.com"
+- "+.tik-tokapi.com"
+- "+.tiktok.com"
+- "+.tiktokcdn-us.com"
+- "+.tiktokcdn.com"
+- "+.tiktokd.net"
+- "+.tiktokd.org"
+- "+.tiktokv.com"
+- "+.tiktokv.us"
+- "+.tiktokw.us"
+- "+.ttwstatic.com"
+- "p16-tiktokcdn-com.akamaized.net"

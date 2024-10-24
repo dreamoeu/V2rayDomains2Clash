@@ -1,0 +1,13 @@
+# NAME: alibabacloud
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/alibabacloud
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.alibabacloud.co.in"
+- "+.alibabacloud.com.au"
+- "+.alibabacloud.com.hk"
+- "+.alibabacloud.com.my"
+- "+.alibabacloud.com.sg"
+- "+.alibabacloud.com.tw"

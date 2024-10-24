@@ -1,0 +1,10 @@
+# NAME: intel
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/intel
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.intel.cn"
+- "+.intel.com.cn"
+- "+.intelrealsense.cn"

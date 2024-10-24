@@ -1,0 +1,15 @@
+# NAME: kuaishou
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.gifshow.com"
+- "+.inkwai.com"
+- "+.ksapisrv.com"
+- "+.kuaishou.com"
+- "+.kuaishouzt.com"
+- "+.kwaizt.com"
+- "+.kwimgs.com"
+- "+.yximgs.com"

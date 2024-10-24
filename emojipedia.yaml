@@ -1,0 +1,11 @@
+# NAME: emojipedia
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/emojipedia
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.emojipedia.org"
+- "+.worldemojiawards.com"
+- "+.worldemojiday.com"
+- "+.xn--yt8h.la"

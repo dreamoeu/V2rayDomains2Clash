@@ -1,0 +1,24 @@
+# NAME: firebase
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/firebase
+# COUNT: 17
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.firebase.com"
+- "+.firebase.io"
+- "+.firebaseapp.com"
+- "+.firebaseio.com"
+- "firebase-settings.crashlytics.com"
+- "firebase.google.com"
+- "firebase.googleapis.com"
+- "firebaseappcheck.googleapis.com"
+- "firebasedynamiclinks-ipv4.googleapis.com"
+- "firebasedynamiclinks-ipv6.googleapis.com"
+- "firebasedynamiclinks.googleapis.com"
+- "firebaseinappmessaging.googleapis.com"
+- "firebaseinstallations.googleapis.com"
+- "firebaselogging-pa.googleapis.com"
+- "firebaselogging.googleapis.com"
+- "firebaseperusertopics-pa.googleapis.com"
+- "firebaseremoteconfig.googleapis.com"

@@ -1,0 +1,17 @@
+# NAME: youquan
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/youquan
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.aitcfw.com"
+- "+.aizgtc.com"
+- "+.hangzhouyq.cn"
+- "+.hangzhouyq.com"
+- "+.zgxytc.com"
+- "+.zgzsa.com"
+- "+.zhonshian.cn"
+- "+.zhonshian.com"
+- "+.zhonshian.com.cn"
+- "+.zjzsa.com"

@@ -1,0 +1,39 @@
+# NAME: sogou
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sogou
+# COUNT: 32
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.binglianhuajianzhan.com"
+- "+.ggoplay.com"
+- "+.ggowan.com"
+- "+.go2map.com"
+- "+.pinyin.cn"
+- "+.qd.ink"
+- "+.sg.cn"
+- "+.sgtmos.com"
+- "+.sgyeyou.com"
+- "+.sgyouxi.com"
+- "+.sogo.com"
+- "+.sogou-inc.com"
+- "+.sogou-op.org"
+- "+.sogou.cn"
+- "+.sogou.com"
+- "+.sogou.com.cn"
+- "+.sogou.net"
+- "+.sogoucdn.com"
+- "+.sogoucdndl.com"
+- "+.sogouimecdn.com"
+- "+.soso.com"
+- "+.soso.com.cn"
+- "+.sososnap.com"
+- "+.teemo.cn"
+- "+.wannianqingjianzhan.com"
+- "+.xiangrikuijianzhan.com"
+- "+.xiangrikuisite.com"
+- "+.xinyan.cn"
+- "+.yeyousg.com"
+- "+.yidianliulan.cn"
+- "+.yidianliulan.com"
+- "+.yuweikuijianzhan.com"

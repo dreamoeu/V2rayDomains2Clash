@@ -1,0 +1,8 @@
+# NAME: kindle4rss
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kindle4rss
+# COUNT: 1
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.kindle4rss.com"

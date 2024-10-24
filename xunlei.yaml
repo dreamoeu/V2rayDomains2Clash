@@ -1,0 +1,16 @@
+# NAME: xunlei
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xunlei
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.00cdn.com"
+- "+.88cdn.com"
+- "+.p2cdn.com"
+- "+.sandai.net"
+- "+.thundercdn.com"
+- "+.thunderurl.com"
+- "+.xunlei.com"
+- "+.xycdn.com"
+- "+.xycloud.com"

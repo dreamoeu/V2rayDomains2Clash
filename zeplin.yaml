@@ -1,0 +1,9 @@
+# NAME: zeplin
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zeplin
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.zeplin.dev"
+- "+.zeplin.io"

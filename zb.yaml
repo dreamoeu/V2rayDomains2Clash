@@ -1,0 +1,11 @@
+# NAME: zb
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zb
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.zb.app"
+- "+.zb.com"
+- "+.zb.io"
+- "+.zb.live"

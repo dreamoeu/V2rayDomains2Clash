@@ -1,0 +1,21 @@
+# NAME: samsung
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/samsung
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.galaxyappstore.com"
+- "+.galaxymobile.jp"
+- "+.game-platform.net"
+- "+.knoxemm.com"
+- "+.samsung"
+- "+.samsung.com"
+- "+.samsungapps.com"
+- "+.samsungcloud.com"
+- "+.samsungdm.com"
+- "+.samsungeshop.com.cn"
+- "+.samsunggalaxyfriends.com"
+- "+.samsungknox.com"
+- "+.samsungqbe.com"
+- "+.xn--cg4bki"

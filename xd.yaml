@@ -1,0 +1,18 @@
+# NAME: xd
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xd
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ro.com"
+- "+.tapimg.com"
+- "+.tapimg.net"
+- "+.taptap.cn"
+- "+.taptap.com"
+- "+.taptap.io"
+- "+.taptapdada.com"
+- "+.xd.cn"
+- "+.xd.com"
+- "+.xdcdn.net"
+- "+.xindong.com"

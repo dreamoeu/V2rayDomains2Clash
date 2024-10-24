@@ -1,0 +1,13 @@
+# NAME: bilibili-game
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bilibili-game
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bilibiligame.cn"
+- "+.bilibiligame.co"
+- "+.bilibiligame.net"
+- "+.biligame.co"
+- "+.biligame.com"
+- "+.biligame.net"

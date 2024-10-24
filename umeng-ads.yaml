@@ -1,0 +1,11 @@
+# NAME: umeng-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/umeng-ads
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.alog.umeng.com"
+- "+.alog.umengcloud.com"
+- "+.w.cnzz.com"
+- "+.z.gds.cnzz.com"

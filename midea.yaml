@@ -1,0 +1,16 @@
+# NAME: midea
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/midea
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.irsnp.com"
+- "+.mdcdn.cn"
+- "+.midea.cn"
+- "+.midea.com"
+- "+.midea.com.cn"
+- "+.mideaepayuat.com"
+- "+.msmartlife.cn"
+- "+.msmartlife.com"
+- "+.smartmidea.net"

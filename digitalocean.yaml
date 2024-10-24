@@ -1,0 +1,11 @@
+# NAME: digitalocean
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/digitalocean
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.digitalocean.com"
+- "+.digitaloceanspaces.com"
+- "+.do.co"
+- "+.nginxconfig.io"

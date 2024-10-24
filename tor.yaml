@@ -1,0 +1,10 @@
+# NAME: tor
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tor
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.exit"
+- "+.onion"
+- "+.tor"

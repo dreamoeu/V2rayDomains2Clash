@@ -1,0 +1,9 @@
+# NAME: kingkonglive
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kingkonglive
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.kingkong.com.tw"
+- "+.kingkongapp.com"

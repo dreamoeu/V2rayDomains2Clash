@@ -1,0 +1,10 @@
+# NAME: bilibili2
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bilibili2
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bili2.cc"
+- "+.bili888.com"
+- "+.bili999.com"

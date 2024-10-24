@@ -1,0 +1,13 @@
+# NAME: hunantv-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hunantv-ads
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.click.hunantv.com"
+- "+.da.hunantv.com"
+- "+.da.mgtv.com"
+- "+.log.hunantv.com"
+- "+.log.v2.hunantv.com"
+- "+.res.hunantv.com"

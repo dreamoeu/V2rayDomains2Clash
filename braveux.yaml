@@ -1,0 +1,13 @@
+# NAME: braveux
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/braveux
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.braventures.com"
+- "+.braveux.com"
+- "+.compass.is"
+- "+.fightforux.com"
+- "+.forthebadge.com"
+- "+.stockagainstphotography.com"

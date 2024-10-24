@@ -1,0 +1,13 @@
+# NAME: sci-hub
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sci-hub
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.sci-hub.ee"
+- "+.sci-hub.it.nf"
+- "+.sci-hub.mksa.top"
+- "+.sci-hub.se"
+- "+.sci-hub.st"
+- "+.sci.hubg.org"

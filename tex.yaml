@@ -1,0 +1,11 @@
+# NAME: tex
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tex
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ctan.org"
+- "+.latex-project.org"
+- "+.miktex.org"
+- "+.tug.org"

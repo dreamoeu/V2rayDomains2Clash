@@ -1,0 +1,25 @@
+# NAME: faronics
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/faronics
+# COUNT: 18
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.clickedu.co.uk"
+- "+.deepfreeze.co.uk"
+- "+.deepfreeze.com"
+- "+.deepfreeze.com.br"
+- "+.deepfreeze.eu"
+- "+.deepfreeze.net"
+- "+.deepfreeze.tech"
+- "+.faronics.ca"
+- "+.faronics.co.uk"
+- "+.faronics.com"
+- "+.faronics.com.au"
+- "+.faronics.com.sg"
+- "+.faronics.eu"
+- "+.faronics.tech"
+- "+.faronicslabs.com"
+- "+.faronicswise.co.uk"
+- "+.faronicswise.com"
+- "faronics.kayako.com"

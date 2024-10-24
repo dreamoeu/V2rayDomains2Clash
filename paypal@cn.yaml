@@ -1,0 +1,19 @@
+# NAME: paypal
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/paypal
+# COUNT: 12
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.anfutong.cn"
+- "+.anfutong.com.cn"
+- "+.beibao.cn"
+- "+.beibao.com.cn"
+- "+.paypal.com.cn"
+- "+.paypal.net.cn"
+- "+.paypal.org.cn"
+- "+.paypalcommunity.cn"
+- "+.paypalhere.cn"
+- "+.paypalhere.com.cn"
+- "+.xn--bnq297cix3a.cn"
+- "+.xoom.net.cn"

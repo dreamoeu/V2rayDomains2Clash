@@ -1,0 +1,40 @@
+# NAME: verisign
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/verisign
+# COUNT: 33
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.verisign.asia"
+- "+.verisign.biz"
+- "+.verisign.ch"
+- "+.verisign.co.in"
+- "+.verisign.co.uk"
+- "+.verisign.com"
+- "+.verisign.com.au"
+- "+.verisign.com.br"
+- "+.verisign.com.cn"
+- "+.verisign.com.es"
+- "+.verisign.com.hk"
+- "+.verisign.com.sg"
+- "+.verisign.com.tw"
+- "+.verisign.com.vn"
+- "+.verisign.de"
+- "+.verisign.dk"
+- "+.verisign.es"
+- "+.verisign.fr"
+- "+.verisign.hk"
+- "+.verisign.in"
+- "+.verisign.info"
+- "+.verisign.jobs"
+- "+.verisign.mobi"
+- "+.verisign.name"
+- "+.verisign.net"
+- "+.verisign.org"
+- "+.verisign.pro"
+- "+.verisign.se"
+- "+.verisign.sg"
+- "+.verisign.tw"
+- "+.verisign.us"
+- "+.verisign.vn"
+- "+.verisigninc.com"

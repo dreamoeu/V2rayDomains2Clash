@@ -1,0 +1,21 @@
+# NAME: wantmedia
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/wantmedia
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.benliton.com"
+- "+.chinatimes.com"
+- "+.chinatimes.com.tw"
+- "+.ctee.com.tw"
+- "+.ctitv.com.tw"
+- "+.ctv.com.tw"
+- "+.ctwant.com"
+- "+.infotimes.com.tw"
+- "+.lecoin.cc"
+- "+.loveparents.org"
+- "+.superstation.com.tw"
+- "+.want-media.com"
+- "+.wantblogger.com"
+- "+.zwtvusa.com"

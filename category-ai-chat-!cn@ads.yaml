@@ -1,0 +1,9 @@
+# NAME: category-ai-chat-!cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-chat-!cn
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "o33249.ingest.sentry.io"
+- "openaicom.imgix.net"

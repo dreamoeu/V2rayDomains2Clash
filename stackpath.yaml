@@ -1,0 +1,9 @@
+# NAME: stackpath
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/stackpath
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.stackpath.com"
+- "+.stackpath.dev"

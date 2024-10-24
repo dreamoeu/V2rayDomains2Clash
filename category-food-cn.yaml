@@ -1,0 +1,16 @@
+# NAME: category-food-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-food-cn
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.3songshu.com"
+- "+.517lppz.com"
+- "+.haidilao.com"
+- "+.heytea.com"
+- "+.lkcoffee.com"
+- "+.lppz.com"
+- "+.lppzimg.com"
+- "+.luckincoffeecdn.com"
+- "+.yyds.co"

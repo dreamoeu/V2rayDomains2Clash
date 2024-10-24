@@ -1,0 +1,18 @@
+# NAME: category-social-media-ir
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-social-media-ir
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bale.ai"
+- "+.eitaa.com"
+- "+.eitaa.ir"
+- "+.gap.im"
+- "+.gaplication.com"
+- "+.mizito.ir"
+- "+.niniban.com"
+- "+.ninisite.com"
+- "+.rubika.ir"
+- "+.splus.ir"
+- "+.virasty.com"

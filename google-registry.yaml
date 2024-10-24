@@ -1,0 +1,20 @@
+# NAME: google-registry
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/google-registry
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.charlestonroadregistry.com"
+- "+.crr.com"
+- "+.get.app"
+- "+.get.dev"
+- "+.get.how"
+- "+.get.new"
+- "+.get.page"
+- "+.get.rsvp"
+- "+.hey.boo"
+- "+.iam.soy"
+- "+.new.day"
+- "+.registry.google"
+- "+.xn--p8j9a0d9c9a.xn--q9jyb4c"

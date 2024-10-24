@@ -1,0 +1,18 @@
+# NAME: espn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/espn
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.dtci.co"
+- "+.dtci.technology"
+- "+.espn.co.uk"
+- "+.espn.com"
+- "+.espn.net"
+- "+.espncdn.com"
+- "+.espnqa.com"
+- "+.watchespn.com"
+- "espn.api.edge.bamgrid.com"
+- "espn.hb.omtrdc.net"
+- "espndotcom.tt.omtrdc.net"

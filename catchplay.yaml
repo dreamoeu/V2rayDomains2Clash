@@ -1,0 +1,9 @@
+# NAME: catchplay
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/catchplay
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.catchplay.com"
+- "+.tra-ww000-cp.akamaized.net"

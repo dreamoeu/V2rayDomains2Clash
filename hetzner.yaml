@@ -1,0 +1,17 @@
+# NAME: hetzner
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hetzner
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.first-ns.de"
+- "+.hetzner.cloud"
+- "+.hetzner.com"
+- "+.hetzner.company"
+- "+.hetzner.de"
+- "+.htznr.li"
+- "+.second-ns.com"
+- "+.second-ns.de"
+- "+.your-objectstorage.com"
+- "+.your-server.de"

@@ -1,0 +1,10 @@
+# NAME: mogujie
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mogujie
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.mogu.com"
+- "+.mogucdn.com"
+- "+.mogujie.com"

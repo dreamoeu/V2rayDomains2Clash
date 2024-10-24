@@ -1,0 +1,20 @@
+# NAME: hketgroup
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hketgroup
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.apexprint.com.hk"
+- "+.eprc.com.hk"
+- "+.etbc.com.hk"
+- "+.etnet.com.cn"
+- "+.etnet.com.hk"
+- "+.etnetchina.com.cn"
+- "+.etpress.com.hk"
+- "+.ettrade.com.hk"
+- "+.etwealth.com"
+- "+.hket.com"
+- "+.hketgroup.com"
+- "+.ulifestyle.com.hk"
+- "+.umagazine.com.hk"

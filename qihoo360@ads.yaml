@@ -1,0 +1,15 @@
+# NAME: qihoo360
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qihoo360
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.fenxi.com"
+- "+.lianmeng.360.cn"
+- "+.mediav.com"
+- "+.mvad.com"
+- "+.qhupdate.com"
+- "+.s.360.cn"
+- "+.s.so.360.cn"
+- "+.s.union.360.cn"

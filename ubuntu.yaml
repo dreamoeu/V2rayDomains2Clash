@@ -1,0 +1,11 @@
+# NAME: ubuntu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ubuntu
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ubuntu-touch.io"
+- "+.ubuntu.com"
+- "+.ubuntu.net"
+- "+.ubuntuforums.org"

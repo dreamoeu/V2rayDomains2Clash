@@ -1,0 +1,16 @@
+# NAME: nytimes
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nytimes
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.nyt.com"
+- "+.nyt.net"
+- "+.nytchina.com"
+- "+.nytcn.me"
+- "+.nytco.com"
+- "+.nyti.ms"
+- "+.nytimes.com"
+- "+.nytstyle.com"
+- "+.timestalks.com"

@@ -1,0 +1,19 @@
+# NAME: squareup
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/squareup
+# COUNT: 12
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.cash.app"
+- "+.cashbycashapp.com"
+- "+.gosq.co"
+- "+.gosq.com"
+- "+.issquaredown.com"
+- "+.issquareup.com"
+- "+.mkt.com"
+- "+.sellercommunity.com"
+- "+.squarecapital.com"
+- "+.squarecdn.com"
+- "+.squarecloudservices.com"
+- "+.squareup.com"

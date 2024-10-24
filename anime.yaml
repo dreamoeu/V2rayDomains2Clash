@@ -1,0 +1,28 @@
+# NAME: anime
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/anime
+# COUNT: 21
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.9anime.cz"
+- "+.9anime.id"
+- "+.9anime.to"
+- "+.9anime.ws"
+- "+.age.tv"
+- "+.agedm.app"
+- "+.agedm.org"
+- "+.agedm.tv"
+- "+.agefans.com"
+- "+.agemys.org"
+- "+.animedao-tv.com"
+- "+.crunchyroll.com"
+- "+.funimation.com"
+- "+.gogo-load.com"
+- "+.gogoanime.vc"
+- "+.gogoanime.wiki"
+- "+.gogoanime3.co"
+- "+.gogocdn.net"
+- "+.gogotaku.info"
+- "+.hidive.com"
+- "+.vrv.co"

@@ -1,0 +1,24 @@
+# NAME: realclear
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/realclear
+# COUNT: 17
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.realclear.com"
+- "+.realclearbooks.com"
+- "+.realcleardefense.com"
+- "+.realcleareducation.com"
+- "+.realclearenergy.org"
+- "+.realclearfoundation.org"
+- "+.realclearhealth.com"
+- "+.realclearhistory.com"
+- "+.realclearinvestigations.com"
+- "+.realclearlife.com"
+- "+.realclearmarkets.com"
+- "+.realclearpolicy.com"
+- "+.realclearpolitics.com"
+- "+.realclearpublicaffairs.com"
+- "+.realclearreligion.org"
+- "+.realclearscience.com"
+- "+.realclearworld.com"

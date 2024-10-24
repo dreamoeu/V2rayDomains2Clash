@@ -1,0 +1,19 @@
+# NAME: nintendo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nintendo
+# COUNT: 12
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.legendofzelda.cn"
+- "+.legendofzelda.com.cn"
+- "+.mariokart.cn"
+- "+.mariokart.com.cn"
+- "+.miitomo.com.cn"
+- "+.nintendolabo.cn"
+- "+.nintendoswitch.cn"
+- "+.nintendoswitch.com.cn"
+- "+.supermariobros.com.cn"
+- "+.supersmashbros.cn"
+- "+.supersmashbros.com.cn"
+- "+.xn--mts47c3w9b1qr.cn"

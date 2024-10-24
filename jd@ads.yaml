@@ -1,0 +1,13 @@
+# NAME: jd
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jd
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ads.union.jd.com"
+- "+.c-nfa.jd.com"
+- "+.cps.360buy.com"
+- "+.img-x.jd.com"
+- "+.jzt.jd.com"
+- "+.stat.m.jd.com"

@@ -1,0 +1,27 @@
+# NAME: stackexchange
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/stackexchange
+# COUNT: 20
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.askubuntu.com"
+- "+.blogoverflow.com"
+- "+.codeforaliving.io"
+- "+.mathoverflow.net"
+- "+.serverfault.com"
+- "+.sstatic.net"
+- "+.stackapps.com"
+- "+.stackauth.com"
+- "+.stackexchange.com"
+- "+.stackmod.blog"
+- "+.stackoverflow.blog"
+- "+.stackoverflow.co"
+- "+.stackoverflow.com"
+- "+.stackoverflow.email"
+- "+.stackoverflowbusiness.com"
+- "+.stackoverflowcareers.com"
+- "+.stacksnippets.net"
+- "+.superuser.com"
+- "+.tex-talk.net"
+- "+.thesffblog.com"

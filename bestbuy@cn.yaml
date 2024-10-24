@@ -1,0 +1,10 @@
+# NAME: bestbuy
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bestbuy
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bestbuy.cn"
+- "+.bestbuy.com.cn"
+- "+.magnoliaav.com.cn"

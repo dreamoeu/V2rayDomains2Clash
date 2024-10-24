@@ -1,0 +1,14 @@
+# NAME: category-pt
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-pt
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.m-team.cc"
+- "+.m-team.io"
+- "+.myanonamouse.net"
+- "+.skyey2.com"
+- "+.skyeysnow.com"
+- "+.torrentleech.org"
+- "+.u2.dmhy.org"

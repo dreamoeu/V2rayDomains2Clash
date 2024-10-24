@@ -1,0 +1,12 @@
+# NAME: rockstar
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/rockstar
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.rockstargames.com"
+- "+.rsg.sc"
+- "gamedownloads-rockstargames-com.akamaized.net"
+- "media-rockstargames-com.akamaized.net"
+- "videos-rockstargames-com.akamaized.net"

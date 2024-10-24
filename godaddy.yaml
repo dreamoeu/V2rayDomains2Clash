@@ -1,0 +1,10 @@
+# NAME: godaddy
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/godaddy
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.godaddy"
+- "+.godaddy.com"
+- "+.x.co"

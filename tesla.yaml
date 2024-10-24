@@ -1,0 +1,20 @@
+# NAME: tesla
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tesla
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.solarcity.com"
+- "+.tesla.cn"
+- "+.tesla.com"
+- "+.tesla.com.cn"
+- "+.tesla.services"
+- "+.teslaenergy.services"
+- "+.teslamotors.cn"
+- "+.teslamotors.com"
+- "+.teslamotors.com.cn"
+- "+.teslazta.net"
+- "+.ts.la"
+- "tesla-cdn.thron.cn"
+- "tesla-cdn.thron.com"

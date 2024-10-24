@@ -1,0 +1,9 @@
+# NAME: woolite
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/woolite
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.woolite.cn"
+- "+.woolite.com.cn"

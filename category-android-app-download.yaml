@@ -1,0 +1,14 @@
+# NAME: category-android-app-download
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-android-app-download
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.apkcombo.com"
+- "+.apkmirror.com"
+- "+.apkpure.com"
+- "+.apkpure.net"
+- "+.cdnpure.com"
+- "+.pureapk.com"
+- "+.winudf.com"

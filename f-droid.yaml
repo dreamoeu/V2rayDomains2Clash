@@ -1,0 +1,11 @@
+# NAME: f-droid
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/f-droid
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.f-dro1d.org"
+- "+.f-droid.com"
+- "+.f-droid.org"
+- "+.fdroid.org"

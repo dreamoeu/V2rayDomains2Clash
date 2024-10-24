@@ -1,0 +1,21 @@
+# NAME: dwion
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dwion
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.acadn.cn"
+- "+.acadn.com"
+- "+.bbbcdns.com"
+- "+.dlgslb.cn"
+- "+.dlgslb.net"
+- "+.dwion.com"
+- "+.fastcdn.com"
+- "+.fastcdn.com.cn"
+- "+.flxdns.cn"
+- "+.flxdns.com"
+- "+.globalcdn.cn"
+- "+.mcadn.cn"
+- "+.tlgslb.cn"
+- "+.tlgslb.com"

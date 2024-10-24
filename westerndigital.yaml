@@ -1,0 +1,30 @@
+# NAME: westerndigital
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/westerndigital
+# COUNT: 23
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.g-technology.com"
+- "+.sandisk.ae"
+- "+.sandisk.cn"
+- "+.sandisk.co.jp"
+- "+.sandisk.co.kr"
+- "+.sandisk.co.uk"
+- "+.sandisk.com"
+- "+.sandisk.com.au"
+- "+.sandisk.com.br"
+- "+.sandisk.com.tr"
+- "+.sandisk.com.tw"
+- "+.sandisk.de"
+- "+.sandisk.es"
+- "+.sandisk.fr"
+- "+.sandisk.hk"
+- "+.sandisk.id"
+- "+.sandisk.in"
+- "+.sandisk.it"
+- "+.sandisk.nl"
+- "+.sandisk.sg"
+- "+.wd.com"
+- "+.wdc.com"
+- "+.westerndigital.com"

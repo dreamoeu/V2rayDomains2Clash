@@ -1,0 +1,21 @@
+# NAME: epicgames
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/epicgames
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.battlebreakers.com"
+- "+.eac-cdn.com"
+- "+.easy.ac"
+- "+.easyanticheat.net"
+- "+.epicgames.com"
+- "+.epicgames.dev"
+- "+.fortnite.com"
+- "+.paragon.com"
+- "+.playparagon.com"
+- "+.roborecall.com"
+- "+.shadowcomplex.com"
+- "+.spyjinx.com"
+- "+.unrealengine.com"
+- "+.unrealtournament.com"

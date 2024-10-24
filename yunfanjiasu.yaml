@@ -1,0 +1,15 @@
+# NAME: yunfanjiasu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/yunfanjiasu
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.yfcache.com"
+- "+.yfcalc.com"
+- "+.yfcdn.net"
+- "+.yfcloud.com"
+- "+.yfdts.net"
+- "+.yfp2p.net"
+- "+.yfscdn.net"
+- "+.yunfancdn.com"

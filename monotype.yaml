@@ -1,0 +1,21 @@
+# NAME: monotype
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/monotype
+# COUNT: 14
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bitstream.com"
+- "+.fontbook.com"
+- "+.fontexplorerx.com"
+- "+.fonts.com"
+- "+.fonts.net"
+- "+.fontshop.com"
+- "+.fstopimages.com"
+- "+.itcfonts.com"
+- "+.linotype.com"
+- "+.monotype.com"
+- "+.monotypeimaging.com"
+- "+.myfonts.com"
+- "+.myfonts.net"
+- "fontshop-prod-responsive-images.s3.amazonaws.com"

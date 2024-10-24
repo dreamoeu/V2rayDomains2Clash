@@ -1,0 +1,15 @@
+# NAME: hamivideo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hamivideo
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "apl-hamivideo.cdn.hinet.net"
+- "hamivideo.hinet.net"
+- "mobilelive-hamivideo.cdn.hinet.net"
+- "pvr-hamivideo.cdn.hinet.net"
+- "scc.ott.hinet.net"
+- "static-hamivideo.cdn.hinet.net"
+- "tvcastlive-hamivideo.cdn.hinet.net"
+- "weblive-hamivideo.cdn.hinet.net"

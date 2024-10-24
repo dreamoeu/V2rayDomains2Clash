@@ -1,0 +1,20 @@
+# NAME: adguard
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/adguard
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.adguard-dns.com"
+- "+.adguard-dns.io"
+- "+.adguard-vpn.com"
+- "+.adguard-vpn.online"
+- "+.adguard.app"
+- "+.adguard.com"
+- "+.adguard.info"
+- "+.adguard.io"
+- "+.adguard.org"
+- "+.adguardvpn.com"
+- "+.adtidy.net"
+- "+.adtidy.org"
+- "+.agrd.io"

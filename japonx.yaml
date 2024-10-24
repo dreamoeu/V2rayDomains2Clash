@@ -1,0 +1,11 @@
+# NAME: japonx
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/japonx
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.x18r.co"
+- "+.x18r.com"
+- "+.z18r.co"
+- "+.z18r.com"

@@ -1,0 +1,23 @@
+# NAME: dmm
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/dmm
+# COUNT: 16
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bluekai.com"
+- "+.dmm-extension.com"
+- "+.dmm.co.jp"
+- "+.dmm.com"
+- "+.dmmapis.com"
+- "+.dmmrex.com"
+- "+.fout.jp"
+- "+.gmossp-sp.jp"
+- "+.i-mobile.co.jp"
+- "+.im-apps.net"
+- "+.impact-ad.jp"
+- "+.ladsp.com"
+- "+.microad.co.jp"
+- "+.microad.jp"
+- "+.socdm.com"
+- "api-p.videomarket.jp"

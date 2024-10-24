@@ -1,0 +1,10 @@
+# NAME: gog
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/gog
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.gog-statics.com"
+- "+.gog.com"
+- "gog.qtlglb.com"

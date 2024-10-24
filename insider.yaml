@@ -1,0 +1,23 @@
+# NAME: insider
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/insider
+# COUNT: 16
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.businessinsider.co.za"
+- "+.businessinsider.com"
+- "+.businessinsider.com.au"
+- "+.businessinsider.com.pl"
+- "+.businessinsider.de"
+- "+.businessinsider.es"
+- "+.businessinsider.fr"
+- "+.businessinsider.in"
+- "+.businessinsider.jp"
+- "+.businessinsider.mx"
+- "+.businessinsider.my"
+- "+.businessinsider.nl"
+- "+.businessinsider.sg"
+- "+.insider-intelligence.com"
+- "+.insider.com"
+- "+.insiderintelligence.com"

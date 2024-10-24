@@ -1,0 +1,15 @@
+# NAME: pixiv
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/pixiv
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ads-pixiv.net"
+- "+.booth.pm"
+- "+.fanbox.cc"
+- "+.pixiv.co.jp"
+- "+.pixiv.me"
+- "+.pixiv.net"
+- "+.pixiv.org"
+- "+.pximg.net"

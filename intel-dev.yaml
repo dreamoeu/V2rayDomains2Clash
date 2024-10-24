@@ -1,0 +1,18 @@
+# NAME: intel-dev
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/intel-dev
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.01.org"
+- "+.acpica.com"
+- "+.clearlinux.org"
+- "+.hyperscan.io"
+- "+.intellinuxgraphics.com"
+- "+.intellinuxgraphics.net"
+- "+.oneapi.com"
+- "+.openvinotoolkit.org"
+- "+.ospray.net"
+- "+.ospray.org"
+- "+.snap-telemetry.io"

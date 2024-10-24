@@ -1,0 +1,9 @@
+# NAME: javwide
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/javwide
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.javwide.com"
+- "+.javwide.tv"

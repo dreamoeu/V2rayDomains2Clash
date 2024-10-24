@@ -1,0 +1,14 @@
+# NAME: ubisoft
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ubisoft
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ubi.com"
+- "+.ubisoft.com"
+- "+.ubisoftconnect.com"
+- "+.uplay.com"
+- "ubisoft-orbit-savegames.s3.amazonaws.com"
+- "ubisoft-uplay-savegames.s3.amazonaws.com"
+- "ubistatic3-a.akamaihd.net"

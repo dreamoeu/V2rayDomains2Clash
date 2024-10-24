@@ -1,0 +1,15 @@
+# NAME: soundofhope
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/soundofhope
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bayvoice.net"
+- "+.ozvoice.org"
+- "+.sohcradio.com"
+- "+.sohfrance.org"
+- "+.soundofhope.eu"
+- "+.soundofhope.kr"
+- "+.soundofhope.org"
+- "+.wanokokorosoh.com"

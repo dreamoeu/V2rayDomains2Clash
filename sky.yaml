@@ -1,0 +1,18 @@
+# NAME: sky
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sky
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.sky"
+- "+.sky.com"
+- "+.skyassets.com"
+- "+.skyoceanrescue.com"
+- "+.skyoceanrescue.de"
+- "+.skyoceanrescue.it"
+- "+.skysports.com"
+- "+.skysports.fr"
+- "+.skysports.ie"
+- "+.skysportsonline.com"
+- "+.skysportsracing.com"

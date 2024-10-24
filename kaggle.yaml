@@ -1,0 +1,11 @@
+# NAME: kaggle
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kaggle
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.kaggle.com"
+- "+.kaggle.io"
+- "+.kaggle.net"
+- "+.kaggleusercontent.com"

@@ -1,0 +1,14 @@
+# NAME: google-play
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/google-play
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.googleplay.com"
+- "+.play-fe.googleapis.com"
+- "+.play-games.googleusercontent.com"
+- "+.play-lh.googleusercontent.com"
+- "+.play.google.com"
+- "+.play.googleapis.com"
+- "+.xn--ngstr-lra8j.com"

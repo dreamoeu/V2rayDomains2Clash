@@ -1,0 +1,11 @@
+# NAME: taylorfrancis
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/taylorfrancis
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.tandf.co.uk"
+- "+.tandfonline.com"
+- "+.taylorandfrancis.com"
+- "+.taylorfrancis.com"

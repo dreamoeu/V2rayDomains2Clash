@@ -1,0 +1,15 @@
+# NAME: hooligapps
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hooligapps
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.cuntempire.com"
+- "+.cuntwars.com"
+- "+.dirtyleague.com"
+- "+.faptitans.com"
+- "+.hooligapps.com"
+- "+.slotbitches.com"
+- "+.smutstone.com"
+- "+.townofsins.com"

@@ -1,0 +1,9 @@
+# NAME: nist
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nist
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.nist.gov"
+- "+.time.gov"

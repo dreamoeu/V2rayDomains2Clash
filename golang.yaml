@@ -1,0 +1,15 @@
+# NAME: golang
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/golang
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.go-lang.com"
+- "+.go-lang.net"
+- "+.go-lang.org"
+- "+.go.dev"
+- "+.godoc.org"
+- "+.golang.com"
+- "+.golang.net"
+- "+.golang.org"

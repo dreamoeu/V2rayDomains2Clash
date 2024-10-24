@@ -1,0 +1,16 @@
+# NAME: pixnet
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/pixnet
+# COUNT: 9
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.pimg.tw"
+- "+.pixanalytics.com"
+- "+.pixfs.net"
+- "+.pixinsight.com.tw"
+- "+.pixnet.cc"
+- "+.pixnet.net"
+- "+.pixnet.pro"
+- "+.pixnet.tw"
+- "+.pixplug.in"

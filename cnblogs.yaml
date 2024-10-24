@@ -1,0 +1,14 @@
+# NAME: cnblogs
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cnblogs
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.blogjava.net"
+- "+.cnblogs.com"
+- "+.cnitblog.com"
+- "+.cnweblog.com"
+- "+.cppblog.com"
+- "+.phpweblog.net"
+- "+.teachblog.net"

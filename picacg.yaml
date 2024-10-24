@@ -1,0 +1,17 @@
+# NAME: picacg
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/picacg
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bikaa.xyz"
+- "+.bikac.xyz"
+- "+.bikaios.xyz"
+- "+.manhuabika.com"
+- "+.picacgp.com"
+- "+.picacgy.com"
+- "+.picacn.xyz"
+- "+.picacomic.com"
+- "+.picacomic.xyz"
+- "+.wikawika.xyz"

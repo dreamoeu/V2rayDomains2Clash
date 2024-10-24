@@ -1,0 +1,10 @@
+# NAME: mcdonalds
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mcdonalds
+# COUNT: 3
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.4008-517-517.cn"
+- "+.mcd.cn"
+- "+.mcdonalds.com.cn"

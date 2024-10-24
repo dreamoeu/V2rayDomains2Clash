@@ -1,0 +1,14 @@
+# NAME: google-trust-services
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/google-trust-services
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "c.pki.goog"
+- "crl.pki.goog"
+- "crls.pki.goog"
+- "i.pki.goog"
+- "o.pki.goog"
+- "ocsp.pki.goog"
+- "pki-goog.l.google.com"

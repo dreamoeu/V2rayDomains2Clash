@@ -1,0 +1,12 @@
+# NAME: cygames
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cygames
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.cygames.co.jp"
+- "+.cygames.jp"
+- "+.umamusume.akamaized.net"
+- "+.worldflipper.akamaized.net"
+- "+.worldflipper.jp"

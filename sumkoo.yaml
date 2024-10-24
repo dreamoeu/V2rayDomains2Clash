@@ -1,0 +1,17 @@
+# NAME: sumkoo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sumkoo
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.gongqingyun.cn"
+- "+.jzfz.net"
+- "+.sumkoo.cn"
+- "+.sumkoo.com"
+- "+.sumkoo.net"
+- "+.veeqi.net"
+- "+.wenmingban.com"
+- "+.zhiyuanhe.cn"
+- "+.zhiyuanyun.com.cn"
+- "+.zyhe.com.cn"

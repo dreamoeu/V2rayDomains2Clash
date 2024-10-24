@@ -1,0 +1,15 @@
+# NAME: shopify
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/shopify
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.myshopify.com"
+- "+.shop.app"
+- "+.shopify.com"
+- "+.shopify.dev"
+- "+.shopifycdn.com"
+- "+.shopifycloud.com"
+- "+.shopifystatus.com"
+- "+.shopifysvc.com"

@@ -1,0 +1,17 @@
+# NAME: category-enterprise-query-platform-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-enterprise-query-platform-cn
+# COUNT: 10
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.aiqicha.baidu.com"
+- "+.hongdunwang.com.cn"
+- "+.jindidata.com"
+- "+.qcc.com"
+- "+.qichacha.com"
+- "+.qichamao.com"
+- "+.qixin.com"
+- "+.qyyjt.cn"
+- "+.tianyancha.com"
+- "+.x315.com"

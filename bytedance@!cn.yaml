@@ -1,0 +1,24 @@
+# NAME: bytedance
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bytedance
+# COUNT: 17
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.byteoversea.com"
+- "+.coze.com"
+- "+.ibytedtos.com"
+- "+.ibyteimg.com"
+- "+.muscdn.com"
+- "+.musical.ly"
+- "+.tik-tokapi.com"
+- "+.tiktok.com"
+- "+.tiktokcdn-us.com"
+- "+.tiktokcdn.com"
+- "+.tiktokd.net"
+- "+.tiktokd.org"
+- "+.tiktokv.com"
+- "+.tiktokv.us"
+- "+.tiktokw.us"
+- "+.ttwstatic.com"
+- "p16-tiktokcdn-com.akamaized.net"

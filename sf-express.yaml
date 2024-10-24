@@ -1,0 +1,18 @@
+# NAME: sf-express
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sf-express
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.feng1.com"
+- "+.rongechain.com"
+- "+.sf-airlines.com"
+- "+.sf-cityrush.com"
+- "+.sf-express.com"
+- "+.sf-financial.com"
+- "+.sf-saas.com"
+- "+.sf-tech.com.cn"
+- "+.sfcar.hk"
+- "+.sffix.cn"
+- "+.sfgy.org"

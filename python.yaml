@@ -1,0 +1,13 @@
+# NAME: python
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/python
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.pycon.org"
+- "+.pypa.io"
+- "+.pypi.io"
+- "+.pypi.org"
+- "+.python.org"
+- "+.pythonhosted.org"

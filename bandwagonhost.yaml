@@ -1,0 +1,14 @@
+# NAME: bandwagonhost
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bandwagonhost
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.bandwagonhost.com"
+- "+.bwh1.net"
+- "+.bwh8.net"
+- "+.bwh81.net"
+- "+.bwh88.net"
+- "+.bwh89.net"
+- "+.bwhstatus.com"

@@ -1,0 +1,26 @@
+# NAME: msn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/msn
+# COUNT: 19
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.microsoftnews.cc"
+- "+.microsoftnews.cn"
+- "+.microsoftnews.com"
+- "+.microsoftnews.net"
+- "+.microsoftnews.org"
+- "+.microsoftnewsforkids.com"
+- "+.microsoftnewsforkids.net"
+- "+.microsoftnewsforkids.org"
+- "+.microsoftnewskids.com"
+- "+.microsoftnewskids.net"
+- "+.microsoftnewskids.org"
+- "+.microsoftstart.com"
+- "+.msn.cn"
+- "+.msn.com"
+- "+.msnewskids.com"
+- "+.msnewskids.net"
+- "+.msnewskids.org"
+- "+.msnkids.com"
+- "+.start.com"

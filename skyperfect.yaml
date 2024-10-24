@@ -1,0 +1,14 @@
+# NAME: skyperfect
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/skyperfect
+# COUNT: 7
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.hominis.media"
+- "+.jsati.com"
+- "+.jsatmobile.com"
+- "+.skyperfectjsat.space"
+- "+.skyperfectv.co.jp"
+- "+.spcc-sp.com"
+- "+.sptvbroadcast.com"

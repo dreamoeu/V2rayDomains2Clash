@@ -1,0 +1,15 @@
+# NAME: mucinex
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mucinex
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.mucinex.ca"
+- "+.mucinex.cn"
+- "+.mucinex.co.nz"
+- "+.mucinex.com"
+- "+.mucinex.com.cn"
+- "+.mucinex.net"
+- "+.mucinex.tv"
+- "+.mucinexprofessional.com"

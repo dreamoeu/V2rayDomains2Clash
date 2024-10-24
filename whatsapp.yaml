@@ -1,0 +1,18 @@
+# NAME: whatsapp
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/whatsapp
+# COUNT: 11
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.wa.me"
+- "+.whatsapp-plus.info"
+- "+.whatsapp-plus.me"
+- "+.whatsapp-plus.net"
+- "+.whatsapp.cc"
+- "+.whatsapp.com"
+- "+.whatsapp.info"
+- "+.whatsapp.net"
+- "+.whatsapp.org"
+- "+.whatsapp.tv"
+- "+.whatsappbrand.com"

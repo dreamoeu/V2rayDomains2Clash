@@ -1,0 +1,11 @@
+# NAME: imperialcollege
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/imperialcollege
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.ic.ac.uk"
+- "+.imperial.ac.uk"
+- "+.imperialbusiness.school"
+- "imperial.insendi.com"

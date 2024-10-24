@@ -1,0 +1,9 @@
+# NAME: nutaku
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nutaku
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.nutaku.com"
+- "+.nutaku.net"

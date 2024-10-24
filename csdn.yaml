@@ -1,0 +1,22 @@
+# NAME: csdn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/csdn
+# COUNT: 15
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.codechina.net"
+- "+.csdn.com"
+- "+.csdn.net"
+- "+.csdn.net.cn"
+- "+.csdnimg.cn"
+- "+.csto.com"
+- "+.datasea.cn"
+- "+.gitbook.cn"
+- "+.gitchat.cn"
+- "+.gitcode.com"
+- "+.gitcode.net"
+- "+.iteye.com"
+- "+.kaifayun.com"
+- "+.programmer.com.cn"
+- "+.programmer.net.cn"

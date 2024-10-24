@@ -1,0 +1,9 @@
+# NAME: applovin-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/applovin-ads
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.applovin.com"
+- "+.applvn.com"

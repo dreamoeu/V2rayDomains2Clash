@@ -1,0 +1,12 @@
+# NAME: sinopec
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sinopec
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.sinopec-usa.com"
+- "+.sinopec.com"
+- "+.sinopecgroup.com"
+- "+.sinopecnews.com.cn"
+- "+.sinopecsales.com"

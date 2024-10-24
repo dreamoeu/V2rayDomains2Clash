@@ -1,0 +1,20 @@
+# NAME: zoho
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zoho
+# COUNT: 13
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.zoho.com"
+- "+.zoho.com.au"
+- "+.zoho.eu"
+- "+.zoho.in"
+- "+.zohocdn.com"
+- "+.zohomeetups.com"
+- "+.zohomerchandise.com"
+- "+.zohopublic.com"
+- "+.zohoschools.com"
+- "+.zohostatic.com"
+- "+.zohostatic.in"
+- "+.zohouniversity.com"
+- "+.zohowebstatic.com"

@@ -1,0 +1,12 @@
+# NAME: launchpad
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/launchpad
+# COUNT: 5
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.launchpad.net"
+- "+.launchpadcontent.net"
+- "+.launchpadlibrarian.com"
+- "+.launchpadlibrarian.net"
+- "+.launchpadlibrarian.org"

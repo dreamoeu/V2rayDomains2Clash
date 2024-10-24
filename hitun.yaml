@@ -1,0 +1,9 @@
+# NAME: hitun
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hitun
+# COUNT: 2
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.hitun.io"
+- "+.xn--90wwvt03e.com"

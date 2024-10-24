@@ -1,0 +1,11 @@
+# NAME: wisekey
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/wisekey
+# COUNT: 4
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.wisecoin.com"
+- "+.wiseid.com"
+- "+.wisekey.com"
+- "+.wisekey.com.hk"

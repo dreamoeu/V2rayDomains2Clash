@@ -1,0 +1,26 @@
+# NAME: category-ai-cn
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-cn
+# COUNT: 19
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.baichuan-ai.com"
+- "+.botvip.cn"
+- "+.chatglm.cn"
+- "+.doubao.com"
+- "+.hailuoai.com"
+- "+.hunyuan.tencent.com"
+- "+.liblib.art"
+- "+.marscode.cn"
+- "+.minimaxi.com"
+- "+.moonshot.cn"
+- "+.qianwen.aliyun.com"
+- "+.rwkv.cn"
+- "+.rwkv.com"
+- "+.tiangong.cn"
+- "+.tongyi.aliyun.com"
+- "+.xinghuo.xfyun.cn"
+- "+.xingyeai.com"
+- "+.yiyan.baidu.com"
+- "+.zhipuai.cn"

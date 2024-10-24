@@ -1,0 +1,13 @@
+# NAME: mastercard
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mastercard
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.mastercard.cn"
+- "+.mastercard.com.cn"
+- "+.priceless.com.cn"
+- "+.pricelessbeijing.cn"
+- "+.pricelessbeijing.com.cn"
+- "+.travelex.com.cn"

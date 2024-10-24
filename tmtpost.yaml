@@ -1,0 +1,15 @@
+# NAME: tmtpost
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/tmtpost
+# COUNT: 8
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.72whys.com"
+- "+.chaindd.com"
+- "+.checkzeit.com"
+- "+.tigeek.net.cn"
+- "+.tivitv.com"
+- "+.tmtpost.com"
+- "+.tmtsmartlife.com"
+- "+.tmtsmartrun.com"

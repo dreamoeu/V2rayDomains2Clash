@@ -1,0 +1,13 @@
+# NAME: comodo
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/comodo
+# COUNT: 6
+# UPDATED: 2024-10-24 21:36:56
+
+payload:
+- "+.comodo.com"
+- "+.comodo.net"
+- "+.comodoca.com"
+- "+.comodoca2.com"
+- "+.comodoca3.com"
+- "+.comodoca4.com"
